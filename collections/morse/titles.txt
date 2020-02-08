@@ -1,0 +1,3575 @@
+
+
+Title index
+
+
+3-manifolds / Hempel, John, 1935- -- Princeton, N.J. : Princeton University Press, 1976.
+  * xii, 195 p.
+  * Includes bibliographical references and index.
+  * call number: QA 613 .H45 1976
+  * Manifolds (Mathematics)
+
+
+Abelian groups. Fuchs, László. -- Oxford, Pergamon Press [1960]
+  * 367 p.
+  * Includes bibliography.
+  * call number: QA 171 .F951 1960
+  * Abelian groups.
+
+
+Advanced calculus, Osgood, William F. (William Fogg), 1864-1943. -- New York, The Macmillan company, 1925.
+  * 530 p.
+  * call number: QA 303 .Os24a
+  * Calculus.
+
+
+Advances in game theory Dresher, Melvin ed. -- Princeton, Princeton University Press, 1964.
+  * p. cm.
+  * call number: QA 269 .D773
+  * Game theory -- Collected works
+
+
+Advances in the theory of Riemann surfaces; Princeton, N.J., Princeton University Press, 1971.
+  * viii, 420 p.
+  * Includes bibliographical references.; Proceedings of the 2d of a series of meetings; proceedings of the 3d are entered under Conference on Discontinuous Groups and Riemann Surfaces, University of Maryland, 1973.
+  * call number: QA 333 .A35 1971 
+  * Riemann surfaces -- Congresses.
+
+
+Aesthetic measure, Birkhoff, George David, 1884-1944. -- Cambridge, Mass., Harvard University Press, 1933.
+  * xii, [1] p., 2 l., 3-225, [1] p.
+  * call number: BH 201 .B535a
+  * Aesthetics. Art. Music -- Philosophy and aesthetics. Poetry. Proportion (Art)
+
+
+Algebra Mac Lane, Saunders, 1909- -- New York, Macmillan [1967]
+  * xix, 598 p.
+  * Bibliography: p. 575-576.
+  * call number: QA 266 .M254 
+  * Algebra, Abstract.
+
+
+Algebra Faith, Carl, 1927-2014. -- Berlin, Springer-Verlag, 1973-
+  * v.
+  * Bibliography: v. 1, p. [538]-550; v. 2, p. [266]-292.; v. 1. Rings, modules, and categories.--v. 2. Ring theory.
+  * call number: QA 247 .F172
+  * Categories (Mathematics) Modules (Algebra) Rings (Algebra)
+
+
+Algebraic curves. Walker, Robert John, 1909- -- Princeton, Princeton University Press, 1950.
+  * p. cm.
+  * call number: QA 564 .W153
+  * Curves, Algebraic. Geometry, Algebraic.
+
+
+Algebraic geometry and topology; Fox, Ralph H. (Ralph Hartzler), 1913- ed. -- Princeton, Princeton University Press, 1957.
+  * p. cm.
+  * call number: QA 564 .F793
+  * Geometry, Algebraic. Lefschetz, Solomon, -- 1884-1972. Topology.
+
+
+Algebraic geometry. Lefschetz, Solomon, 1884-1972. -- Princeton, Princeton University Press, 1953.
+  * p. cm.
+  * call number: QA 564 .L522a
+  * Geometry, Algebraic.
+
+
+Algebraic topology, Lefschetz, Solomon, 1884-1972. -- New York City, American Mathematical Society, 1942.
+  * vi, 389 p.
+  * "Published with aid from the Marion Reilly Fund, American Mathematical Society."; Bibliography: p. 374-380.
+  * call number: QA 611 .L522a
+  * Topologia Algebrica -- larpcal Topology.
+
+
+Algebraic topology; Massey, William S. -- New York, Harcourt, Brace & World [1967]
+  * p. cm.
+  * call number: QA 611 .M4161
+  * Algebraic topology.
+
+
+Algebren, Deuring, Max. -- Berlin, J. Springer, 1935.
+  * p. cm.
+  * call number: QA 251 .D488a
+  * Algebra, Universal.
+
+
+Algèbre / Bourbaki, Nicolas. -- Paris : Hermann, 1942-
+  * v. ;
+  * Includes various editions of some volumes.; Chapitre 1. Structures algébriques.--Chapitre 2. Algèbre linéaire.--Ch. 3. Algèbre multilinéaire.--Ch. 4. Polynômes et fractions rationelles.--Ch. 5 Corps commutatifs.--Ch. 6 Groupes et corps ordonnés.--Ch. 7. Modules sur les anneaux principaux. --Ch.8. Modules et anneaux semi-simples. --Ch. 9. Formes sesquilinéaires et formes quadratiques.
+  * call number: QA 155 .B682
+  * Algebra.
+
+
+Algèbre / Bourbaki, Nicolas. -- Paris : Hermann, c1962-
+  * v. :
+  * Includes indexes.; Chapitre 1. Structures algébriques.--Chapitre 2. Algèbre linéaire.
+  * call number: QA 155 .B682 1962
+  * Algebra.
+
+
+Algèbre commutative. Bourbaki, Nicolas. -- Paris, Hermann [1961-67]
+  * 7 pts. in 4.
+  * Ch. 1. Modules plats -- ch. 2. Localisation -- ch. 3. Graduations, filtrations et topologies -- ch. 4. Idéaux premiers associés et décomposition primaire -- ch. 5. Entiers -- ch. 6. Valuations -- ch. 7. Diviseurs.
+  * call number: QA 251.3 .B6813 1961 
+  * Algebra, Universal.
+
+
+Algèbre. Dubreil, Paul. -- Paris, Gauthier-Villars, 1954-
+  * v.
+  * t. 1. Équivalences, opérations groupes, anneaux, corps.
+  * call number: QA 155 .D853 1954
+  * Algebra.
+
+
+Analysis I. Lang, Serge, 1927- -- Reading, Mass., Addison-Wesley Pub. Co. [1968].
+  * xi, 460 p.
+  * Rev. ed. published as: Undergraduate analysis. 1983.
+  * call number: QA 300 .L27 
+  * Mathematical analysis.
+
+
+Analysis II. Lang, Serge, 1927- -- Reading, Mass., Addison-Wesley Pub. Co. [1969]
+  * xi, 476 p.
+  * Bibliography: p. 469-470.
+  * call number: QA 300 .L271
+  * Mathematical analysis.
+
+
+Analysis situs, Veblen, Oswald, 1880-1960. -- New York, The American mathematical society, 1931.
+  * p. cm.
+  * call number: QA 611 .V49
+  * Topology.
+
+
+Analytic functions of a complex variable, Curtiss, David Raymond, 1878- -- Chicago, Ill., Pub. for the Mathematical association of America by the Open court publishing company [c1926]
+  * p. cm.
+  * call number: QA 331 .C947a
+  * Functions.
+
+
+Analytic functions of several complex variables. Siegel, C. L. (Carl Ludwig), 1896-1981. -- [Princeton Institute for Advanced Study] [1949?]
+  * ii, [200 leaves]
+  * call number: QA 331 .Si15
+  * Functions of complex variables.
+
+
+Analytic functions, Conference on Analytic Functions, Institute for Advanced Study, Princeton, N.J., 1957. -- Princeton, N.J., Princeton University Press, 1960.
+  * p. cm.
+  * On differentiable mappings / R. Nevanlinna -- Analysis in non-compact complex spaces / H. Behnke and H. Grauert -- The complex analytic structure of the space of closed Riemann surfaces / L.V. Ahlfors -- Some remarks on perturbation of structure / D.C. Spencer -- Quasiconformal mappings and Teichmüller's theorem / L. Bers -- On compact analytic surfaces / K. Kodaira -- The conformal mapping of Riemann surfaces / M. Heins -- On certain coefficients of univalent functions / J.A. Jenkins.
+  * call number: QA 331 .C7481
+  * Functional analysis -- Congresses. Functions of complex variables -- Congresses.
+
+
+The analytical foundations of celestial mechanics. Wintner, Aurel, 1903-1958. -- Princeton, N.J., Princeton university press, 1941.
+  * xii, 448 p.
+  * call number: QB 351 .W737a 
+  * Celestial mechanics.
+
+
+Analytische Geometrie. Blaschke, Wilhelm, 1885-1962. -- Wolfenbüttel, Wolfenbütteler Verlagsanstalt, 1948.
+  * 152 p.
+  * call number: QA 551 .B612
+  * Geometry, Analytic.
+
+
+Archibald Henderson / [Chapel Hill, N.C. : s.n., 1939?]
+  * 58 p., [3] leaves of plates :
+  * Autograph presentation copy to Marston Morse from Archibald Henderson.; "Of this volume, two hundred and fifty copies have been printed, and no copies are for sale."; A cosmopolitan villager / G.W. Johnson -- The Shaw-Henderson Festival -- Fifty tributes : from writers, educators, scientists, poets.
+  * call number: PR 5366 .H3 A75
+  * Henderson, Archibald, -- 1877-1963. -- Bernard Shaw : playboy and prophet.
+
+
+Arithmetical functions Chandrasekharan, K. (Komaravolu), 1920- -- Berlin, Springer-Verlag, 1970.
+  * xi, 231 p.
+  * Bibliography: p. [229]
+  * call number: QA 246 .C47
+  * Arithmetic functions.
+
+
+Aspects of the calculus of variations. Lewy, Hans, 1904-1945. -- Berkeley, Calif., University of California Press, 1939.
+  * vi, 96 p.
+  * Reproduced from type-written copy.; Bibliography: p. 24.
+  * call number: QA 315 .L59a
+  * Calculus of variations.
+
+
+Automorphic forms on Adele groups / Gelbart, Stephen S., 1946- -- Princeton, N.J. : Princeton University Press, 1975.
+  * x, 267 p. ;
+  * "Expanded from notes mimeographed at Cornell in May of 1972 and entitled Automorphic forms and representations of Adele groups."; Bibliography: p. 260-263.; Includes index.
+  * call number: QA 171 .G39 1975
+  * Automorphic forms. Linear algebraic groups. Representations of groups.
+
+
+Balistique extérieure, Bouffard, Jean, scientist. -- Paris, Hermann & Cie, 1942.
+  * 78 p., 2 l.
+  * Errata slip inserted.
+  * call number: UF 820 .B6
+  * Ballistics. Projectiles.
+
+
+Barlow's Tables of squares, cubes, square roots, cube roots and reciprocals Barlow, Peter, 1776-1862. -- London, E. & F. N. Spon; 1941.
+  * xii, 258 p.
+  * call number: QA 47 .B249b 1941 
+  * Mathematics -- Tables.
+
+
+Base physique et base mathématique de la théorie des probabilités Coculesco, Pius Servien, 1902-1953. -- Paris, Hermann & Cie, 1942.
+  * 55, [1] p.
+  * call number: QA 273 .C648
+  * Probabilities.
+
+
+Basic geometry, Birkhoff, George David, 1884-1944. -- Chicago, Scott, Foresman [1941]
+  * 294 p.
+  * "Experimental edition, Geometry, copyright, 1933, by the authors."
+  * call number: QA 455 .B535b 1941 
+  * Geometry, Plane.
+
+
+Boundary behavior of holomorphic functions of several complex variables, Stein, Elias M., 1931- -- Princeton, N.J., Princeton University Press, 1972.
+  * ix, 72 p.
+  * Bibliography: p. 70-72.
+  * call number: QA 331 .S8
+  * Harmonic functions. Holomorphic functions.
+
+
+Braids, links, and mapping class groups / Birman, Joan S., 1927- -- Princeton, N.J. : Princeton University Press, 1974.
+  * ix, 228 p. :
+  * Bibliography: p. 221-226.; Includes index.
+  * call number: QA 612.23 .B57 
+  * Braid theory. Knot theory. Representations of groups.
+
+
+Brief trigonometry; Crathorne, A. R. (Arthur Robert), 1873-1946. -- New York, H. Holt and company [c1941]
+  * v, 121 p.
+  * Appendix and errata (4 l.) inserted.
+  * call number: QA 533 .C853
+  * Logarithms. Plane trigonometry.
+
+
+Bulletin of the Institute of Mathematics, Academia Sinica. Zhong yang yan jiu yuan. Shu xue yan jiu suo. -- Taipei, Taiwan, Republic of China : Institute of Mathematics, Academia Sinica, 
+  * v. :
+  * Description based on: Vol. 6, no. 1 (June 1978).; Latest issue consulted: new ser., v. 1, no. 1 (Mar. 2006).
+  * call number: QA 1 .C4
+  * Mathematics -- Periodicals.
+
+
+Calcul des probabilités. Poincaré, Henri, 1854-1912. -- Paris, Gauthier-Villars, 1912.
+  * 333 p.
+  * At head of title: Cours de la Faculté des sciences de Paris, publiés sous les auspices de l'Association amicale des éléves et anciens eĺéves de la Faculté des sciences.
+  * call number: QA 273 .P755
+  * Probabilities.
+
+
+The calculi of Lambda-conversion. Church, Alonzo, 1903- -- Princeton, Princeton Univ. Press, 1941.
+  * ii, 77 p.
+  * call number: BC 135 .C473
+  * Logic.
+
+
+Calculus of variations Gelʹfand, I. M. (Izrailʹ Moiseevich) -- Englewood Cliffs, N.J., Prentice-Hall [1963]
+  * vii, 232 p.
+  * Bibliography: p. 227.
+  * call number: QA 315 .G316 
+  * Calculus of variations.
+
+
+Calculus of variations / Mayer, Walther, 1887-1948. -- [Princeton, N.J.] : Institute for Advanced Study, 1936.
+  * 116 leaves ;
+  * Mimeographed.
+  * call number: QA 315 .M3
+  * Calculus of variations.
+
+
+Calculus of variations and optimal control theory Hestenes, Magnus Rudolph, 1906- -- New York, Wiley [1966]
+  * xii, 405 p.
+  * Bibliography: p. 401-402.
+  * call number: QA 315 .H588
+  * Calculus of variations. Control theory.
+
+
+The calculus of variations in the large, Morse, Marston, 1892- -- New York, The American mathematical society, 1934.
+  * ix, 368 p.
+  * "The research of the writer has been oriented by a conception of what might be termed macro-analysis."--Foreword.; Bibliography: p. [359]-366.
+  * call number: QA 315 .M837c
+  * Calculus of variations.
+
+
+Calculus of variations with applications Ewing, George M. (George McNaught), 1907-1990. -- New York, W. W. Norton [1969]
+  * xii, 343 p.
+  * Bibliography: p. 331-340.
+  * call number: QA 315 .E9 
+  * Calculus of variations.
+
+
+Calculus of variations, Bliss, Gilbert Ames, 1876-1951. -- La Salle, Ill., Pub. for the Mathematical Association of America by the Open Court Pub. Co., [1944]
+  * xiii, 189 p.
+  * "A list of references" p. 180-181.
+  * call number: QA 315 .B619c
+  * Calculus of variations.
+
+
+Calculus, Sherwood, George Eulas Foster, 1883- -- Englewood Cliffs, [N. J.] Prentice-Hall, 1954.
+  * 579 p.
+  * call number: QA 303 .S54 1954
+  * Calculus.
+
+
+Calculus. Moise, Edwin E. -- Reading, Mass., Addison-Wesley Pub. Co. [1966-67]
+  * 2 v.
+  * call number: QA 303 .M712 
+  * Calculus
+
+
+The Cambridge colloquium, American Mathematical Society. Colloquium (8th : 1916 : Cambridge) -- New York, American Mathematical Society, 1918-1922.
+  * 2 v.
+  * pt. 1. Functionals and their applications; selected topics, including integral equations, by G. C. Evans.- pt. 2. Analysis situs, by O. Veblen.
+  * call number: QA 431 .A65 1916
+  * Functional equations. Integral equations. Topology.
+
+
+Celestial mechanics / Pollard, Harry, 1919- -- [Washington] : Mathematical Association of America, c1976.
+  * x, 134 p. :
+  * " ... a corrected version of Chapters I-III of [the author's] Mathematical introduction to celestial mechanics ... "; Includes bibliographical references and index.
+  * call number: QB 351 .P78
+  * Celestial mechanics -- Mathematics.
+
+
+Centenaire de la naissance de Émile Picard. 
+  * 108 p.
+  * call number: QA 29 .P68 C4
+  * Picard, Emile, -- 1856-1941.
+
+
+Characteristic classes / Milnor, John W. (John Willard), 1931- -- [Princeton, N.J. : Princeton University], 1962.
+  * 77 leaves :
+  * Photocopy of typescript.
+  * call number: QA 613.618 .M541
+  * Characteristic classes.
+
+
+Characteristic classes, Milnor, John W. (John Willard), 1931- -- Princeton, N.J., Princeton University Press, 1974.
+  * vii, 330 p.
+  * Bibliography: p. 315-324.
+  * call number: QA 613.618 .M54
+  * Characteristic classes.
+
+
+The classical groups, Weyl, Hermann, 1885-1955. -- Princeton, N.J., Princeton university press; [1946]
+  * xiii, 320 p.
+  * "Second edition, with supplement."; Bibliography: p. 308-315.
+  * call number: QA 385 .W54 1946
+  * Continuous groups. Group theory.
+
+
+Classics in logic; Runes, Dagobert D. (Dagobert David), 1902- ed. -- New York, Philosophical Library [1962]
+  * 818 p.
+  * call number: BC 6 .R941
+  * Logic -- Collections.
+
+
+Cluster sets. Norshiro, Kiyoshi, 1906- -- Berlin, Springer, 1960.
+  * vi, 135 p.
+  * call number: QA 248 .N897
+  * Analytic functions. Cluster set theory. Conformal mapping.
+
+
+Cohomology operations; Steenrod, Norman Earl, 1910-1971. -- Princeton, N.J., Princeton University Press, 1962.
+  * 138 p.
+  * Includes bibliography.
+  * call number: QA 611 .St321
+  * Homology theory.
+
+
+Collected mathematical papers. Birkhoff, George David, 1884-1944. -- New York, American Mathematical Society, 1950.
+  * 3 v.
+  * call number: QA 3 .B535 1950
+  * Birkhoff, George David, -- 1884-1944. Collected works of mathematicians. -- local
+
+
+Collected papers / Morse, Marston, 1892- -- Singapore : World Scientific, c1987.
+  * 6 v. (xlix, 3516 p.) :
+  * "Marston Morse and his mathematical works" / by Raoul Bott (v. 1, p. xi-xlix) reprinted from Bulletin, new series, of the American Mathematical Society, v. 3, no. 3, November 1980.; "Bibliography of the publications of Marston Morse": v. 6, p. 3503-3516.
+  * call number: QA 3 .M7142 1987
+  * Collected works of mathematicians. -- local Global analysis (Mathematics) Mathematics. Morse, Marston, -- 1892- Morse, Marston, -- 1892- -- Bibliography. Topology.
+
+
+Colloque consacré à la théorie des probabilités Paris, Hermann & cie, 1938-39.
+  * 8 v.
+  * Contributions in English, French and German.; --1. ptie. Conférences d'introduction. Introduction par m. R. Wavre. Allocation par m. M. Fréchet. Trois conférences par M. Fréchet, W. Heisenberg et G. Pólya.--2. ptie. Les fondements du calcul des probabilités, par mm. P. Cantelli, W. Feller, M. Fréchet, R. de Misès, J. F. Steffensen et A. Wald.--3. ptie. Les sommes et les fonctions de variables aléatoires, par mm. H. Cramér, P. Lévy et R. de Misès.--4. ptie. Le principe ergodique et les probabilités en chaîne, par mm. Hopf, B. Hostinsky, O. Onicescu [et] V. Romanovsky.--5. ptie. Les fonctions aléatoires, par mm. S. Bernstein, E. Slutsky [et] H. Steinhaus.--6. ptie. Conceptions diverses, par mm. B. Finetti, V. Glivenko [et] G. Neymann.--7. ptie. La statistique mathématique, par mm. E. Dodd, C. Jordan [et] N. Obrechkoff.--8. ptie. Compte rendu critique du colloque de Genève sur la théorie des probabilités, par B. Finetti.
+  * call number: QA 273 .C698
+  * Mathematics. Probabilities.
+
+
+Comparison and oscillation theory of linear differential equations Swanson, Charles Andrews, 1929- -- New York, Academic Press, 1968.
+  * viii, 227 p.
+  * Bibliography: p. 213-222.
+  * call number: QA 372 .S92
+  * Differential equations, Linear -- Numerical solutions.
+
+
+Complex function theory. Heins, Maurice, 1915- -- New York, Academic Press, 1968.
+  * xv, 416 p.
+  * Bibliography: p. 394-399.
+  * call number: QA 331 .H4115
+  * Functions of complex variables.
+
+
+Composition methods in homotopy groups of spheres. Toda, Hiroshi, 1928- -- Princeton, N. J., Princeton Univerisity Press, 1962.
+  * 193 p.
+  * call number: QA 611 .T633
+  * Homotopy theory. Sphere.
+
+
+Conferenze di geometria : Blaschke, Wilhelm, 1885-1962. -- Messina : Editrice Universitaria, [1950?]
+  * 102 p. ;
+  * Errata: p. 99.
+  * call number: QA 649 .B3
+  * Geometry, Riemannian.
+
+
+Conformal representation, Carathéodory, Constantin, 1873-1950. -- Cambridge [Eng.] the University press, 1932.
+  * viii, 105, [1] p.
+  * "This little book is the outcome of lectures which I have given at various times and at different places ... The original manuscript, written in German, has been translated by Mr. B. M. Wilson ... and by Miss Margaret Kennedy."; Includes bibliographical references : p. 103-105.
+  * call number: QA 360 .C176c En36
+  * Functions. Geometry, Non-Euclidean. Surfaces, Representation of.
+
+
+The consistency of the axiom of choice and of the generalized continuum-hypothesis with the axioms of set theory. Gödel, Kurt. -- Princeton, N.J. University Press 1940
+  * 66 p.
+  * call number: QA 9 .G542
+  * Logic, Symbolic and mathematical Mathematics -- Philosophy
+
+
+Continuous geometry. Von Neumann, John, 1903-1957. -- Princeton, N.J., Princeton University Press, 1960.
+  * 299 p.
+  * call number: QA 471 .V896c 1960 
+  * Continuous groups. Geometry, Projective. Topology.
+
+
+Continuous model theory, Chang, Chen Chung, 1927- -- Princeton, Princeton University Press, 1966.
+  * xii, 165 p.
+  * call number: QA 9 .C456 
+  * Logic, Symbolic and mathematical.
+
+
+Contributions to analysis: New York, Academic Press, 1974.
+  * xvii, 441 p.
+  * Includes bibliographies.
+  * call number: QA 300 .C64
+  * Bers, Lipman. Mathematical analysis.
+
+
+Contributions to function theory. International Colloquium of Function Theory, Bombay, 1960. -- Bombay, Tata Institute of Fundamental Research [1960]
+  * xii, 231 p.
+  * Includes bibliographies.
+  * call number: QA 331 .I56 1960 
+  * Functions.
+
+
+Contributions to the calculus of variations, 1930- University of Chicago. Department of Mathematics. -- Chicago, Ill., The University of Chicago press [1931-
+  * v.
+  * call number: QA 315 .C432uc
+  * Calculus of variations. Dissertations, Academic -- United States -- Collections.
+
+
+Contributions to the theory of games. Princeton, N.J. ; Princeton University Press, 1950-1959.
+  * 4 v.
+  * call number: QA 269 .K96
+  * Game theory -- Collected works.
+
+
+Contributions to the theory of nonlinear oscillations Lefschetz, Solomon, 1884-1972 ed. -- Princeton, Princeton University Press, 1950-
+  * v. <1-5 >
+  * Includes bibliographies.
+  * call number: QA 871 .L522
+  * Oscillations.
+
+
+Contributions to the theory of partial differential equations Bers, Lipman, ed. -- Princeton, Princeton University Press, 1954.
+  * v, 257 p.
+  * call number: QA 371 .B46
+  * Differential equations, Partial.
+
+
+Contributions to the theory of Riemann surfaces; Ahlfors, Lars V. (Lars Valerian), 1907-1996. -- Princeton, N.J., Princeton University Press, 1953.
+  * v, 264 p.
+  * call number: QA 333 .Ah48
+  * Riemann surfaces.
+
+
+Convergence and uniformity in topology, Tukey, John W. (John Wilder), 1915-2000. -- Princeton, Princeton University Press; [c1940].
+  * 2 p. l., iii-ix, 90 p.
+  * "Lithoprinted."; "In large part this material is drawn from my doctor's thesis (Princeton University, 1939)"-Introd.; Bibliography: p. 87-88.
+  * call number: QA 611 .T819c
+  * Topology.
+
+
+Convex analysis, Rockafellar, R. Tyrrell, 1935- -- Princeton, N.J., Princeton University Press, 1970.
+  * xviii, 451 p.
+  * Bibliography: p. 433-446.
+  * call number: QA 643 .R6 
+  * Convex domains. Mathematical analysis.
+
+
+The convolution transform, Hirschman, I. I. (Isidore Isaac), 1922-1990. -- Princeton, Princeton University Press, 1955.
+  * 268 p.
+  * call number: QA 601 .H669
+  * Transformations (Mathematics)
+
+
+Cours d'analyse infinitésimale La Vallée Poussin, Charles Jean de, 1866- -- 
+  * v.
+  * call number: QA 300 .L382c 1914 
+  * Calculus.
+
+
+Cours d'analyse mathématique. Valiron, Georges, 1884- -- Paris, Masson, 1942-45.
+  * 2 v.
+  * v. 1. Théorie des fonctions -- v. 2. Équations fonctionelles ; applications.
+  * call number: QA 300 .V238
+  * Calculus. Functions.
+
+
+Cours de géométrie différentielle locale. Favard, Jean, 1902-1965. -- Paris, Gauthier-Villars, 1957.
+  * 553 p.
+  * Bibliography: p. [546]
+  * call number: QA 641 .F272
+  * Geometry, Differential.
+
+
+A course in mathematical analysis / Goursat, Edouard, 1858-1936. -- Boston : Ginn, [1904-17]
+  * 2 v. in 3
+  * Vol. 2 translated by Earle Raymond Hedrick and Otto Dunkel, published in two parts.
+  * call number: QA 303 .G744c En36
+  * Calculus
+
+
+Critical point theory in global analysis and differential topology; Morse, Marston, 1892- -- New York, Academic Press, 1969.
+  * xii, 389 p.
+  * Bibliography: p. 380-385.
+  * call number: QA 612 .M6
+  * Critical point theory (Mathematical analysis) Differential topology. Global analysis (Mathematics)
+
+
+Curvature and Betti numbers, Yano, Kentarō, 1912-1993. -- Princeton, Princeton University Press, 1953.
+  * 190 p.
+  * call number: QA 645 .Y17
+  * Curvature. Geometry, Differential.
+
+
+Curvature and homology. Goldberg, Samuel I. -- New York, Academic Press, 1962.
+  * 315 p.
+  * call number: QA 645 .G618 
+  * Curvature. Homology theory. Riemann surfaces.
+
+
+Cálculo vectorial : Monteiro de Camargo, Jose Octavio. -- São Paulo : Renascênça, 1946.
+  * xiv, 164 p. ;
+  * Includes bibliographical footnotes and index.
+  * call number: QA 261 .M6
+  * Vector analysis.
+
+
+Das Schloss zu Münster : Beisenkötter, Gertrud. -- Münster : Aschendorff, 1952.
+  * 38 p., [8] leaves of plates :
+  * call number: DD 901 .M696 B4 1952
+  * Münster in Westfalen (Germany) -- Palaces.
+
+
+A decision method for elementary algebra and geometry Tarski, Alfred, 1901-1983. -- Santa Monica, Calif., Rand Corporation, 1948.
+  * iii, 60 p.
+  * Project rand, R-109; Bibliography: p. 59-60.
+  * call number: QA 71 .T177
+  * Algebra, Abstract. Geometry. Logic, Symbolic and mathematical.
+
+
+Degree of approximation by polynomials in the complex domain / Sewell, W. E. (Walter Edwin) -- Princeton : Princeton University Press, 1942.
+  * 2 p. l., iii-ix, 236 p. :
+  * call number: QA 281 .Se89d
+  * Numerical analysis. Polynomials.
+
+
+Degrees of unsolvability. Sacks, Gerald E. -- Princeton, N.J., Princeton University Press, 1963.
+  * ix, 174 p.
+  * call number: QA 248.5 .S121 
+  * Recursive functions.
+
+
+Differential analysis; International Colloquium on Differential Analysis (1964 : Bombay, India) -- [London] Published [by] Oxford University Press, 1964.
+  * viii, 253 p.
+  * Sponsored by the International Mathematical Union, the Sir Dorabji Tata Trust, and the Tata Institute of Fundamental Research.; Includes bibliographical references
+  * call number: QA 371 .I61
+  * Differential calculus.
+
+
+Differential and combinatorial topology; Cairns, Stewart S. (Stewart Scott), ed. -- Princeton, N.J., Princeton University Press, 1965.
+  * vi, 265 p.
+  * "The symposium ... was held at the Institute for Advanced Study, Princeton, N.J."; Includes bibliographies.; Foreword, by S.S. Cairns.--On the smoothings of triangulated and combinatorial manifolds, by N.H. Kuiper.--On the action of [theta symbol superscript n]([theta symbol pi symbol]) by W. Browder.--Critical submanifolds of the classical groups and Stiefel manifolds, by T. Frankel.--Remarks concerning spin manifolds, by J.W. Milnor.--Diffeomorphisms with many periodic points, by S. Smale.--Bowls of a non-degenerate function on a compact differentiable manifold, by M. Morse.--On higher dimensional knots, by M.A. Kervaire.--On the groups J(X) by J.F. Adams.--Morse theory, by B. Mazur.--The index theorem for homogeneous differential operators, by R. Bott.--Minimal surfaces in an Euclidean space of N dimensions, by S.-S. Chern.--On homotopy spheres of low dimension, by M.W. Hirsch.--Local properties of analytic varieties, by H. Whitney.--On infinite processes leading to differentiability in the complement of a point, by J.R. Stallings.--Sur l'homologie des variétés algébriques réelles by R. Thom.
+  * call number: QA 611 .C1361
+  * Topologie. Topology.
+
+
+Differential and integral calculus, Hulburt, Lorrain Sherman, 1858- -- New York, Longmans, Green [c1912]
+  * xviii, 481 p.
+  * call number: QA 303 .H876d 
+  * Calculus.
+
+
+Differential equations, Moulton, Forest Ray, 1872-1952. -- New York, The Macmillan company, [c1930]
+  * xv, 395 p.
+  * call number: QA 371 .M862d 
+  * Differential equations.
+
+
+Differential equations, dynamical systems, and linear algebra Hirsch, Morris W., 1933- -- New York, Academic Press [1974]
+  * xi, 358 p.
+  * Bibliography: p. [341]-342.
+  * call number: QA 372 .H5 
+  * Algebras, Linear. Differential equations.
+
+
+Differential geometry : Symposium in Pure Mathematics (3rd : 1960 : Tucson, Ariz.) -- Providence : American Mathematical Society, 1961.
+  * vii, 200 p. ;
+  * Includes bibliographies.
+  * call number: QA 641 .S967 1960
+  * Geometry, Differential -- Congresses. Topology -- Congresses.
+
+
+Differential geometry and symmetric spaces. Helgason, Sigurdur, 1927- -- New York, Academic Press, 1962.
+  * 486 p.
+  * call number: QA 641 .H454 1962
+  * Generalized spaces. Geometry, Differential.
+
+
+Differential geometry, Graustein, William C. (William Caspar), 1888-1941 -- New York, The Macmillan company, 1935.
+  * xi, 230 p.
+  * call number: QA 641 .G779d
+  * Geometry, Differential.
+
+
+Differential geometry. Guggenheimer, Heinrich W. (Heinrich Walter), 1924- -- New York, McGraw-Hill [1963]
+  * x, 378 p.
+  * call number: QA 641 .G942
+  * Geometry, Differential.
+
+
+Differential manifolds; Chern, Shiing-Shen, 1911-2004. -- 
+  * 139 l.
+  * Mathematics 243, Winter quarter 1959
+  * call number: QA 611 .C5211
+  * Manifolds (Mathematics). Topology.
+
+
+Differentialgeometrien in den Kugelräumen / Takasu, Tsurusaburo, 1890- -- Kyoto : Taigaido Pub. Co. ; 1938-1939.
+  * 2 v. ;
+  * Bd. 1. Konforme Differentialkugelgeometrie von Liouville und Möbius.--Bd. 2. Laguerresche Differentialkugelgeometrie.
+  * call number: QA 641 .T17 
+  * Geometry, Differential.
+
+
+Dimension theory, Hurewicz, Witold, 1904-1956 -- Princeton, Princeton university press; 1941.
+  * vii, 165 p.
+  * call number: QA 445 .H938d
+  * Topology.
+
+
+Dimensionstheorie, Menger, Karl, 1902-1985. -- Leipzig und Berlin, B. G. Teubner, 1928.
+  * iv, 318, [2] p.
+  * call number: QA 445 .M525d
+  * Set theory. Topology.
+
+
+Discontinuous groups and Riemann surfaces; Conference on Discontinuous Groups and Riemann Surfaces (1973 : University of Maryland). -- Princeton, N.J., Princeton University Press, 1974.
+  * ix, 443 p.
+  * Includes bibliographies.
+  * call number: QA 333 .D57 1973
+  * Discontinuous groups -- Congresses. Riemann surfaces -- Congresses.
+
+
+The discrete series of GLn over a finite field. Lusztig, George, 1946- -- Princeton, N.J., Princeton University Press, 1974.
+  * v, 99 p.
+  * Bibliography: p. 97-98.
+  * call number: QA 171 .L848
+  * Algebraic fields. Linear algebraic groups. Representations of groups.
+
+
+Disquisitiones arithmeticae / Gauss, Carl Friedrich, 1777-1855. -- New Haven, Yale University Press, 1966.
+  * xx, 472 p.
+  * Bibliography : p. vii-viii.; Translated from the 2nd ed. of 1870, edited by E. C. J. Schering.
+  * call number: QA 241 .G274 E3
+  * Number theory.
+
+
+The distribution of prime numbers / Ingham, Albert Edward. -- New York : Hafner Pub., 1971.
+  * 114 p. :
+  * "The tract is ... a companion to no. 26 of the series, 'The zeta-function of Riemann' by Prof. E. C. Titchmarsh, published in 1930, but the logical sequence of the two volumes is the reverse of the chronological order of publication." - Pref.; Reprint of 1932 ed.; Bibliography: p. [108]-114.
+  * call number: QA 246 .In4d
+  * Functions, Zeta Numbers, Prime
+
+
+Divisional reports on present tendencies in the development of mathematical teaching in Japan / Japanese National Commission on the Teaching of Mathematics. -- Tokyo : Tokyo University of Literature and Science, 1936.
+  * 174 p. ;
+  * call number: QA 14 .J3 J3
+  * Mathematics -- Study and teaching -- Japan.
+
+
+Dynamical systems / Birkhoff, George David, 1884-1944. -- Providence, R.I., American Mathematical Society, 1966.
+  * xii, 305 p. ;
+  * Revised by Jurgen Moser.; Includes bibliographical references and index.
+  * call number: QA 845 .B535d 1966
+  * Differentiable dynamical systems. Dynamics.
+
+
+Détermination des fonctions entières par interpolation, Goncharov, Vasiliĭ Leonidovich, 1896- -- Paris, Hermann & cie, 1937.
+  * 48 p., 2 l.
+  * "Bibliographie" : p. [47]-48.
+  * call number: QA 320 .G586
+  * Functional analysis. Interpolation.
+
+
+Ebene Kinematik; Blaschke, Wilhelm, 1885-1962. -- Leipzig, B.G. Teubner, 1938.
+  * 56 p.
+  * "Schriftenverzeichnis": p. [53]-54.
+  * call number: QA 623 .B645
+  * Kinematic geometry.
+
+
+Einführung in die Determinantentheorie einschliesslich der Fredholmschen Determinanten / Kowalewski, Gerhard, 1876-1950. -- Berlin : deGruyter, 1925.
+  * 304 p. ;
+  * Bibliography: p. 299-301.; Includes index.
+  * call number: QA 191 .K849e 1925 
+  * Determinants.
+
+
+Einführung in die Differentialgeometrie. Blaschke, Wilhelm, 1885-1962. -- Berlin, Springer, 1950.
+  * vii, 146 p.
+  * call number: QA 641 .B612e
+  * Geometry, Differential.
+
+
+Einführung in die Theorie der analytischen Funktionen einer komplexen Veränderlichen / Burkhardt, Heinrich, 1861-1914. -- Leipzig : Veit & Comp., 1912.
+  * xii, 262 p. :
+  * Includes bibliographical footnotes and index.
+  * call number: QA 331 .B918e 1912 
+  * Functions.
+
+
+Einführung in die Theorie der Systeme von Differentialgleichungen, Kähler, Erich, 1906- -- Leipzig, B. G. Teubner, 1934.
+  * iv, 78 p., 1 l.
+  * call number: QA 371 .K3
+  * Differential equations.
+
+
+The electron, its isolation and measurement Millikan, Robert Andrews, 1868-1953. -- Chicago, University of Chicago press [1917]
+  * xii, 268 p.
+  * call number: QC 721 .M621e 1917
+  * Electrons.
+
+
+Elementary calculus, Woods, Frederick S. (Frederick Shenstone), 1864- -- Boston, Ginn and company [c1922]
+  * viii, 318 p.
+  * call number: QA 303 .W862e 1922 
+  * Calculus.
+
+
+Elementary cryptanalysis; Sinkov, Abraham, 1907- -- [New York] Random House [c1968]
+  * ix, 189 p.
+  * Bibliography: p. 184-186.
+  * call number: Z 104 .S47
+  * Ciphers. Cryptography.
+
+
+Elementary differential equations, Martin, William Ted, 1911-2004. -- Cambridge, Mass., Addison-Wesley Pub. Co. [1956]
+  * viii, 260 p.
+  * call number: QA 372 .M383 
+  * Differential equations.
+
+
+Elementary differential geometry. O'Neill, Barrett. -- New York, Academic Press [1966]
+  * viii, 411 p.
+  * call number: QA 641 .O58
+  * Geometry, Differential.
+
+
+Elementary differential topology; Munkres, James R., 1930- -- Princeton, N.J., Princeton University Press, 1963.
+  * 107 p.
+  * Includes bibliography.
+  * call number: QA 611 .M966 1963
+  * Differential topology.
+
+
+Elementary mathematics in artillery fire, Thomas, Joseph Miller, 1898- -- New York, McGraw-Hill, 1942.
+  * xi, 256 p.
+  * call number: UF 800 .T364e 
+  * Gunnery. Mathematics.
+
+
+Elementary theory of invariants / Weyl, Hermann, 1885-1955. -- [Princeton, N. J.] : The Institute for Advanced Study, [1936 or 1937]
+  * ii, 160 l. ;
+  * "Notes by Prof. Weyl and Dr. Leonard M. Blumenthal, 1935-36."
+  * call number: QA 201 .W48
+  * Invariants.
+
+
+Elementary theory of numbers. Griffin, Harriet, 1903- -- New York, McGraw-Hill, 1954.
+  * 203 p.
+  * call number: QA 241 .G875
+  * Number theory.
+
+
+Elementary theory of numbers. Sierpinski, Waclaw, 1882-1969. -- Warszawa, Państwowe Wydawn. Naukowe, 1964.
+  * 480 p.
+  * Based on the author's Teoria liczb.; Errata slip inserted.; Bibliography: p. 448-467.
+  * call number: QA 1 .M755 t.42
+  * Number theory.
+
+
+Elementary topology Hall, Dick Wick, 1912- -- New York, Wiley [1955]
+  * 303 p.
+  * call number: QA 611 .H175
+  * Topology.
+
+
+Elementary topology / Tucker, Albert W. (Albert William), 1905-1995. -- [Princeton] : Princeton University, 1936.
+  * 78 leaves :
+  * Mimeographed.
+  * call number: QA 611 .T892
+  * Topology.
+
+
+Elementary topology; Blackett, Donald W. -- New York, Academic Press [1967]
+  * ix, 224 p.
+  * Bibliography: p. 219.
+  * call number: QA 611 .B47
+  * Topology.
+
+
+An elementary treatise on Fourier's series Byerly, William Elwood, 1849-1935. -- Boston, Ginn [1893]
+  * ix, 287 p.
+  * "Historical summary" with books of reference: p.[267]-275.
+  * call number: QA 403 .B991e 
+  * Fourier series. Harmonic analysis.
+
+
+Elements of the integral calculus, Byerly, William Elwood, 1849-1935. -- Boston, Ginn & Co., [c1888].
+  * xvi, 355 p., 65-76, 32 p.
+  * A sequel to the author's work on differential calculus, chapter v of which (Integration) is here reprinted as an appendix.; "A short table of integrals", compiled by B.O. Peirce, p.[1]-28 at end has separate t.-p.
+  * call number: QA 308 .B991e
+  * Calculus, Integral. Differential equations Functions
+
+
+The enjoyment of mathematics; Rademacher, Hans, 1892-1969. -- Princeton, Princeton University Press, 1957.
+  * 204 p.
+  * "A translation from Von Zahlen und Figuren ... Chapters 15 and 28 by Herbert Zuckerman have been added to the English language edition."; A translation from Von Zahlen unf Figuren.
+  * call number: QA 95 .R127 
+  * Mathematical recreations.
+
+
+Entire holomorphic mappings in one and several complex variables / Griffiths, Phillip, 1938- -- Princeton, N.J. : Princeton University Press, 1976.
+  * x, 99 p. ;
+  * Bibliography: p. 97-99.
+  * call number: QA 331 .G753
+  * Holomorphic mappings.
+
+
+Equazioni differenziali non lineari Sansone, Giovanni, 1888-1979. -- Roma, Edizioni cremonese [1956]
+  * xix, 647 p.
+  * call number: QA 372 .S229
+  * Differential equations.
+
+
+The equidistribution theory of holomorphic curves. Wu, Hongxi, 1940- -- Princeton, N.J., Princeton University Press, 1970.
+  * xxiv, 219 p.
+  * Bibliography: p. 217.
+  * call number: QA 331 .W8
+  * Analytic functions. Functions, Meromorphic. Value distribution theory.
+
+
+Espaces vectoriels topologiques. Bourbaki, Nicolas. -- Paris, Hermann 1953-1955.
+  * 6 v. in 3
+  * Ch. 1. Espaces vectoriels topologiques sur un corps valué. -ch. 2. Ensembles convexes et espaces localement convexes. -ch. 3. Espaces d'applications linéaires continues. -ch. 4. La dualité dans les espaces vectoriels topologiques. -ch. 5. Espaces Hilbertiens (Théorie élémentaire) dictionnaire. -Fasc. de résultats.
+  * call number: QA 322 .B67 1953
+  * Topology. Vector analysis.
+
+
+Essais sur les séries trigonométriques, Salem, Raphaël. -- Paris, Hermann & cie, 1940.
+  * 1 p. l., 85 p., 1 l.
+  * "Dans ce mémoire un certain nombre, d'études sur les séries trigonométriques ... ont déja fait l'object de notes insérées aux Comptes rendus de l'Académie des sciences."--p. 1.
+  * call number: QA 404 .S163
+  * Fourier series.
+
+
+An essay on the psychology of invention in the mathematical field, Hadamard, Jacques, 1865-1963. -- Princeton, Princeton University Press, 1945.
+  * xiii, 143 p.
+  * Bibliographical foot-notes.
+  * call number: QA 9 .H117 1945
+  * Inventions. Mathematics -- Philosophy. Psychology.
+
+
+An essay toward a unified theory of special functions based upon the functional equation Truesdell, C. (Clifford), 1919- -- Princeton, Princeton Univ. Press, 1948.
+  * iv, 182 p.
+  * call number: QA 351 .T768
+  * Functional equations.
+
+
+Estimates for the [delta bar]-Neumann problem / Greiner, P. C. (Peter Charles), 1938- -- Princeton, N.J. : Princeton University Press, 1977.
+  * 194 p. ;
+  * Bibliography: p. 192-194.
+  * call number: QA 374 .G73 1977
+  * Neumann problem.
+
+
+Existence theorems for ordinary differential equations, Murray, Francis J. (Francis Joseph), 1911-1996. -- New York, New York University press, 1954.
+  * 154 p.
+  * call number: QA 371 .M962
+  * Existence theorems.
+
+
+Existence theorems in partial differential equations. Bernstein, Dorothy Lewis, 1914- -- Princeton, Princeton University Press, 1950.
+  * vii, 228 p.
+  * "Prepared for the Office of Naval Research by Engineering Research Associates, inc., under contract N6onr-240."; Bibliography: p. 217-228.
+  * call number: QA 374 .B458
+  * Differential equations, Partial. Existence theorems. Numerical calculations.
+
+
+Festschrift zur Gedächtnisfeier für Karl Weierstraus 1815-1965. Behnke, Heinrich, 1898- ed. -- Köln u. Westdeutscher Verlag, 1966.
+  * 612 p.
+  * Includes bibliographies.
+  * call number: QA 7 .B419
+  * Functions Weierstrass, Karl, -- 1815-1897.
+
+
+Finite dimensional vector spaces / Halmos, Paul R. (Paul Richard), 1916- -- Princeton, N.J., Princeton University Press, 1948.
+  * v, 196 p.
+  * call number: QA 433 .H325 1948
+  * Transformations (Mathematics) Vector analysis.
+
+
+A first course in algebra. Lennes, N. J. (Nels Johann), 1874-1951. -- New York, Macmillan, 1950 [c1942]
+  * xiii, 562 p.
+  * call number: QA 152 .L652 1942
+  * Algebra.
+
+
+A first course in the differential and integral calculus, Osgood, William F. (William Fogg), 1864-1943. -- New York, The Macmillan Co., 1909.
+  * xv, 462 p.
+  * call number: QA 303 .Os24f
+  * Calculus.
+
+
+First order mathematical logic. Margaris, Angelo. -- Waltham, Mass., Blaisdell Pub. Co. [1967]
+  * x, 211 p.
+  * Bibliography: p. 195-199.
+  * call number: QA 9 .M327
+  * Logic, Symbolic and mathematical.
+
+
+Five-place logarithms. Jones, George William, 1837-1911. -- Ithaca, N. Y., George W. Jones, publisher, 1921, c1920.
+  * 64 p.
+  * call number: QA 55 .J77 1920
+  * Logarithms.
+
+
+Flows in networks, Ford, L. R. (Lester Randolph), 1927- -- Princeton, N. J., Princeton University Press, 1962.
+  * xii, 194 p.
+  * Includes bibliographies.
+  * call number: QA 265 .F711
+  * Economics -- Mathematical models Linear programming
+
+
+Flows on homogeneous spaces / Auslander, Louis. -- Princeton, N.J., Princeton University Press, 1963.
+  * 107 p.
+  * call number: QA 611.5 .A932
+  * Topological dynamics.
+
+
+Fonctions d'intervalle non additives, Kempisty, Stefan Jan, 1892- -- Paris, Hermann & cie, 1939.
+  * 1 p.l., [5]-62 p., 1 l.
+  * "Bibliographie": p. 58-59.
+  * call number: QA 331.5 .K32
+  * Integrals, Generalized.
+
+
+Fonctions d'une variable réelle : Bourbaki, Nicolas. -- Paris : Hermann, 1949-1951.
+  * 7 v. in 2 ; 25 cm.
+  * On t.-p.: Première partie. Les structures fondamentales de l'analyse.; Includes bibliographical references and indexes.; Ch. 1. Dérivées -- ch. 2. Primitives et intégrales -- ch. 3. Fonctions élémentaires -- ch. 4. Équations différentielles -- ch. 5. Étude locale des fonctions -- ch. 6. Développements Tayloriens généralisés. Formule sommatoire d'Euler-MacLaurin -- ch. 7. La fonction gamma.
+  * call number: QA 331.5 .B734 1949
+  * Functions of real variables.
+
+
+Fonctions multivalentes, Biernacki, Mieczyslaw. -- Paris, Hermann & cie, 1938.
+  * 63 p.
+  * "Bibliographie": p. [61]-63.
+  * call number: QA 331 .B588
+  * Functions of complex variables.
+
+
+Fondamenti di calcolo delle variazioi. Tonelli, Leonida, 1885-1946. -- Bologna N. Zanichelli [1921-23]
+  * 2 v. diagrs.
+  * call number: QA 315 .T612
+  * Calculus of variations.
+
+
+Foundational essays on topological manifolds, smoothings, and triangulations / Kirby, Robion C., 1938- -- Princeton, N.J. : Princeton University Press, 1977.
+  * v, 355 p. :
+  * Bibliography: p. 339-352.; Includes index.
+  * call number: QA 613 .K57 
+  * Manifolds (Mathematics) Piecewise linear topology. Triangulating manifolds.
+
+
+Foundations of algebraic topology, Eilenberg, Samuel. -- Princeton, Princeton University Press, 1952.
+  * xv, 328 p.
+  * call number: QA 611 .Ei54
+  * Topology.
+
+
+Foundations of combinatorial topology. Pontri͡agin, L. S. (Lev Semenovich), 1908-1988. -- Rochester, N.Y., Graylock Press, 1952.
+  * 99 p.
+  * call number: QA 611 .P779fE
+  * Topology.
+
+
+Foundations of differential geometry Kobayashi, Shōshichi, 1932-2012. -- New York, Interscience Publishers, 1963-69.
+  * 2 v.
+  * call number: QA 641 .K75 
+  * Geometry, Differential. Topology.
+
+
+The foundations of differential geometry / Veblen, Oswald, 1880-1960. -- Cambridge [Eng.] The University press, 1932.
+  * ix, 96 p., 1 l.
+  * call number: QA 681 .V49f
+  * Geometry -- Foundations. Geometry, Differential. Hyperspace.
+
+
+Foundations of mechanics / Abraham, Ralph. -- Reading, Mass. : Benjamin/Cummings Pub. Co., 1978.
+  * xxii, 806 p. :
+  * "A mathematical exposition of classical mechanics with an introduction to the qualitative theory of dynamical systems and applications to the three-body problem."; Bibliography: p. 759-789.; Includes index.
+  * call number: QA 805 .A159 1978
+  * Celestial mechanics. Geometry, Differential. Mechanics, Analytic.
+
+
+Foundations of modern analysis. Dieudonné, Jean Alexandre, 1906- -- New York, Academic Press, 1960.
+  * 361 p.
+  * Includes bibliography.
+  * call number: QA 300 .D567
+  * Mathematical analysis -- Foundations.
+
+
+Foundations of potential theory. Kellogg, Oliver Dimon, 1878-1932. -- New York, Dover Publications [c1953]
+  * ix, 384 p.
+  * "An unaltered and unabridged reissue of the first edition that appeared in 1929."
+  * call number: QA 825 .K293f 1953
+  * Potential theory (Mathematics)
+
+
+Fourier analysis on local fields / Taibleson, M. H., 1929- -- Princeton, N.J. : Princeton University Press, 1975.
+  * xii, 294 p. ;
+  * Bibliography: p. 286-294.
+  * call number: QA 247 .T28 1975
+  * Algebraic fields. Fourier analysis.
+
+
+Fourier transforms in the complex domain, Paley, Raymond Edward Alan Christopher, 1907-1933. -- New York, American Mathematical Society, 1934.
+  * viii, 184 p.
+  * Bibliography: p. 179-181.
+  * call number: QA 404 .P175f
+  * Analise Harmonica -- larpcal Analise Matematica -- larpcal Exponential functions. Fourier series. Funcoes (Matematica) -- larpcal Functions of complex variables. Harmonic analysis. Integral equations.
+
+
+Fourier transforms, Bochner, S. (Salomon), 1899-1982. -- Princeton, Princeton Univ. Press, 1949.
+  * 219 p.
+  * call number: QA 404 .B631
+  * Fourier transformations.
+
+
+Fréchet curve classes / Morse, Marston, 1892-1977. -- Paris : Gauthier-Villars Éditeur, [1974]
+  * p. 291-298 ;
+  * Includes bibliographical references (p. 298).; "Tome 53-1974 (neuvième série), Journal de mathématiques pures et appliquées."; Cover title.
+  * call number: QA 322 .M67 1974
+  * Fréchet spaces.
+
+
+Functional analysis Riesz, Frigyes, 1880-1956. cn -- New York, Ungar [1955]
+  * 468 p.
+  * Translation of: Leçons d'analyse fonctionnelle.; Morse copy has notations by Morse.
+  * call number: QA 300 .R446 1953 E3
+  * Functional analysis.
+
+
+Functional operators. Von Neumann, John, 1903-1957. -- Princeton, Princeton University Press, 1950.
+  * 2 v.
+  * v. 1. Measures and integrals -- v. 2. The geometry of orthogonal spaces.
+  * call number: QA 320 .V896f 1950
+  * Functional analysis.
+
+
+Functionals of finite Riemann surfaces, Schiffer, Menahem. -- Princeton, N.J., Princeton University Press, 1954.
+  * 451 p.
+  * call number: QA 333 .Sch32f
+  * Riemann surfaces.
+
+
+The functions of mathematical physics. Hochstadt, Harry. -- New York, Wiley-Interscience [1971]
+  * xi, 322 p.
+  * call number: QA 351 .H68
+  * Functions, Special.
+
+
+Functions of several complex variables, Bochner, S. (Salomon), 1899-1982. -- 
+  * 3 pt. in 2 v.
+  * Paged continuously.; Title varies slightly. Parts 1-2 (in 1 v.) have sub-title: Introductory course in the theory of functions of real variables. Part 3, Lectures by S. Bochner ... Notes by H. W. Alexander, W. T. Martin, W. C. Randels [and] S. Wylie.; Mimeographed.
+  * call number: QA 331 .B631f
+  * Functions of a complex variable
+
+
+Fundamentals of freshman mathematics [by] C. B. Allendoerfer [and] C. O. Oakley. Allendoerfer, Carl B. (Carl Barnett), 1911-1974. -- New York, McGraw-Hill, 1959.
+  * 475 p.
+  * Includes bibliography.
+  * call number: QA 37 .AL541
+  * Mathematics.
+
+
+Fundamentals of mathematics, Richardson, Moses, 1911-1968. -- New York, The Macmillan company, 1941.
+  * xviii p., 1 l., 525 p.
+  * "Previous editions ... 1939 and 1940."; Includes bibliographical references and index.
+  * call number: QA 9 .R58 1941
+  * Mathematics.
+
+
+Fundamentals of mathematics; Richardson, Moses, 1911- -- [Brooklyn, Brooklyn College Press] 1940-
+  * v.
+  * Reproduced from type-written copy.; "References" at end of each chapter except the first.
+  * call number: QA 9 .R58 1940
+  * Logic, Symbolic and mathematical. Mathematics -- Philosophy.
+
+
+Fundamentals of the calculus. Richmond, Donald Everett, 1898- -- New York, McGraw-Hill, 1950.
+  * xi, 233 p.
+  * call number: QA 303 .R5332
+  * Calculus.
+
+
+Funktionentheorie. Knopp, Konrad, 1882-1957. -- Berlin, Göschen, 1918-1920.
+  * 2 v.
+  * v. 1. Grundlagen der allgemeinen theorie der analytischen funktionen.--v. 2. Anwendungen und weiterfuhrung der allgemeinen theorie.
+  * call number: QA 331 .K757f 1918 
+  * Functions.
+
+
+Funzioni abeliane modulari / Conforto, Fabio, 1909-1954. -- Roma : Edizioni Universitarie, 1951-
+  * v. ;
+  * At head of title: Istituto Nazionale di Alta Matematica.; Bibliography: v. 1, p. 432-444.; v. 1. Preliminari e parte gruppale. Geometria simplettica.
+  * call number: QA 345 .C6
+  * Functions, Abelian.
+
+
+Gap and density theorems, Levinson, Norman, 1912-1975. -- New York city, American mathematical society, 1940.
+  * viii, 246 p.
+  * "In many ways a companion volume" to Paley, R.E.A.C. and Wiener, N.: Fourier transforms in the complex domain, 1934.
+  * call number: QA 404 .L578g
+  * Exponential functions. Fourier series. Functions of complex variables. Harmonic analysis. Integral equations.
+
+
+General topology and its relations to modern analysis and algebra; Symposium on General Topology and Its Relations to Modern Analysis and Algebra (1st : 1961 : Prague) -- New York, Academic Press, [1963, c1962]
+  * 363 p.
+  * call number: QA 611 .S988 1961
+  * Topology -- Congresses.
+
+
+General topology. Bourbaki, Nicolas. -- Paris, Hermann; [1966]
+  * 2 v.
+  * "A translation of Éléments de mathématique, topologie générale."; "A translation of Elements de mathematique, topologie generale."
+  * call number: QA 611 .B65913 1966
+  * Topology.
+
+
+General topology. Kelley, John L. -- New York, Van Nostrand, 1955.
+  * 298 p.
+  * call number: QA 611 .K287
+  * Topology.
+
+
+Geodesics and curvature in differential geometry in the large, Rauch, Harry Ernest, 1925- -- [New York] Yeshiva University, Graduate School of Mathematical Sciences [1959?]
+  * 58 p.
+  * Bibliography: p. 57-58.
+  * call number: QA 641 .R241
+  * Curves on surfaces. Geometry, Differential. Geometry, Riemannian.
+
+
+Geodesics on surfaces of genus zero with knobs / Richmond, Donald Everett, 1898- -- 
+  * 36 leaves ;
+  * Thesis--Cornell University.
+  * call number: QA 643 .R5
+  * Curves on surfaces.
+
+
+Geometric algebra. Artin, Emil, 1898-1962. -- New York, Interscience Publishers [1957]
+  * 214 p.
+  * call number: QA 685 .A791 
+  * Algebras, Linear. Geometry, Projective.
+
+
+Geometric integration theory. Whitney, Hassler. -- Princeton, Princeton University Press, 1957.
+  * 387 p.
+  * call number: QA 312 .W617
+  * Differential forms. Integrals, Generalized.
+
+
+Geometric transformations. I͡Aglom, I. M. (Isaak Moiseevich), 1921-1988. -- [New York] Random House [1962-
+  * v.
+  * Vols. 1-2, translation of v. 1 of the original Russian ed.
+  * call number: QA 601 .I11 E3
+  * Transformations (Mathematics)
+
+
+Geometry revisited, Coxeter, H. S. M. (Harold Scott Macdonald), 1907-2003. -- [New York] Random House [1967]
+  * xiv, 193 p.
+  * Bibliography: p. 181-182.
+  * call number: QA 473 .C6
+  * Geometry, Modern.
+
+
+Global analysis: [Tokyo] University of Tokyo Press; 1969.
+  * 414 p.
+  * Includes bibliographies.
+  * call number: QA 331 .G5 
+  * Global analysis (Mathematics)
+
+
+Global variational analysis : Morse, Marston, 1892- -- Princeton, N.J. : Princeton University Press, 1976.
+  * iii, 255 p. ;
+  * Errata slip inserted.; Bibliography: p. 244-251.; Includes index.
+  * call number: QA 614.3 .M67
+  * Calculus of variations. Differentiable manifolds. Global analysis (Mathematics)
+
+
+Groupes et algèbres de Lie / Bourbaki, Nicolas. -- Paris : Hermann, c1972-
+  * v. in ;
+  * Chapitre 2. Algèbres de Lie libres -- ch. 3. Groupes de Lie -- Ch. 4. Groupes de Coxeter et systèmes de Tits -- ch. 5. Groupes engendrés par des réflexions -- ch. 6. Systèmes de racines -- ch. 7. Sous-algèbres de Cartan, éléments réguliers -- ch. 8. Algèbres de Lie semi-simples déployées.
+  * call number: QA 387 .B687 1972
+  * Lie algebras. Lie groups.
+
+
+Groupes et algèbres de Lie. Bourbaki, Nicolas. -- Paris, Hermann [1960-
+  * v.
+  * Ch. 1. Algèbres de Lie. ch. 4. Groupes de Coxeter et systèmes de Tits. ch. 5. Groupes engendrés par des réflexions. ch. 6. Systèmes de racines
+  * call number: QA 387 .B687 1960 
+  * Algebra, Abstract. Continuous groups.
+
+
+Groups and their graphs, Grossman, Israel, 1909-2006. -- [New York] Random House [1964?]
+  * vii, 195 p.
+  * Bibliography: p. 189-191.
+  * call number: QA 171 .G878 
+  * Group theory.
+
+
+Grundlagen der Atomphysik : Bauer, Hans, 1891- -- Wien : Springer-Verlag, 1945.
+  * x, 323 p. :
+  * call number: QC 173 .B326 
+  * Atoms. Wave mechanics.
+
+
+Géométrie algébrique. Godeaux, Lucien, 1887- -- Liège, Sciences et lettres, 1948-
+  * 2 v.
+  * t. 1. Transformations birationnelles. Géomtrie projective hyperspatiale -- t. 2. Géométrie sur une courbe algébrique. Géométrie algébrique du plan.
+  * call number: QA 564 .G579
+  * Geometry, Algebraic.
+
+
+Handbook of mathematical tables and formulas, Burington, Richard Stevens, 1901- comp. -- Sandusky, O., Handbook publishers, inc. [c1940]
+  * 4 p.l., 275 p.
+  * "This ... forms the appendix of Lange's Handbook of chemistry."
+  * call number: QA 47 .B917 1940
+  * Mathematics -- Tables.
+
+
+Harmonic analysis and the theory of probability. Bochner, S. (Salomon), 1899-1982. -- Berkeley, University of California Press, 1955.
+  * viii, 176 p.
+  * "Notes and references": p. 168-172.
+  * call number: QA 404 .B631h
+  * Harmonic analysis. Probabilities.
+
+
+Harmonic analysis on commutative groups with the Haar measure and the theory of characters / Raikov, D. A. -- [s.l. : s.n., 1945?]
+  * 90 leaves ;
+  * Caption title.; Translated from Russian, published as Akademiia nauk SSSR. Matematicheskii Institut. Trudy. v. 14, 1945.; Bibliography: leaves 89-90.
+  * call number: QA 403 .R3
+  * Abelian groups. Harmonic analysis.
+
+
+Higher algebra, Downey, John F. (John Florin), 1846- -- New York, American Book Co. [1901]
+  * 445 p.
+  * call number: QA 154 .D75
+  * Algebra.
+
+
+A history of mathematics in America before 1900, Smith, David Eugene, 1860-1944. -- Chicago, Ill., Pub. by the Mathematical association of America with the cooperation of the Open court publishing company [1934]
+  * x, 209 p.
+  * call number: QA 27 .Un3 Sm54h
+  * Mathematics -- History.
+
+
+A history of the second fifty years : Pitcher, Everett, 1912- -- Providence, R.I. : American Mathematical Society, 1988.
+  * viii, 346 p. :
+  * Includes index.
+  * call number: QA 1 .A52693 1988 v.1
+  * American Mathematical Society -- History.
+
+
+Hommes, formes et le nombre; Denjoy, Arnaud, 1884-1974. -- Paris, A. Blanchard, 1964.
+  * 283 p.
+  * call number: QA 27 .F8 D46 1964
+  * Mathematicians -- France. Mathematics -- France -- History.
+
+
+Homological algebra, Cartan, Henri Paul, 1904- -- Princeton, Princeton University Press, 1956.
+  * 390 p.
+  * call number: QA 611 .C241h
+  * Algebra, Homological.
+
+
+Homology theory; Vick, James W. -- New York, Academic Press [1973]
+  * xi, 237 p.
+  * Bibliography: p. 221-231.
+  * call number: QA 612.3 .V5
+  * Homology theory.
+
+
+Homotopy theory Hu, S. T. (Sze-Tsen), 1914-1999. -- New York, Academic Press, 1959.
+  * 347 p.
+  * Includes bibliography.
+  * call number: QA 611 .H861
+  * Homotopy theory.
+
+
+Hyperbolic differential equations. Leray, Jean, 1906-1998. -- [Princeton, Institute for Advanced Study, 1953?]
+  * 238 1.
+  * Bibliography: leaves 4-6.
+  * call number: QA 371 .L56
+  * Differential equations, Hyperbolic.
+
+
+Die Idee der Riemannschen Fläche. Weyl, Hermann, 1885-1955. -- Stuttgart, Teubner, 1955.
+  * 162 p.
+  * call number: QA 333 .W546 1955
+  * Riemann surfaces.
+
+
+Inequalities, Hardy, G. H. (Godfrey Harold), 1877-1947 -- Cambridge [Eng.] The University press, 1934.
+  * xii, 314 p.
+  * call number: QA 303 .H223i 
+  * Calculus.
+
+
+Integrals and operators Segal, Irving Ezra. -- New York, McGraw-Hill [c1968]
+  * xi, 308 p.
+  * Bibliography: p. 303-306.
+  * call number: QA 312 .S4
+  * Functional analysis. Integrals, Generalized.
+
+
+Integration, McShane, E. J. (Edward James), 1904- -- Princeton, Princeton University Press, 1944.
+  * viii, 392 p.
+  * call number: QA 312 .M3 1944
+  * Integrals, Generalized.
+
+
+Integration. Bourbaki, Nicolas. -- Paris, Hermann, 1952-
+  * v.
+  * Ch. 1. Inégalités de convexité. -ch. 2. Espaces de Riesz. -ch. 3. Mesures sur les espaces localement compacts. -ch. 4. Prolongement d'une mesure espaces Lp. -ch. 5. Intégration des mesures. -ch. 6. Intégration vectorielle. -ch. 7. Mesure de Haar. -ch. 8. Convolution et représentations. - ch. 9. Intégration sur les espaces topologiques séparés.
+  * call number: QA 312 .B649 1952
+  * Integrals.
+
+
+Interpolation and approximation by rational functions in the complex domain / Walsh, J. L. (Joseph Leonard), 1895-1973. -- New York City : American mathematical society, 1935.
+  * ix, 382 p. ;
+  * Includes bibliographical references (p. 367-373)
+  * call number: QA 281 .W168i
+  * Functions. Interpolation. Series, Infinite.
+
+
+Introduction au calcul tensoriel et au calcul différentiel absolu / Juvet, Gustave, 1896-1936. -- Paris, A. Blanchard, 1922.
+  * 100 p.
+  * "Bibliographie": p. [95]-100.
+  * call number: QA 311 .J884 1922
+  * Differential calculus. Vector analysis.
+
+
+Introduction to algebraic K-theory, Milnor, John W. (John Willard), 1931- -- Princeton, N.J., Princeton University Press, 1971.
+  * xiii, 184 p.
+  * Includes bibliographical references.
+  * call number: QA 251.5 .M55 1971
+  * Abelian groups. Associative rings. Functor theory.
+
+
+Introduction to analysis in the large. Morse, Marston, 1892- -- [Princeton? N. J.] Institute for Advanced Study, 1951.
+  * 160, 31 l.
+  * Reprinted Feb. 1956.; "O-P book" produced by Microfilm-Xerography by University Microfilms, Ann Arbor, Mich., 1966.
+  * call number: QA 315 .M837 1951
+  * Mathematical analysis.
+
+
+Introduction to analysis in the large. Morse, Marston, 1892-1977. -- [Princeton, N.J.] Institute for Advanced Study, 1951.
+  * 160, 31 leaves ;
+  * "Reprinted February 1956."
+  * call number: QA 315 .M837 1951a
+  * Calculus of variations.
+
+
+An introduction to differential geometry : Eisenhart, Luther Pfahler, 1876-1965. -- Princeton : Princeton University Press; 1947.
+  * x, 304 p. :
+  * Includes bibliographical references (p. 296-297) and index.
+  * call number: QA 641 .E54 1947
+  * Calculus of tensors. Geometry, Differential.
+
+
+An introduction to differential geometry, Eisenhart, Luther Pfahler, 1876-1965. -- Princeton, Princeton university press; 1940.
+  * x, 304 p.
+  * call number: QA 641 .E54 1940
+  * Calculus of tensors. Geometry, Differential.
+
+
+Introduction to ergodic theory / Sinaĭ, I͡A. G. (I͡Akov Grigorʹevich), 1935- -- Princeton, N.J. : Princeton University Press, 1976.
+  * 144 p. ;
+  * Based on a series of lectures given at the Moscow and Erevan State Universities.
+  * call number: QA 313 .S56
+  * Ergodic theory.
+
+
+Introduction to Fourier analysis on Euclidean spaces, Stein, Elias M., 1931- -- Princeton, N.J., Princeton University Press, 1971.
+  * x, 297 p.
+  * Bibliography: p. 287-294.
+  * call number: QA 403 .S81
+  * Fourier analysis. Harmonic analysis. Harmonic functions.
+
+
+Introduction to general topology, Sierpinski, Waclaw, 1882-1969. -- Toronto, The University of Toronto press, 1934.
+  * x, 238 p.
+  * A translation of v.1 (Liczby pozaksonczone) of the author's Zarys teorji mnogoeci.
+  * call number: QA 248 .Si17z En36
+  * Set theory. Topology.
+
+
+Introduction to group theory Ledermann, Walter, 1911-2009. -- New York, Barnes and Noble, 1973.
+  * vii, 176 p.
+  * Bibliography: p. 173.; Includes index.
+  * call number: QA 171 .L47 1973
+  * Group theory.
+
+
+Introduction to higher algebra. Bôcher, Maxime, 1867-1918. -- New York, Dover Publications [1964]
+  * xi, 321 p.
+  * call number: QA 154 .B631i 1964
+  * Algebra.
+
+
+Introduction to higher geometry, Graustein, William C. (William Caspar), 1888-1941 -- New York, The Macmillan company, 1930.
+  * xv, 486 p.
+  * call number: QA 445 .G779i
+  * Geometry.
+
+
+Introduction to Hilbert space and the theory of spectral multiplicity. Halmos, Paul Richard, 1914- -- New York, Chelsea Pub. Co. [c1957]
+  * 114 p.
+  * call number: QA 691 .H162 1957
+  * Hilbert space.
+
+
+An introduction to homotopy theory. Hilton, Peter, 1923-2010. -- Cambridge [Eng.] University Press, 1953.
+  * 142 p.
+  * call number: QA 611 .H566
+  * Homotopy theory.
+
+
+Introduction to knot theory, Crowell, Richard H. -- Boston, Ginn [1963]
+  * 182 p.
+  * Includes bibliography.
+  * call number: QA 614.5 .K72 C9
+  * Knot theory.
+
+
+Introduction to mathematical fluid dynamics Meyer, Richard E., 1919- -- New York, Wiley-Interscience [1971]
+  * xi, 185 p.
+  * Bibliography: p. 175-177.
+  * call number: QA 911 .M48
+  * Fluid dynamics.
+
+
+Introduction to mathematical logic. Church, Alonzo, 1903- -- Princeton, Princeton University Press, 1956-
+  * v.
+  * Vol. 1, "A revised and much enlarged edition of Introduction to mathematical logic ... which was published in 1944 as one of the Annals of mathematics studies."
+  * call number: BC 135 .C473in 
+  * Logic, Symbolic and mathematical.
+
+
+An introduction to Morse theory / Matsumoto, Yukio, 1944- -- Providence, R.I. : American Mathematical Society, c2002.
+  * xiv, 219 p. :
+  * Includes bibliographical references (p. 213-216) and index.
+  * call number: QA 331 .M442713 2002
+  * Morse theory.
+
+
+Introduction to non-linear mechanics, Krylov, N. M. (Nikolaĭ Mitrofanovich), 1879-1955. -- London, H. Milford, Oxford university press, 1943.
+  * 2 p.l., [iii]-iv p., 1 l., 105 p.
+  * call number: QA 871 .K949i En36
+  * Differential equations. Oscillations.
+
+
+Introduction to quadratic forms. O'Meara, O. T. (Onorato Timothy), 1928- -- New York, Academic Press, 1963.
+  * 342 p.
+  * Includes bibliography.
+  * call number: QA 243 .O55
+  * Forms, Quadratic.
+
+
+An introduction to the theory of automorphic functions. Ford, Lester R., 1886- -- London, G. Bell, 1915.
+  * viii, 96 p.
+  * Bibliography: p. 88-96.
+  * call number: QA 351 .F6
+  * Automorphic functions.
+
+
+An introduction to the theory of differential equations. Leighton, Walter, 1907- -- New York, McGraw-Hill, 1952.
+  * 174 p.
+  * call number: QA 371 .L533
+  * Differential equations.
+
+
+Introduction to the theory of finite groups / Ledermann, Walter, 1911-2009. -- Edinburgh : Oliver and Boyd ; 1964.
+  * ix, 174 p. :
+  * Bibliography: p. 171.
+  * call number: QA 171 .L498 1964
+  * Group theory.
+
+
+Introduction to the theory of functions of a complex variable. Thron, Wolfgang J. -- New York, Wiley [1953]
+  * 230 p.
+  * call number: QA 331 .T416
+  * Functions of complex variables.
+
+
+Introduction to the theory of sets and topology / Sierpinski, Waclaw, 1882-1969. -- Allahabad : Indian Press, [1962]
+  * vi, 154 p. :
+  * "English translation ... of my French manuscript which was a translation (with certain additions) of my book published in 1947 in Polish. ... The first Polish edition of this book was published at Lwow in 1929."; Bibliography included in Foreword.; Index included.
+  * call number: QA 248 .S467 1962
+  * Set theory. Topology.
+
+
+Introduction to theoretical physics, Slater, John C. (John Clarke), 1900-1976. -- New York, McGraw-Hill, 1933.
+  * xx, 576 p.
+  * call number: QC 21 .SL15i 
+  * Physics.
+
+
+Introduction to topology. Mendelson, Bert, 1926- -- Boston, Allyn and Bacon [1968]
+  * vi, 202 p.
+  * Bibliography: p. 199-200.
+  * call number: QA 611 .M537 1968
+  * Topology.
+
+
+Introduction to topology. Lefschetz, Solomon, 1884-1972. -- Princeton, Princeton Univ. Press, 1949.
+  * viii, 218 p.
+  * Bibliography: p. 208-210.
+  * call number: QA 611 .L522
+  * Topology.
+
+
+Introduction à la théorie des fonctions de variables réelles, Denjoy, Arnaud, 1884-1974. -- Paris, Hermann, 1937.
+  * 2 v.
+  * call number: QA 331 .D416
+  * Functions of real variables.
+
+
+Introductory artillery mathematics and antiaircraft mathematics, Levy, Sophia Hazel. -- Berkeley, University of California press, 1943.
+  * 100 p.
+  * call number: UF 800 .L579i
+  * Gunnery. Mathematics.
+
+
+Introductory calculus. Richmond, Donald Everett, 1898- -- Reading, Mass., Addison-Wesley Pub. Co. [1959]
+  * 207 p.
+  * call number: QA 303 .R5331
+  * Calculus.
+
+
+Introductory topology. Cairns, Stewart S. (Stewart Scott) -- New York, Ronald Press [1961]
+  * 244 p.
+  * call number: QA 611 .C136
+  * Topology.
+
+
+Introductory topology. Cairns, Stewart S. (Stewart Scott) -- New York, Ronald Press [1968]
+  * ix, 244 p.
+  * Bibliography: p. 211.
+  * call number: QA 611 .C136 1968
+  * Topology.
+
+
+An investment in knowledge; Krieghbaum, Hillier. -- New York, New York University Press, 1969.
+  * vii, 334 p.
+  * call number: Q 181 .K74
+  * National Science Foundation (U.S.) Science -- Study and teaching (Secondary) -- United States.
+
+
+Invitation to number theory / Ore, Øystein, 1899-1968. -- [New York] Random House [c1967]
+  * viii, 129 p.
+  * Bibliography: p. 125-126.
+  * call number: QA 241 .O68 1967
+  * Number theory. Number theory.
+
+
+Isoperimetric inequalities in mathematical physics / Polya, George, 1887- -- Princeton, Princeton University Press, 1951.
+  * xvi, 279 p.
+  * Includes bibliographical references (p. 275-277)
+  * call number: QA 295 .P768
+  * Inequalities (Mathematics) Mathematical physics.
+
+
+Journal of the Franklin Institute. Exeter, England [etc.] Pergamon Press [etc.] 
+  * v.
+  * Title varies slightly; issues for Jan. 1994- have subtitle: Engineering and applied mathematics.; Vols. 7-69 include more or less complete patent reports of the U.S. Patent Office for the years 1829-59.
+  * call number: T 1 .F854j
+  * Patents -- United States -- Periodicals. Science -- Periodicals. Science -- Periodicals. Technology -- Periodicals. Technology -- Periodicals.
+
+
+The kernel function and conformal mapping. Bergman, Stefan, 1898- -- New York, American Mathematical Society, 1950.
+  * vii, 161 p.
+  * Bibliography: p. 151-158.
+  * call number: QA 360 .B454
+  * Surfaces, Representation of.
+
+
+Knot groups, Neuwirth, L. P. (Lee Paul) -- Princeton, N.J., Princeton University Press, 1965.
+  * vi, 113 p.
+  * call number: QA 611 .N498
+  * Knot theory.
+
+
+Knots, groups, and 3-manifolds : Princeton, N.J. : Princeton University Press, 1975.
+  * xi, 335 p. :
+  * Includes bibliographies.
+  * call number: QA 612.2 .K66 1975
+  * Group theory. Knot theory. Three-manifolds (Topology)
+
+
+L'activité électrique de l'écorce cérébrale, Bremer, Frédéric. -- Paris, Hermann & Cie, 1938.
+  * 46, [2] p., 1 l.
+  * "Bibliographie": p. [41]-46.
+  * call number: QP 385 .B72
+  * Brain -- Localization of functions.
+
+
+L'intégration dans les groupes topologiques et ses applications / Weil, André, 1906- -- [Ann Arbor, Mich. : Edwards brothers, inc. ; 1942, c1938].
+  * 158 p.
+  * "Republished from Actualities [!] scientifiques et industrielles 869."; "Originally published by Hermann et co., Paris, France."; Later ed. issued as Actualités scientifiques et industrielles, 1145.; "Bibliographie": p. [153]-156.
+  * call number: QA 611 .W429i
+  * Topology.
+
+
+L'ultraconvergence dans les séries de Taylor, Bourion, Georges. -- Paris, Hermann, 1937.
+  * 46 p.,1 l.
+  * Actualités scientifiques et industrielles. 472.; "Bibliographie": p.[45]-46.
+  * call number: QA 306 .B6
+  * Series, Taylor's.
+
+
+L'école mathèmatique de Bologne; Bortolotti, Ettore, 1866-1947. -- Bologna, N. Zanichelli [1928]
+  * 75 p.
+  * At head of title: Congrès international des mathématiciens. Bologne--Settembre 1928.
+  * call number: QA 27 .I8 B678 1928
+  * Mathematicians. Mathematics -- History.
+
+
+La dépendance statistique: Onicescu, Octav, 1892-1983. -- Paris, Hermann et Cie, 1937.
+  * 46 p., 1 l.
+  * call number: QA 273 .O581
+  * Mathematical statistics. Probabilities.
+
+
+La méthode métrique en calcul des variations. Pauc, Christian. -- Paris, Hermann & cie, 1941.
+  * 81 p.
+  * Actualités scientifiques et industrielles. 885.; "Bibliographie": p.78-80.
+  * call number: QA 316 .P3
+  * Calculus of variations.
+
+
+La notion de capacité, Vasilesco, Florin. -- Paris, Hermann & cie, 1937.
+  * 49 p., 1 l.
+  * "Bibliographie": p. [48]-49.
+  * call number: QA 825 .V3
+  * Potential theory (Mathematics) Set theory.
+
+
+La notion de point irrégulier dans le problème de Dirichlet, Vasilesco, Florin. -- Paris, Hermann & cie, 1938.
+  * 59 p., 2 l.
+  * Actualités scientifiques et industrielles. 660.; "Bibliographie": p. [57]-59.
+  * call number: QA 405 .V334
+  * Dirichlet problem. Harmonic functions.
+
+
+La probabilité dans les différentes branches de la science, Castelnuovo, Guido, 1865-1952 -- Paris, Hermann & Cie, 1937.
+  * 61 p.
+  * "Bibliographie": p. [60]-61.
+  * call number: QA 273 .C278
+  * Probabilities.
+
+
+La régularisation des fonctions, Mandelbrojt, Szolem, 1899- -- Paris, Herman & cie, 1938.
+  * 35 p., 2 l.
+  * "Bibliographie": p. [37]
+  * call number: QA 331 .M2712
+  * Functions.
+
+
+La science et l'hypothése / Poincaré, Henri, 1854-1912. -- Paris : E. Flammarion, 1927.
+  * 292 p. ;
+  * call number: Q 175 .P75 1927
+  * Mathematics -- Philosophy. Science -- Philosophy.
+
+
+La stratification naturelle des espaces de fonctions différentiables réelles et le théorème de la pseudo-isotopie / Cerf, Jean -- Bures-sur-Yvette : Institut des hautes études scientifiques [c1971]
+  * 172 p. :
+  * Extrait des Publications mathématiques, no. 39.; Cover title.
+  * call number: QA 613.6 .C474 1971
+  * Differential topology.
+
+
+The Laplace transform, Widder, D. V. (David Vernon), 1898-1990. -- Princeton, Princeton university press; 1941.
+  * x, 406 p.
+  * call number: QA 432 .W5
+  * Laplace transformation.
+
+
+Lattice theory, Birkhoff, Garrett, 1911-1996. -- New York city, American mathematical society, 1940.
+  * v, 155 p.
+  * Bibliography: p. 148-149.
+  * call number: QA 266 .B535L
+  * Algebra, Abstract.
+
+
+Le problème de Cauchy et les équations aux dérivées partielles linéaires hyperboliques; Hadamard, Jacques, 1865-1963. -- Paris, Hermann et cie, 1932.
+  * 4 p.l., [xi]-xiv p., 1 l., 542 p.
+  * Translation of "Lectures on Cauchy's problem in linear partial differential equations," Hepsa Ely Silliman lectures delivered in 1920 at Yale University.
+  * call number: QA 377 .H117 F887
+  * Differential equations, Linear. Differential equations, Partial.
+
+
+Lectures Wintner, Aurel, 1903-1958. -- Ann Arbor, Mich., Edwards brothers, 1938.
+  * 54 p.
+  * At head of title: The Institute for advanced study.; Planographed.; Bibliography: p. 52-54.
+  * call number: QA 273 .W737L
+  * Probabilities.
+
+
+Lectures by Erich Hecke on Dirichlet series, modular functions and quadratic form ; Hecke, Erich, 1887-1947. -- Ann Arbor, Mich., Edwards brothers, inc., 1938.
+  * 2 p. leaves, 48 p. ;
+  * At head of title: The Institute for advanced study.; Planographed.; Bibliography: p. 48.
+  * call number: QA 37 .H355L
+  * Dirichlet series Forms, Quadratic. Modular functions
+
+
+Lectures by Godfrey H. Hardy on the mathematical work of Ramanujan, fall term 1936. / Hardy, G. H. (Godfrey Harold), 1877-1947. -- [Ann Arbor, Mich., Edwards bros., inc., 1937].
+  * 2 p. l., 57 p.
+  * Cover-title: Hardy, Ramanujan's work, 1936.; Planographed.
+  * call number: QA 29 .R3 H2 1937
+  * Number theory. Ramanujan Aiyangar, Srinivasa, -- 1887-1920.
+
+
+Lectures by H. F. Bohnenblust on theory of functions of real variables, 1936-1937. Bohnenblust, Henri Frédéric, 1906- -- Ann Arbor, Mich., Edwards Bros., Inc., 1938.
+  * 132 p.
+  * Planographed.
+  * call number: QA 331 .B634L
+  * Functions.
+
+
+Lectures by Hermann Weyl on Theory of invariants, Weyl, Hermann, 1885-1955. -- [Princeton, N.J.] The Institute for advanced study [1936]
+  * 4 p. l., 36 numb. l.
+  * Mimeographed.
+  * call number: QA 201 .W54
+  * Invariants.
+
+
+Lectures by Marston Morse on analysis in the large, 1936-1937. Morse, Marston, 1892- -- Ann Arbor, Mich., Edwards Bros., Inc., 1937.
+  * 1 p. l., ii, 83 p.
+  * At head of title: The Institute for Advanced Study.; Planographed.
+  * call number: QA 315 .M837L
+  * Calculus of variations. Generalized spaces.
+
+
+Lectures by S. Bochner on Fourier analysis, 1936-1937. Bochner, S. (Salomon), 1899-1982. -- Ann Arbor, Mich., Edwards bros., inc. 1937.
+  * 2 p. l., 113 p.
+  * Planographed.; At head of title: Princeton university.
+  * call number: QA 404 .B631L
+  * Fourier series.
+
+
+Lectures by S. Lefschetz on algebraic geometry, 1936-[1938]... Lefschetz, Solomon, 1884-1972. -- [Ann Arbor, Mich. : Edwards bros., inc., 1937-38]
+  * 2 v. :
+  * Part II has imprint: Princeton, N.J., Princeton university press.; At head of title, pt. II; Princeton mathematical notes.; Planographed.; Part [I]: Notes by M. Richardson and E.D. Tagg; Appendix A: Notes by A.A. Brown and J.M.H. Olmsted; Appendix B: After a report by F.J. Weyl; Complement to Notes.; Part II: Chap.4, ed. by Hyman Serbin; Appendix, by Wayne Johnson.; Bibliographical references in Introduction, pt. [I]
+  * call number: QA 564 .L522L
+  * Geometry, Algebraic.
+
+
+Lectures by Walther Mayer. Mayer, Walther, 1887- -- Princeton, N.J., Princeton university press [1938]
+  * 1 p.l., 69 p.
+  * call number: QA 611 .M452L
+  * Topology.
+
+
+Lectures on algebraic topology Greenberg, Marvin J. -- New York, W.A. Benjamin, 1967.
+  * x, 235 p.
+  * Bibliography: p. 229-231.
+  * call number: QA 611 .G65
+  * Algebraic topology.
+
+
+Lectures on boundary theory for Markov chains, Chung, Kai Lai, 1917-2009. -- Princeton, N.J., Princeton University Press, 1970.
+  * xvi, 94 p.
+  * Bibliography: p. 93-94.
+  * call number: QA 273 .C5592 
+  * Markov processes.
+
+
+Lectures on characteristic classes. Milnor, John. -- [Princeton, N.J., Princeton University, 195-]
+  * 144, 16 l.
+  * Typewritten.; "Sponsored by Princeton University under Air Force Contract no.AF18(600)-1494."; Bibliography: l. 142-144.
+  * call number: QA 611 .M659
+  * Fiber bundles (Mathematics) Homology theory.
+
+
+Lectures on commutative algebra, Bochner, S. (Salomon), 1899-1982. -- Ann Arbor, Mich., Planographed by Edwards brothers, inc., 1938.
+  * 1 p.l., v-viii, 76 p.
+  * call number: QA 251 .B631L
+  * Algebra, Universal.
+
+
+Lectures on complex analytic varieties: finite analytic mappings, Gunning, Robert C. (Robert Clifford), 1931- -- Princeton, N.J., Princeton University Press, 1974.
+  * ii, 163 p.
+  * call number: QA 331 .G783 1974
+  * Analytic mappings. Analytic spaces.
+
+
+Lectures on complex analytic varieties: the local parametrization theorem, Gunning, Robert C. (Robert Clifford), 1931- -- Princeton, N.J. [Princeton University Press] 1970.
+  * v, 167 p.
+  * On spine: Complex analytic varieties.
+  * call number: QA 331 .G9762
+  * Analytic spaces.
+
+
+Lectures on curves on an algebraic surface. Mumford, David, 1937- -- Princeton, N.J., Princeton University Press, 1966.
+  * xi, 200 p.
+  * call number: QA 641 .M962
+  * Curves, Algebraic. Surfaces, Algebraic.
+
+
+Lectures on differential equations / Lefschetz, Solomon, 1884-1972. -- Princeton : Princeton University Press ; 1948.
+  * viii, 209 (i.e. 212) p. :
+  * call number: QA 371 .L522
+  * Differential equations.
+
+
+Lectures on differential geometry. Sternberg, Shlomo. -- Englewood Cliffs, N.J., Prentice-Hall [1964]
+  * xi, 390 p.
+  * call number: QA 641 .S839
+  * Geometry, Differential.
+
+
+Lectures on differential geometry. Thomas, Tracy Y. (Tracy Yerkes), 1899-1983. -- Ann Arbor, Mich., Planographed by Edwards brothers, inc., 1938.
+  * 2 p.l., 52 p.
+  * call number: QA 689 .T367L
+  * Generalized spaces. Projective differential geometry.
+
+
+Lectures on Fourier integrals; Bochner, S. (Salomon), 1899-1982. -- Princeton, N.J., Princeton University Press, 1959.
+  * v, 333 p.
+  * call number: QA 404 .B631v E3
+  * Fourier series. Harmonic analysis. Integrals.
+
+
+Lectures on functions of a complex variable, Kaplan, Wilfred, 1915- ed. -- Ann Arbor, University of Michigan Press, 1955.
+  * ix, 435 p.
+  * call number: QA 331 .K141L
+  * Functions of complex variables.
+
+
+Lectures on modular forms. Gunning, Robert C. (Robert Clifford), 1931- -- Princeton, N.J., Princeton University Press, 1962.
+  * 86 p.
+  * call number: QA 244 .G976
+  * Forms (Mathematics) Modular functions.
+
+
+Lectures on p-adic L-functions. Iwasawa, Kenkichi. -- Princeton, N.J., Princeton University Press, 1972.
+  * vii, 106 p.
+  * Bibliography: p. 105-106.
+  * call number: QA 247 .I95
+  * Algebraic number theory. L-functions.
+
+
+Lectures on Riemann surfaces, Gunning, Robert C. (Robert Clifford), 1931- -- Princeton, N.J., Princeton University Press, 1966.
+  * iii, 254 p.
+  * call number: QA 333 .G976
+  * Riemann surfaces.
+
+
+Lectures on Riemann surfaces, Jacobi varieties, Gunning, Robert C. (Robert Clifford), 1931- -- Princeton, N.J., Princeton University Press, 1972.
+  * iii, 189 p.
+  * Sequel to Lectures on Riemann surfaces.; Includes bibliographies.
+  * call number: QA 333 .G9762 1972
+  * Jacobi varieties. Riemann surfaces.
+
+
+Lectures on tensor analysis and differential geometry / Mayer, Walther, 1887-1948. -- [Princeton] : Institute for Advanced Study, 1937.
+  * 2 v. ;
+  * Mimeographed.; pt. 2. Analytic functions on a compact surface.
+  * call number: QA 433 .M3 
+  * Calculus of tensors. Geometry, Differential.
+
+
+Lectures on the calculus of variations / Bolza, O. (Oskar), 1857-1942. -- New York : G. E. Stechert & Co., 1931.
+  * xv, 271 p. :
+  * Reprint of ed. 1904.
+  * call number: QA 315 .B639L
+  * Calculus of variations.
+
+
+Lectures on the calculus of variations. Bliss, Gilbert Ames, 1876-1951. -- Chicago, Ill. University Press [1946]
+  * 296p.
+  * call number: QA 315 .B619L
+  * Calculus of variations.
+
+
+Lectures on the h-cobordism theorem, Milnor, John W. (John Willard), 1931- -- Princeton, N.J., Princeton University Press, 1965.
+  * 113, [3] p.
+  * "These are notes for lectures of ... [the author] that were given as a seminar on differential topology in October and November, 1963 at Princeton University."; Bibliography: [114]-[116]
+  * call number: QA 611 .M6595
+  * Cobordism theory.
+
+
+Lectures on vector bundles over Riemann surfaces, Gunning, Robert C. (Robert Clifford), 1931- -- Princeton, N.J., Princeton University Press, 1967.
+  * v, 243 p.
+  * call number: QA 333 .G9761
+  * Fiber bundles (Mathematics) Riemann surfaces.
+
+
+Lehrbuch der Funktionentheorie, Osgood, William F. (William Fogg), 1864-1943. -- Leipzig und Berlin, B. G. Teubner, 1912-
+  * v.
+  * call number: QA 331 .Os24L 1912 
+  * Functions.
+
+
+Lehrbuch der gruppentheorie Zassenhaus, Hans. -- Leipzig, Verlag und druck von B.G. Teubner, 1937-
+  * v.
+  * "Literaturverzeichnis": v.1, p. [145]-146.
+  * call number: QA 171 .Z19L
+  * Group theory.
+
+
+Lehrbuch der Topologie / Seifert, H. (Herbert), 1907- -- Leipzig und Berlin, B. G. Teubner, 1934.
+  * vii, 353 p.
+  * call number: QA 611 .Se42L
+  * Topology.
+
+
+Length and area. Radó, Tibor, 1895- -- New York, American Mathematical Society, 1948.
+  * v, 572 p.
+  * Bibliography: p. 562-569 and index.
+  * call number: QA 611 .R3 1948
+  * Matematica -- larpcal Topology.
+
+
+Leonida Tonelli, in memoriam / Università di Pisa. -- Pisa : Arti Grafiche Tornar, [1952]
+  * iv, 191, [5] p., [2] leaves of plates :
+  * call number: QA 29 .T6 P5
+  * Tonelli, Leonida, -- 1885-1946.
+
+
+Les combinaisons exceptionelles des fonctions entières et les fonctions algébroïdes, Ghermănescu, Mihail, 1899- -- Paris, Hermann et Cie, 1940.
+  * 33, [2] p.
+  * "Bibliographie": p. [34]
+  * call number: QA 351 .G4
+  * Algebraic functions. Functions, Entire.
+
+
+Les espaces d'éléments à connexion projective normale, Hashtrūdī, Muḥsin. -- Paris, Hermann, 1937.
+  * 83, [4] p.
+  * call number: QA 660 .H115
+  * Connections (Mathematics) Generalized spaces. Projective differential geometry. Topology.
+
+
+Les espaces de Finsler, Cartan, Elie, 1869-1951. -- Paris, Hermann & cie, 1934.
+  * 40, [2] p., 1 l.
+  * call number: QA 689 .C241es
+  * Generalized spaces.
+
+
+Les fonctions de matrices. Schwerdtfeger, Hans. -- Paris, Hermann, 1938-
+  * v.
+  * Bibliographical notes at end of each chapter.; v. 1. Les fonctions univalentes.
+  * call number: QA 263 .Sch99
+  * Matrices.
+
+
+... Les fonctions méromorphes et leurs dérivées; Milloux, Henri, 1898- -- Paris, Hermann et c, 1940
+  * 53 p.,
+  * Actualitiés scientifiques et industrielies. 888.; Bibliographical foot-notes.
+  * call number: QA 55 .M623
+  * Functions, Meromorphic.
+
+
+Les fondements expérimentaux de l'analyse mathématique des faits statistiques / Hostelet, Georges. -- Paris : Hermann & cie, 1937.
+  * 70 p., 1 l.
+  * call number: QA 276 .H795
+  * Mathematical statistics.
+
+
+Les méthodes directes en calcul des variations et en géométrie différentielle / Pauc, Christian Y. -- Paris : Hermann, 1941.
+  * ix, 139 p. ;
+  * Includes bibliographies.; La méthode métrique en calcul des variations -- Les méthodes directes en géométrie différentielle.
+  * call number: QA 641 .P281
+  * Calculus of variations. Geometry, Differential.
+
+
+Les probabilités associées à un système d'événements compatibles et dépendants ... Fréchet, Maurice, 1878- -- Paris, Hermann & cie, 1940-
+  * 2 v.
+  * 1. ptie. Évenements en nombre fini fixe. Liste bibliographique des auteurs cité (p.[76]-77). -- 2. ptie. Cas particuliers et applications. Lite bibliographique des auteurs cites.
+  * call number: QA 273 .F871p
+  * Probabilities.
+
+
+Les problèmes mathématiques de la théorie quantique des champs, Centre national de la recherche scientifique (France) -- 
+  * 183 p.
+  * Bibliographical footnotes.
+  * call number: QC 174.45 .F7
+  * Quantum field theory -- Societies, etc.
+
+
+Lezioni di analisi ... Severi, Francesco, 1879-1961. -- Bologna, N. Zanichelli, 1933-
+  * v.
+  * call number: QA 303 .Se83
+  * Calculus.
+
+
+Lezioni di geometria moderna. Segre, Beniamino, 1903- -- Bologna N. Zanichelli 1948
+  * 
+  * call number: QA 473 .Se38 
+  * Geometry, Modern.
+
+
+Lezioni sulla teoria delle funzioni di una variabile complessa. Sansone, Giovanni, 1888-1979. -- Padova, CEDAM, 1950-
+  * v.
+  * At head of title: Università di Firenze.; Includes bibliography.
+  * call number: QA 331 .S228 
+  * Functions of complex variables.
+
+
+Lezioni sulla teoria moderna dell'integrazione Picone, Mauro, 1885-1977. -- [Torino] Einaudi, 1952.
+  * 404 p.
+  * call number: QA 308 .P55
+  * Integrals.
+
+
+Leçons d'algèbre moderne Dubreil, Paul. -- Paris, Dunod, 1961.
+  * 393 p.
+  * call number: QA 251 .D819
+  * Algebra, Universal
+
+
+Leçons d'analyse fonctionnelle, Riesz, Frigyes, 1880-1956. -- Budapest, Akadémiai Kiadó, 1952.
+  * 448 p.
+  * call number: QA 300 .R446
+  * Functions. Harmonic analysis.
+
+
+Leçons sur l'intégration et la recherche des fonctions primitives, Lebesgue, Henri Léon, 1875-1941. -- Paris, Gauthier-Villars et cie, 1928.
+  * xiii p., 1 ℓ., 342 p.
+  * "Leçons que j'ai faites au Collège de France, pendant l'année scolaire 1902-1903."-Préf.
+  * call number: QA 312 .L492L
+  * Integrals, Generalized.
+
+
+Leçons sur le calcul des coefficients d'une série trigonométrique enseignées à l'Univeristé Harvard, Denjoy, Arnaud, 1884-1974. -- Paris, Gauthier-Viliars, 1941-
+  * v.
+  * 1. ptie. La différentiation second mixte et son application aux séries trigonométriques -- 2. ptie. Métrique et topologie d'ensembles parfaits et de fonctions -- 3. ptie. Détermination d'une fonction continue par ses nombres dérivés seconds généralisés extrémes finis -- 4. ptie. Les totalisations solution du probléme de fourier, premier fasicule: Les totalisations, deuxiéme fasicule: appendices et tables générales.
+  * call number: QA 295 .D416
+  * Functions. Group theory. Series, Infinite.
+
+
+Leçons sur les fonctions entières, Borel, Émile 1871-1956 -- Paris, Gauthier-Villars, 1900.
+  * vi p., 1 l., 124 p.
+  * At head of title: Nouvelles leçons sur la théorie des fonctions.
+  * call number: QA 331 .B71 1900
+  * Functions, Entire.
+
+
+Leçons sur les méthodes de Sturm dans la théorie des équations différentielles linéaires et leurs développements modernes, Bôcher, Maxime, 1867-1918. -- Paris, Gauthier-Villars et cie, 1917.
+  * vi, 118 p.
+  * call number: QA 372 .B631L
+  * Differential equations, Linear.
+
+
+Leçons sur les principes topologiques de la théorie des fonctions analytiques, professées à la Sorbonne et à l'Université de Cernauti, Stoilow, Simion. -- Paris, Gauthier-Villars, 1938.
+  * x, 148 p.
+  * call number: QA 611 .St66L
+  * Functions. Riemann surfaces. Topology.
+
+
+Leçons sur les principes topologiques de la théorie des fonctions analytiques, professées à la Sorbonne et à l'Université de Cernauti. Stoilow, Simion, 1887-1961. -- Paris, Gauthier-Villars, 1956.
+  * xvi, 194 p.
+  * call number: QA 611 .St66L 1956
+  * Functions. Riemann surfaces. Topology.
+
+
+Leçons sur les séries hypergéométriques et sur quelques fonctions qui s'y rattachent, Goursat, Edouard, 1858-1936. -- Paris, Hermann & cie, 1936-
+  * v.
+  * call number: QA 372 .G744
+  * Differential equations, Linear.
+
+
+Lie equations, Kumpera, Antônio. -- Princeton, N.J., Princeton University Press, 1972-
+  * v.
+  * Bibliography: v. 1, p. 278-285.; v. 1. General theory.
+  * call number: QA 387 .K85 
+  * Differential equations. Lie algebras. Lie groups.
+
+
+Lie groups and differential geometry. Nomizu, Katsumi, 1924- -- [Tokyo] Mathematical Society of Japan 1956
+  * 80p.
+  * call number: QA 385 .N799
+  * Continuous groups. Geometry, Differential
+
+
+Linear integral equations, Lovitt, William Vernon, 1881- -- New York [etc.] McGraw-Hill book company, inc., 1924.
+  * xiii, 253 p.
+  * Bibliography: p. vi.
+  * call number: QA 431 .L949L
+  * Integral equations.
+
+
+Linear transformations in Hilbert space and their applications to analysis, Stone, Marshall H. (Marshall Harvey), 1903-1989. -- New York, The American mathematical society, 1932.
+  * viii, 622 p.
+  * call number: QA 385 .St72L
+  * Continuous groups. Hyperspace. Transformations (Mathematics)
+
+
+Linear transformations in n-dimensional vector space; Hamburger, H. L. -- Cambridge [Eng.] University Press, 1951.
+  * vii, 195 p.
+  * call number: QA 601 .H175
+  * Hyperspace. Transformations (Mathematics)
+
+
+The logarithmic potential, discontinuous Dirichlet and Neumann problems, Evans, Griffith Conrad, 1887-1973. -- New York, American mathematical society, 1927.
+  * viii, 150 p.
+  * call number: QA 431 .Ev15L
+  * Differential equations. Integral equations. Potential theory (Mathematics)
+
+
+Logical calculus / Bernays, Paul, 1888-1977. -- [Princeton, N. J.] : Institute for Advanced Study, 1936.
+  * 125 leaves ;
+  * Mimeographed.
+  * call number: QA 9 .B4
+  * Logic, Symbolic and mathematical. Mathematics -- Philosophy.
+
+
+Logical dilemmas : Dawson, John W. (John William), 1944- -- Wellesley, Mass. : A K Peters, c1997.
+  * xiv, 361 p. :
+  * Includes bibliographical references (p. 329-344) and index.
+  * call number: QA 29 .G58 D39 1997
+  * Gödel, Kurt. Logicians -- Austria -- Biography. Logicians -- United States -- Biography.
+
+
+The Madison Colloquium, 1913: I. On invariants and the theory of numbers, American Mathematical Society. -- 
+  * iii, iii, 230 p.
+  * call number: QA 241 .Am35m
+  * Functions of several complex variables. Invariants. Number theory.
+
+
+Marston Morse and his mathematical works / Bott, Raoul, 1923- -- [Providence, R.I.] : American Mathematical Society, c1980.
+  * p. 907-950 :
+  * Reprinted from Bulletin (new series) of the American Mathematical Society.; "Publications of Marston Morse": p. 944-949.; Bibliography: p. 949-950.; Biographical memoirs of Harold Marston Morse in pocket.
+  * call number: QA 300 .B65
+  * Morse, Marston, -- 1892-1977.
+
+
+Mathematical engineering analysis. Oldenburger, Rufus, 1908- -- New York, Macmillan [1950]
+  * xiv, 426 p.
+  * Includes bibliographies.
+  * call number: TA 350 .O47
+  * Mechanics, Applied.
+
+
+Mathematical foundations of quantum mechanics. Von Neumann, John, 1903-1957. -- Princeton [N.J.] Princeton University Press, 1955.
+  * 445 p.
+  * call number: QC 174.3 .V896mE 
+  * Matrix mechanics.
+
+
+Mathematical logic : Church, Alonzo, 1903- -- Princeton : Princeton University, 1936.
+  * ii, 113 leaves ;
+  * Mimeographed.; Includes bibliographies.; Errata leaf included.
+  * call number: BC 135 .C474
+  * Logic, Symbolic and mathematical.
+
+
+Mathematical methods of statistics / Cramér, Harald, 1893-1985. -- Princeton : Princeton University Press, 1946.
+  * xvi, 575 p. ;
+  * call number: QA 276 .C848m
+  * Mathematical statistics.
+
+
+Mathematical snapshots. Steinhaus, Hugo, 1887-1972. -- New York, Oxford University Press, 1960.
+  * 328 p.
+  * Translation of Kalejdoskop matematyczny.
+  * call number: QA 7 .St35m En36 1960 
+  * Mathematical recreations. Mathematics -- Popular works -- Popular works.
+
+
+Mathematical statistics. Rietz, Henry Lewis, 1875-1921. -- Chicago, Ill., Pub. for the Mathematical Association of America by Open Court Pub. Co. [c1927]
+  * xi, 181 p.
+  * call number: HA 29 .R447m 
+  * Mathematics. Statistics.
+
+
+A mathematician's apology / Hardy, G. H. (Godfrey Harold), 1877-1947. -- Cambridge [Eng.] University Press, 1969.
+  * 153 p.
+  * "Foreword by C.P. Snow."; First edition 1940.
+  * call number: QA 7 .H3 1969
+  * Mathematics.
+
+
+Mathematics for scientists Bak, Thor A. (Thor Anders), 1929- -- New York, W. A. Benjamin, 1966.
+  * xiv, 487 p.
+  * "Revised and ... expanded edition of Videregående matematik ... 1960."
+  * call number: QA 37 .B166
+  * Mathematics.
+
+
+Measure and integration Berberian, Sterling K., 1926- -- New York, Macmillan [1965]
+  * xviii, 312 p.
+  * call number: QA 312 .B484 1965
+  * Integrals. Measure theory.
+
+
+Measure theory. Halmos, Paul R. (Paul Richard), 1916- -- New York, Van Nostrand, 1950.
+  * xi, 304 p.
+  * Bibliography: p. 293-296.
+  * call number: QA 611 .H162
+  * Topology.
+
+
+Mengenlehre, Hausdorff, Felix, 1868-1942. -- Berlin, Gruyter, 1927.
+  * 285 p.
+  * Literatur: p. [300]; Quellenangaben: p. [301]-304.
+  * call number: QA 248 .H294m 1927 
+  * Set theory.
+
+
+Methods of intermediate problems for eigenvalues: Weinstein, Alexander, 1897- -- New York, Academic Press, 1972.
+  * xi, 236 p.
+  * Bibliography: p. 221-231.
+  * call number: QA 316 .W45 
+  * Calculus of variations. Eigenvalues.
+
+
+Metric methods in Finsler spaces and in the foundations of geometry, Busemann, Herbert, 1905- -- Princeton, Princeton university press; 1942.
+  * 4 p.l., 243 p.
+  * call number: QA 689 .B962m
+  * Generalized spaces. Geometry -- Foundations.
+
+
+Modern spectral theory. Nakano, Hidegorō, 1909- -- Tokyo, Maruzen Co., 1950.
+  * 323 p.
+  * Bibliography: p. 319-321.
+  * call number: QA 689 .N145m
+  * Spectral theory (Mathematics)
+
+
+Moderna teoria delle funzioni di variabile reale Vitali, Giuseppe, 1875-1932 -- Bologna N. Zanichelli 1935
+  * v.
+  * call number: QA 401 .V831m
+  * Functions of real variables.
+
+
+Moderne Algebra, Waerden, B. L. van der (Bartel Leendert), 1903-1996. -- Berlin, J. Springer, 1937-1940.
+  * 2 v.
+  * Bibliographical footnotes.
+  * call number: QA 154 .W121m 1937
+  * Algebra.
+
+
+Modulared semi-ordered linear spaces. Nakano, Hidegorō, 1909- -- Tokyo, Maruzen Co., 1950.
+  * 288 p.
+  * Pages 9-153 were published in 1966 by Wayne State University Press under title: Linear lattices.
+  * call number: QA 689 .N145
+  * Linear topological spaces. Spectral theory (Mathematics)
+
+
+Monografie matematyczne. Basel, Birkhäuser, 1932-
+  * v.
+  * At head of title: Polska Academia Nauk, Instytut Matematyczny.; Published: Warszawa, PWN Polish Scientific Publishers, 1932-1986.; Vols. for 2003- published in cooperation with the Instytut Matematyczny Polskiej Akademii Nauk (IMPAN)
+  * call number: QA 1 .M755
+  * Mathematics.
+
+
+Morse theory / Milnor, John W. (John Willard), 1931- dn -- Princeton, N.J. : Princeton University Press, c1969.
+  * viii, 153 p. :
+  * Includes bibliography.
+  * call number: QA 611 .M55 1969
+  * Geometry, Differential. Homotopy theory.
+
+
+Morse theory and its application to homotopy theory / Bott, Raoul, 1923- -- [Bonn] : Universität, 1960.
+  * 81 p. ;
+  * On cover: Lectures on Morse theory.; "Sommersemester 1958"; Bibliography: p. 81.
+  * call number: QA 611 .B7512
+  * Geometry, Differential. Homotopy theory.
+
+
+Morse theory. Milnor, John W. (John Willard), 1931- -- Princeton N.J., University Press, 1963.
+  * 153 p.
+  * call number: QA 611 .M55 1963
+  * Geometry, Differential. Homotopy theory.
+
+
+Mécanique analytique et théorie des quanta / Juvet, Gustave, 1896-1936. -- Paris, A. Blanchard, 1926.
+  * vi, 151 p.
+  * call number: QA 805 .J984 1926
+  * Mechanics, Analytic. Quantum theory.
+
+
+Mémorial des sciences mathématiques. Paris, Gauthier-Villars, 1925-72.
+  * 169 no.
+  * call number: QA 1 .M51
+  * Mathematics -- Periodicals.
+
+
+Neue topologische Methoden in der algebraischen Geometrie. Hirzebruch, Friedrich. -- Berlin, Springer, 1956.
+  * 165 p.
+  * Habilitationsschrift--Westfälische Wilhelms-Universität.; Bibliography: p. [158]-160.
+  * call number: QA 564 .H672
+  * Algebraic topology. Geometry, Algebraic.
+
+
+The Neumann problem for the Cauchy-Riemann complex, Folland, G. B. -- Princeton, N.J., Princeton University Press, 1972.
+  * viii, 146 p.
+  * Bibliography: p. 136-141.
+  * call number: QA 374 .F55
+  * Complex manifolds. Differential operators. Neumann problem.
+
+
+New plane and solid geometry, Beman, Wooster Woodruff, 1850-1922. -- Boston, Ginn, 1899.
+  * ix, 382 p.
+  * call number: QA 453 .B5
+  * Geometry.
+
+
+Normal two-dimensional singularities, Laufer, Henry B. -- Princeton, N.J., Princeton University Press, 1971.
+  * xi, 161 p.
+  * Bibliography: p. 157-158.
+  * call number: QA 331 .L26 
+  * Analytic spaces. Singularities (Mathematics)
+
+
+Notes on cobordism theory, Stong, Robert E. -- Princeton, N.J., Princeton University Press, 1968.
+  * ii, 354, 23, 25, viii p.
+  * Bibliography: p. i-viii (5th group)
+  * call number: QA 612 .S8
+  * Cobordism theory.
+
+
+Notes on differential geometry Hicks, Noel J. -- London, Van Nostrand Reinhold Co., 1971.
+  * vi, 183 p.
+  * Bibliography: p. 176-180.
+  * call number: QA 641 .H631 1971
+  * Geometry, Differential.
+
+
+Nuclear physics / Wigner, Eugene Paul, 1902-1995. -- [Princeton, N.J.] : Princeton University, 1936.
+  * 159 leaves :
+  * Mimeographed.
+  * call number: QC 173 .W639n
+  * Nuclear physics.
+
+
+Nécessaire mathématique, Curie, Maurice, 1888- -- Paris, Hermann & cie, 1943.
+  * 118 p., 1 l.
+  * First edition issued as no. 502 in same series.; Errata leaf inserted.; "Bibliographie": p. [115]
+  * call number: QA 37 .C926
+  * Mathematics.
+
+
+Obobshchennye funkt︠s︡ii. Gelʹfand, I. M. (Izrailʹ Moiseevich) -- Moskva, Gos. izd-vo fiziko-matematicheskoĭ lit-ry, 1958-
+  * v.
+  * Vols. 6- have imprint: [Moskva, Nauka; Glav. red. fiziko-matematicheskoĭ lit-ry].; Includes bibliographies.; vyp. 1. Gelʹfand, I.M. i Shilov, G.E. Obobshchennye funkt︠s︡ii i deĭstvii︠a︡ nad nimi.--vyp. 2. Gelʹfand, I.M. i Shilov, G.E. Prostranstva osnovnykh i obobshchennykh funkt︠s︡iĭ.--vyp. 3. Gelʹfand, I.M. i Shilov, G.E. Nekotorye voprosy teorii different︠s︡ialʹnykh uravneniĭ.--vyp. 4. Gelʹfand, I.M. i Bilenkin, N. I︠A︡. Nekotorye primenenii︠a︡ garmonicheskogo analiza. Osnashchennye gilʹbertovy prostranstva.--vyp. 5. Gelʹfand, I.M., Graev, M.I., Bilenkin, N. I︠A︡. Integralʹnai︠a︡ geometrii︠a︡ i svi︠a︡zannye s neĭ voprosy teorii predstavleniĭ.--vyp. 6. Gelʹfand, I.M., Graev, M.I., Pi︠a︡tet︠s︡kiĭ-Shapiro, I.I. Teorii︠a︡ predstavleniĭ i avtomorfnye funkt︠s︡ii.
+  * call number: QA 331 .O12
+  * Functions.
+
+
+On deformations of complex analytic structures / Kodaira, Kunihiko, 1915-1997. -- Princeton : Princeton University, 1957.
+  * iii, 217 leaves ;
+  * Mimeographed.; Supported by the National Science Foundation (Contract G1974, Institute for Advanced Study) and by the Office of Ordnance Research, U.S. Army (Contract DA-36-034-ORD-2164, Princeton University).; Bibliography: leaves 215-217.
+  * call number: QA 333 .K77
+  * Riemann surfaces.
+
+
+On group-theoretic decision problems and their classification, Miller, C. F. (Charles F.), 1941- -- Princeton, N.J., Princeton University Press, 1971.
+  * viii, 106 p.
+  * Based on the author's thesis, University of Illinois, 1969.; Bibliography: p. 97-102.
+  * call number: QA 171 .M48
+  * Group theory. Logic, Symbolic and mathematical.
+
+
+On the measure of the critical values of functions / Sard, Arthur. -- 
+  * 50 leaves ;
+  * Thesis--Harvard University.; Typescript (Carbon copy)
+  * call number: QA 331 .S33
+  * Functions.
+
+
+On the principles of statistical inference ; Wald, Abraham. -- 
+  * 1 p.l., 47, [2] p.
+  * call number: QA 273 .W142o
+  * Probabilities. Statistics.
+
+
+On the problem of Plateau, Radó, Tibor, 1895-1965 -- Berlin, J. Springer, 1933.
+  * 2 p.l., 109, [1] p.
+  * call number: QA 641 .R119o
+  * Curves. Surfaces.
+
+
+Operational calculus. Mikusiński, Jan. -- London, Pergamon Press [1959]
+  * 495 p.
+  * call number: QA 432 .M636 E3
+  * Calculus, Operational.
+
+
+Order-preserving maps and integration processes. McShane, E. J. (Edward James), 1904- -- Princeton, Princeton University Press, 1953.
+  * vi, 136 p.
+  * Bibliography : p. 135-136.
+  * call number: QA 171 .M248
+  * Group theory. Integrals.
+
+
+Ordinary differential equations Hale, Jack K. -- New York, Wiley-Interscience [1969]
+  * xvi, 332 p.
+  * Bibliography: p. 325-330.
+  * call number: QA 372 .H184
+  * Differential equations.
+
+
+Ordinary differential equations Reid, William T. (William Thomas), 1907 October 4-1977. -- New York, Wiley [1971]
+  * xv, 553 p.
+  * Bibliography: p. [529]-542.
+  * call number: QA 372 .R42
+  * Differential equations.
+
+
+Ordinary differential equations. Leighton, Walter, 1907- -- Belmont, Calif., Wadsworth Pub. Co. [1963]
+  * 264 p.
+  * call number: QA 372 .L529
+  * Differential equations.
+
+
+Outline of notes on algebra (Mathematics 315) / Wedderburn, Joseph Henry Maclagan, 1882- -- [Princeton] : Princeton University, 1937.
+  * 70 leaves ;
+  * Mimeographed.
+  * call number: QA 152 .W4
+  * Algebra.
+
+
+Pages choisies d'analyse générale. Fréchet, Maurice, 1878- -- Paris, Gauthier-Villars, 1953.
+  * 213 p.,
+  * Bibliographical footnotes.
+  * call number: QA 300 .F871
+  * Calculus. Functional analysis.
+
+
+Philosophy of mathematics and natural science. Weyl, Hermann, 1885-1955. -- Princeton, Princeton University Press, 1949.
+  * x, 311 p.
+  * "Bibliographical note": p. vii. Includes "References."
+  * call number: QA 9 .W546E 
+  * Mathematics -- Philosophy. Science -- Philosophy.
+
+
+Pits, peaks and passes Washington, D.C. : Mathematical Association of America, [20uu].
+  * 2 videodiscs (ca. 103 min.) :
+  * "Comittee on Educational Media ; Mathematical association of America" -- opening screens.; Producer and director, Amram Nowak ; cameraman, Bruce Torbet ; editors, Jerry Pantzer, Bruce Torbet ; music: Marston Morse.
+  * call number: QA 611 .M66 2000
+  * Critical point theory (Mathematical analysis) Morse, Marston, -- 1892-1977. Topology.
+
+
+Plane analytic geometry Bôcher, Maxime, 1867-1918. -- New York, H. Holt [c1915]
+  * xiii, 235 p.
+  * call number: QA 552 .B65
+  * Geometry, Analytic.
+
+
+Plane and solid analytic geometry, Osgood, William F. (William Fogg), 1864-1943. -- New York, Macmillan, 1921.
+  * xvii, 614 p.
+  * call number: QA 551 .Os3p 
+  * Geometry, Analytic -- Plane. Geometry, Analytic -- Solid.
+
+
+Plane and spherical trigonometry, Bauer, George Neander, 1872- -- Boston, D. C. Heath, [1917]
+  * xi, 174, v, 139 p.
+  * "Logarithmic and trigonometric tables" with special t.-p.: 139 p. at end.
+  * call number: QA 531 .B34 1917
+  * Trigonometry.
+
+
+Plane and spherical trigonometry, Passano, Leonard M. (Leonard Magruder), 1866-1943. -- New York, The Macmillan company, 1918.
+  * xv, 141 p.
+  * call number: QA 531 .P226p 1918
+  * Trigonometry.
+
+
+Plane trigonometry, Lennes, N. J. (Nels Johann), 1874-1951. -- New York, Harper, 1928.
+  * x, 179 p.
+  * call number: QA 533 .L35
+  * Logarithms. Trigonometry.
+
+
+Potential theory in modern function theory. Tsuji, Masatsugu, 1894-1960. -- Tokyo, Maruzen, 1959.
+  * 8, 590 p.
+  * call number: QA 825 .T882
+  * Harmonic functions. Potential theory (Mathematics)
+
+
+The Princeton Colloquium : Colloquium (American Mathematical Society) (6th : 1909 : Princeton, N.J.) -- New York : American Mathematical Society, 1913.
+  * 107, 116 p. :
+  * Fundamental existence theorems / Gilbert Ames Bliss -- Differential-geometric aspects / Edward Kasner.
+  * call number: QA 331 .Am35p
+  * Dynamics. Existence theorems. Implicit functions.
+
+
+Principles of mathematical analysis. Rudin, Walter, 1921-2010. -- New York, McGraw-Hill [1964]
+  * ix, 270 p.
+  * Bibliography: p. 259.
+  * call number: QA 300 .R834 1964
+  * Mathematical analysis.
+
+
+Principles of modern physics. French, A. P. (Anthony Philip), 1920- -- New York, Wiley [1958]
+  * ix, 355 p.
+  * call number: QC 173 .F7217
+  * Matter -- Constitution. Quantum theory. Relativity (Physics)
+
+
+Probability; a survey of the mathematical theory. Lamperti, J. (John) -- New York, W. A. Benjamin, 1966.
+  * x, 150 p.
+  * Bibliography: p. 144-147.
+  * call number: QA 273 .L26
+  * Probabilities.
+
+
+The problem of Lagrange in the calculus of variations. Bliss, Gilbert Ames, 1876-1951. -- 
+  * 3 p. l., 75 numb. l.
+  * Mimeographed.
+  * call number: QA 316 .B5
+  * Calculus of variations.
+
+
+Problems in analysis: Princeton, N.J., Princeton University Press, 1970.
+  * x, 351 p.
+  * Contains some of the papers presented at a symposium held at Princeton University, Apr. 1-3, 1969, together with a number of papers contributed by former students of S. Bochner.; Includes bibliographies.
+  * call number: QA 300 .P9623
+  * Mathematical analysis.
+
+
+Problème général de la stabilité du mouvement, Li͡apunov, A. M. (Aleksandr Mikhaĭlovich), 1857-1918. -- Princeton, Princeton Univ. Press, 1947.
+  * [203]-474 p.
+  * Imprint varies.
+  * call number: QA 871 .L613
+  * Stability.
+
+
+Proceedings of the conference on differential equations held at the University of Maryland, March 17, 18, and 19, 1955. University of Maryland, College Park. Institute for Fluid Dynamics and Applied Mathematics. -- College Park, University of Maryland Book Store, 1956.
+  * xii, 294 p.
+  * Includes bibliographical references.
+  * call number: QA 371 .M393
+  * Differential equations.
+
+
+Proceedings of the International Mathematical Congress held ... International Congress of Mathematicians. -- Toronto : University of Toronto Press, 
+  * v. :
+  * Title varies slightly; i.e. title varies from English to French to German to Italian, depending on country where congress is held.; Imprint varies; each congress is published in the country where the congress is held.; Description based on: 1924.
+  * call number: QA 1 .In81
+  * Mathematics -- Congresses -- Periodicals.
+
+
+Proceedings. International Symposium on Algebraic Number Theory (1955 : Tokyo and Nikko) -- 
+  * xx, 267 p.
+  * Includes bibliographies.; Organized by the Science Council of Japan under the joint sponsorship with the International Mathematical Union.
+  * call number: QA 247 .I61
+  * Number theory.
+
+
+Proceedings. International Symposium on Linear Spaces (1960 : Jerusalem) -- Jerusalem, Jerusalem Academic Press; 1961.
+  * xi, 452 p.
+  * "Held ... under the auspices of the International Mathematical Union."; A publication of the Israel Academy of Sciences and Humanities.; Includes bibliographies.
+  * call number: QA 251 .I61 1960
+  * Algebras, Linear -- Congresses.
+
+
+Profinite groups, arithmetic, and geometry, Shatz, Stephen S. -- [Princeton, N.J.] Princeton University Press, 1972.
+  * x, 252 p.
+  * Bibliography: p. 248-252.
+  * call number: QA 171 .S585 
+  * Algebraic number theory. Finite groups. Homology theory.
+
+
+Projektive Geometrie. Blaschke, Wilhelm, 1885-1962. -- Wolfenbüttel, Wolfenbütteler Verlagsanstalt, 1947.
+  * 160 p.
+  * call number: QA 471 .B644 1947
+  * Geometry, Projective.
+
+
+Propriétés des espaces abstraits les plus généraux ... Appert, Antoine. -- Paris, Hermann & cie, 1934.
+  * 2 v.
+  * v. 1. Ensembles ouverts, fermés, denses en soi, clairsemés. Connexion -- v. 2. Compacité, séparabilité, transformations et fonctionnelles.
+  * call number: QA 248 .Ap48
+  * Set theory.
+
+
+Prospects in mathematics, Princeton, N.J., Princeton University Press, 1971.
+  * vii, 185 p.
+  * Five lectures given at a symposium held in Princeton on March 16-18, 1970.; Text of one lecture in French.; Includes bibliographies.
+  * call number: QA 1 .P79
+  * Mathematics -- Congresses.
+
+
+Publications of Marston Morris. Morse, Marston, 1892- -- [S.l. : various], 1916-1977.
+  * 5 v. :
+  * Individually published works of Marston Morse bound together subsequent to publication.; Includes bibliographical references.; Title from spine.; v. 1. 1916-1932 -- v. 2. 1933-1941 -- v. 3. 1942-1950 -- v.4. 1951-1962 -- v. 5. 1963-1977.
+  * call number: QA 3 .M7143 1916
+  * Collected works of mathematicians. -- local Global analysis (Mathematics) Mathematics. Morse, Marston, -- 1892- Topology.
+
+
+Qualitative theory of differential equations, Nemyt︠s︡kiǐ, Viktor Vladimirovich, 1900- -- Princeton, N.J., Princeton University Press, 1960.
+  * 523 p.
+  * call number: QA 371 .N344 E3
+  * Differential equations. Dynamics.
+
+
+Quelques classes de fonctions entières limites de polynomes et de fonctions méromorphes limites de fractions rationnelles, Obreshkov, N. (Nikola), 1896-1963 -- Paris, Hermann & cie, 1941.
+  * 2 p.l., [7]-47 p., 2 1.
+  * Includes bibliographical references, pp. 46-47.
+  * call number: QA 351 .O13
+  * Functions, Meromorphic. Functions.
+
+
+Ramification theoretic methods in algebraic geometry. Abhyankar, Shreeram Shankar. -- Princeton, N.J., Princeton University Press, 1959.
+  * 96 p.
+  * call number: QA 564 .A147 
+  * Algebraic fields. Geometry, Algebraic.
+
+
+Real analysis Royden, H. L. -- New York, Macmillan [1968]
+  * xii, 349 p.
+  * Bibliography: p. 337-338.
+  * call number: QA 331.5 .R888 1968
+  * Analyse fonctionnelle. Fonctions de variables réelles. Functional analysis. Functions of real variables. Measure theory. Mesure, Théorie de la.
+
+
+Report. International Colloquium on Zeta-functions, Bombay, 1956. -- 
+  * xii, 298 p.
+  * "[Jointly sponsored and] with the financial assistance of the International Mathematical Union, the Ministry of Natural Resources and Scientific Research of the Government of India, the Sir Dorabji Tata Trust, and the Tata Institute of Fundamental Research."
+  * call number: QA 351 .I55 1956c
+  * Functions, Zeta -- Congresses.
+
+
+A representation of a function of several variables by a finite number of powers with continuous coefficients / Hekimian, Mardiros Epipan. -- 
+  * 52 leaves ;
+  * Thesis (M.A)--Cornell University.; Typescript (carbon copy); Includes bibliographical references.
+  * call number: QA 331.5 .H4
+  * Functions of real variables.
+
+
+Riemann surfaces, Ahlfors, Lars V. (Lars Valerian), 1907-1996. -- Princeton, N.J., Princeton University Press, 1960.
+  * 382 p.
+  * call number: QA 333 .Ah481
+  * Riemann surfaces. Topology.
+
+
+Riemannian geometry, Eisenhart, Luther Pfahler, 1876-1965. -- Princeton, Princeton University Press, 1926.
+  * vii, 262 p.
+  * Bibliography: p. [252]-256.
+  * call number: QA 641 .Ei83 1926 
+  * Geometry, Differential. Riemann surfaces.
+
+
+Rings and ideals. McCoy, Neal Henry, 1905- -- [Buffalo] Mathematical Assn. of America [1948]
+  * xii, 216 p.
+  * call number: QA 247 .M136
+  * Algebra, Abstract. Algebraic fields.
+
+
+Scattering theory for automorphic functions / Lax, Peter D. -- Princeton, N.J. : Princeton University Press, 1976.
+  * x, 300 p. :
+  * Bibliography: p. 297-298.; Includes index.
+  * call number: QA 353 .A9 L39 1976
+  * Automorphic functions. Scattering (Mathematics)
+
+
+Science et méthode, Poincaré, Henri, 1854-1912. -- Paris, E. Flammarion, 1927.
+  * 314 p.
+  * call number: Q 175 .P76 1927
+  * Science -- Methodology.
+
+
+Science in the making. Hildebrand, Joel Henry, 1881-1983. -- New York, Columbia University Press, 1957.
+  * 116 p.
+  * call number: Q 175 .H642
+  * Science.
+
+
+Science, government, and the universities. National Academy of Sciences (U.S.) -- Seattle, University of Washington Press, 1966.
+  * vii, 116 p.
+  * Includes the papers presented at a symposium organized by H. Neurath and held during the 1965 meeting of the National Academy of Sciences at the University of Washington.
+  * call number: Q 180 .Un3 N277
+  * Research -- United States. Science -- Study and teaching -- United States. Science and state -- United States.
+
+
+Scritti matematici offerti a Mauro Picone nel suo 90 ̊compleanno. Roma : Rendiconti di Matematica, 1975.
+  * 687 p. :
+  * Italian, English or French.; Includes bibliographies.
+  * call number: QA 7 .S385 1975
+  * Mathematics. Picone, Mauro, -- 1885-1977.
+
+
+Selecta Hermann Weyl, hrsg. zu seinem siebzigsten Geburtstag von der Eidgenösischen Technischen Hochschule in Zürich und vom Institut for Advanced Study in Princeton. Weyl, Hermann, 1885-1955. -- Basel, Birkhäuser, 1956.
+  * 592 p.
+  * call number: QA 3 .W548
+  * Collected works of mathematicians. -- local
+
+
+Selecta; Paris, Gauthier-Villars, 1935.
+  * 432 p.
+  * "Liste des travaux par années": p. [413]-428.
+  * call number: QA 3 .H117 
+  * Collected works of mathematicians. -- local Hadamard, Jacques, -- 1865-1963. Mathematics.
+
+
+Selected papers / Morse, Marston, 1892- -- New York : Springer-Verlag, c1981.
+  * xlvi, 882 p. :
+  * Bibliography: p. 877-882.
+  * call number: QA 3 .M714
+  * Collected works of mathematicians. -- local Global analysis (Mathematics) Mathematics.
+
+
+Selected topics in the classical theory of functions of a complex variable. Heins, Maurice, 1915- -- New York, Holt, Rinehart and Winston [1962]
+  * 100 p.
+  * call number: QA 331 .H471 
+  * Functions of complex variables.
+
+
+Semi-ordered linear spaces. Nakano, Hidegorō, 1909- -- Tokyo, Japan Society for the Promotion of Science, 1955.
+  * 508 p.
+  * "Twenty one papers [in German and English which] ... appeared during 1941-53."
+  * call number: QA 320 .N3
+  * Functional analysis.
+
+
+Semicentennial publications ... American Mathematical Society. -- [New York, American Mathematical Society, 1938]
+  * 2 v.
+  * Half-title; each vol. has special t.-p.; "Corrigenda et addenda" inserted in v. 1.; Includes bibliographies.; v. 1. A semicentennial history of the American Mathematical Society, 1888-1938, with biographies and bibliographies of the past presidents, by Raymond Clare Archibald.--v. 2. Semicentennial addresses of the American Mathematical Society.
+  * call number: QA 1 .Am36a
+  * Mathematics -- Societies.
+
+
+Seminar on convex sets, 1949-1950 / Institute for Advanced Study (Princeton, N.J.) -- 
+  * 88 p. ;
+  * Bibliography: p. 87.
+  * call number: QA 253 .B317
+  * Topology
+
+
+Seminar on the Atiyah-Singer index theorem Palais, Richard S., ed. -- Princeton, N.J., Princeton University Press, 1965.
+  * x, 366 p.
+  * call number: QA 611 .P154
+  * Differential topology. Homology theory.
+
+
+Seminar on transformation groups. Borel, Armand. -- Princeton, N.J., Princeton University Press, 1960.
+  * 245 p.
+  * call number: QA 601 .B731 
+  * Algebraic topology. Transformations (Mathematics)
+
+
+Seminars on analytic functions. Conference on Analytic Functions Institute for Advanced Study Princeton, N. J., 1957. -- Princeton : Institute for Advanced Study, [1958?]
+  * 2 v.
+  * "TN58-750"; "AD201-502" changed in ms. to: "AD205-641"; Includes bibliographical references.
+  * call number: QA 331 .C748
+  * Functions -- Collected works.
+
+
+Set theory and the continuum hypothesis Cohen, Paul J., 1934- -- New York, W. A. Benjamin [1966]
+  * 154 p.
+  * Bibliography: p. 153-154.
+  * call number: QA 9 .C678 
+  * Logic, Symbolic and mathematical. Set theory.
+
+
+Set topology Vaidyanathaswamy, R. -- New York, Chelsea Pub. Co. [1960]
+  * 304 p.
+  * call number: QA 611 .V191
+  * Set theory. Topology.
+
+
+Several complex variables, Bochner, S. (Salomon), 1899-1982. -- Princeton, Princeton Univ. Press, 1948.
+  * ix, 216 p.
+  * Includes "References."
+  * call number: QA 331 .B631s
+  * Functions of complex variables.
+
+
+A short table of integrals, Peirce, Benjamin Osgood, 1854-1914. -- Boston, Ginn and company [c1929]
+  * 1 p.l., 156 p.
+  * call number: QA 310 .P353s 1929
+  * Integrals.
+
+
+Singular integrals and differentiability properties of functions Stein, Elias M., 1931- -- Princeton, N.J., Princeton University Press, 1970.
+  * xiv, 287 p.
+  * An outgrowth of the author's Intégrales singulières et fonctions différentiables de plusieurs variables.; Bibliography: p. 279-287.
+  * call number: QA 331.5 .S75
+  * Functions of real variables. Harmonic analysis. Singular integrals.
+
+
+Singular points of complex hypersurfaces, Milnor, John W. (John Willard), 1931- -- Princeton, N.J., Princeton University Press, 1968.
+  * 122 p.
+  * Bibliography: p. 117-122.
+  * call number: QA 564 .M53
+  * Geometry, Algebraic.
+
+
+Smoothings of piecewise linear manifolds, Hirsch, Morris W., 1933- -- Princeton, Princeton University Press, 1974.
+  * ix, 132, [2] p.
+  * Bibliography: p. 132-[133]
+  * call number: QA 613.4 .H57
+  * Manifolds (Mathematics) Piecewise linear topology.
+
+
+Spectral theory in the Hilbert space. Nakano, Hidegorō, 1909- -- Tokyo, Japan Society for the Promotion of Science, 1953.
+  * iv, 300 p.
+  * Bibliography: p. 299-300.
+  * call number: QA 689 .N145s
+  * Hilbert space. Spectral theory (Mathematics)
+
+
+Stability in celestial mechanics / Hagihara, Yūsuke, 1897- -- Tokyo : Kasai, 1957.
+  * x, 106 p. :
+  * "Jubilee publication in commemoration of the sixtieth birthday of Professor Yusuke Hagihara by his friends and pupils."; "List of Prof. Hagihara's published papers and books" : p. [iii]-x.; Includes bibliographies.
+  * call number: QB 351 .H27 1957
+  * Celestial mechanics
+
+
+Stability in nonlinear control systems. Letov, A. M. (Aleksandr Mikhaĭlovich) -- Princeton, Princeton University Press, 1961.
+  * 316 p.
+  * Includes bibliography.
+  * call number: TJ 213 .L649
+  * Automatic control. Stability.
+
+
+Stable and random motions in dynamical systems: Moser, Jürgen, 1928- -- Princeton, N.J., Princeton University Press, 1973.
+  * viii, 198 p.
+  * This work is an outgrowth of five lectures given by J. Moser at the Institute for Advanced Study on Feb. 7, 14, and 21, 1972.; Bibliography: p. 191-198.
+  * call number: QB 351 .M74
+  * Celestial mechanics.
+
+
+Stable homotopy theory. Adams, J. Frank (John Frank) -- Berlin, Springer-Verlag, 1969.
+  * 78 p.
+  * Bibliography: p. 74.
+  * call number: QA 7 .L28 no.3 1969
+  * Homotopy theory.
+
+
+Stationary processes and prediction theory. Furstenberg, Harry. -- Princeton, N.J., Princeton University Press, 1960.
+  * 283 p.
+  * Includes bibliography.
+  * call number: QA 273 .F991
+  * Mathematical statistics. Probabilities.
+
+
+Stationary stochastic processes. Hida, Takeyuki, 1927- -- Princeton, N.J., Princeton University Press, 1970.
+  * iv, 161, A3 p.
+  * Includes bibliographies.
+  * call number: QA 273 .H643
+  * Stationary processes.
+
+
+Strong rigidity of locally symmetric spaces, Mostow, George D. -- Princeton, N.J., Princeton University Press, 1973.
+  * v, 195 p.
+  * Bibliography: p. 193-195.
+  * call number: QA 649 .M78 
+  * Lie groups. Riemannian manifolds. Symmetric spaces.
+
+
+Structural models; Conrad, R. D. -- Washington : U. S. Govt. Print. Off., 1938.
+  * 54 p.
+  * "The second part contains the description and results of recent and current investigations, and is necessarily classed as confidential."; "Selected bibliography": p. 53-54.
+  * call number: VM 1 .U581 no. 13
+  * Ship models -- Testing.
+
+
+Structure générale des nomogrammes et des systèmes nomographiques, Lambert, René. -- Paris, Hermann et Cie, 1937.
+  * 3 p. l., [9]-63, [1] p.
+  * call number: QA 90 .L3
+  * Nomography (Mathematics)
+
+
+Studies and essays presented to R. Courant on his 60th birthday, Jan. 8, 1948. New York, Interscience Publishers [1948]
+  * 470 p.
+  * call number: QA 7 .S78 1948
+  * Courant, Richard, -- 1888-1972. Mathematics
+
+
+Studies in global geometry and analysis. Chern, Shiing-Shen, 1911-2004. -- [Buffalo] Mathematical Association of America; distributed by Prentice-Hall [New York, 1967]
+  * 197 p.
+  * Includes bibliographies.; What is analysis in the large? By M. Morse.--Curves and surfaces in Euclidean space, by S.S. Chern.--Differential forms, by H. Flanders.--On conjugate and cut loci, by S. Kobayashi.--Surface area, by L. Cesari.--Integral geometry, by L.A. Santalo.
+  * call number: QA 641 .C54 1967
+  * Geometria Analitica -- larpcal Geometria Diferencial -- larpcal Geometry, Differential. Global analysis (Mathematics)
+
+
+Studies in modern analysis. Buck, R. Creighton (Robert Creighton), 1920- ed. -- Buffalo?] Mathematical Association of America; distributed by Prentice-Hall [Englewood Cliffs, N.J., 1962]
+  * viii, 182 p.
+  * Includes bibliographies.
+  * call number: QA 321 .B83 1962
+  * Mathematical analysis.
+
+
+Sur les classes de fonctions définies par des inégalites portant sur leurs derivées successives, Cartan, Henri Paul, 1904- -- Paris, Hermann, 1940 [i.e. 1941]
+  * 33 p.,
+  * Colophon dated 1941.
+  * call number: QA 331 .C24 1941
+  * Functions.
+
+
+Sur les courbes gauches du troisième et du quatrième ordere en géométrie finie... Courtand, Marc. -- Paris, Hermann & cie, 1940.
+  * 1 p.l., 85, [2] p.
+  * call number: QA 581 .C835
+  * Curves, Cubic. Curves, Quartic.
+
+
+Sur les difféomorphosmes de la sphère de dimension trois ... -- Cerf, Jean. -- Berlin ; Springer-Verlag, 1968.
+  * xii, 133 p. --
+  * call number: QA 7 .L28 no.53
+  * Differential topology. Homology theory Homotopy theory
+
+
+Sur les espaces fibres et les variétés feuilletées, Wu, Wen-tsün. -- Paris, Hermann, 1952.
+  * 158 p.
+  * Includes bibliographies.
+  * call number: QA 611 .W95
+  * Topology.
+
+
+Sur les espaces à structure uniforme et sur la topologie générale, Weil, André, 1906- -- Paris, Hermann & cie, 1938.
+  * 39, [1] p.
+  * call number: QA 689 .W429s
+  * Generalized spaces. Topology.
+
+
+Sur les théorèmes inverses des procédés de sommabilité, Karamata, Jovan, 1902- -- Paris, Hermann & Cie, 1937.
+  * 46, [1] p.
+  * "Index bibliographique": p. [41]-46.
+  * call number: QA 295 .K3
+  * Convergence. Series, Infinite.
+
+
+Sur les valeurs exceptionnelles des fonctions méromorphes et de leurs dérivées, Valiron, Georges, 1884- -- Paris, Hermann & cie, 1937.
+  * 53 p., 1 l.
+  * call number: QA 55 .V238
+  * Functions.
+
+
+Surface area. Cesari, Lamberto. -- Princeton, Princeton University Press, 1956.
+  * 595 p.
+  * call number: QA 571 .C421
+  * Surfaces.
+
+
+Surgery on compact manifolds Wall, C. T. C. (Charles Terence Clegg) -- London, Academic Press, 1970.
+  * x, 280 p.
+  * Bibliography: p. 269-277.
+  * call number: QA 613 .W35
+  * Manifolds (Mathematics) Surgery (Topology)
+
+
+Symbolic dynamics : Morse, Marston, 1892- -- Princeton, N.J. : The Institute for Advanced Study, c1974, 1966.
+  * iv, 87 leaves ;
+  * Photocopy. Ann Arbor, Mich. : University Microfilms International. -- 28 cm.
+  * call number: QA 845 .M886
+  * Stability.
+
+
+Symmetry. Weyl, Hermann, 1885-1955. -- Princeton, Princeton University Press, 1952.
+  * 168 p.
+  * "Preface and bibliographical remarks": 5th and 6th prelim. pages.
+  * call number: N 76 .W546
+  * Aesthetics. Proportion (Art)
+
+
+Symposium on Infinite Dimensional Topology / Symposium on Infinite Dimensional Topology, Baton Rouge, La., 1967. -- Princeton, N.J. : Princeton University Press, 1972.
+  * 300 p. ;
+  * call number: QA 611 .A1 S96 1967
+  * Differential topology -- Congresses. Functional analysis -- Congresses. Topology -- Congresses.
+
+
+Systems and roots. Thomas, Joseph Miller, 1898- -- Richmond, Va., William Byrd Press, 1962.
+  * x, 123 p.
+  * "A revision of the author's Differential Systems...published in 1937."
+  * call number: QA 377 .T364d 1962 
+  * Differential equations, Partial.
+
+
+Séminaire Henri Cartan : Séminaire Henri Cartan. -- Paris : Secrétariat mathématique, 1955-1956.
+  * 7 v. ;
+  * "2e édition multigraphiée, revue et corrigée."; Issues for 1951-1952 and 1953-1954 "reprinted April 1955 by the Mathematics Department at M.I.T., with permission of Professor H. Cartan."
+  * call number: QA 155.2 .S46
+  * Algebra, Abstract -- Periodicals.
+
+
+Tauberian theorems. Pitt, H. R. (Harry Raymond), 1914- -- [London] Published for the Tata Institute of Fundamental Research, Bombay, [by] Oxford University Press, 1958.
+  * 174 p.
+  * call number: QA 295 .P688
+  * Numbers, Prime. Series, Infinite. Transformations (Mathematics)
+
+
+Tensor analysis. Nelson, Edward, 1932- -- Princeton, N.J., Princeton University Press, 1967.
+  * iv, 127 p.
+  * call number: QA 433 .N44
+  * Calculus of tensors.
+
+
+Testimoni dello spirito : Città del Vaticano : Libreria editrice vaticana, 1979.
+  * 398 p. :
+  * call number: Z 41 .A3 T47 1979
+  * Autographs -- Collections -- Collections. Biblioteca apostolica vaticana. Morse, Marston, -- 1892- Paul -- VI, -- Pope, -- 1897-1978.
+
+
+Theoretical mechanics, Smith, Percey F. (Percey Franklyn), 1867-1956. -- Boston, Ginn [c1910]
+  * x, 288 p.
+  * call number: QA 805 .Sm63t
+  * Mechanics, Analytic.
+
+
+Theorie der analytischen Funktionen einer komplexen Veränderlichen, Behnke, Heinrich, 1898-1979. -- Berlin Springer 1955
+  * 582p.
+  * call number: QA 331 .B395
+  * Functions of complex variables.
+
+
+Theorie der elliptischen funktionen. Durège, H. (Heinrich), 1821-1893. -- Leipzig, B. G. Teubner, 1908.
+  * viii, 436 p., 1 l.
+  * call number: QA 343 .D933t 1908
+  * Elliptic functions.
+
+
+Die Theorie der Gruppen von endlicher Ordnung : Speiser, Andreas, 1885- -- New York : Dover Publications, 1945.
+  * x, 262 p. :
+  * "First American edition."
+  * call number: QA 171 .Sp32t 1937 
+  * Group theory.
+
+
+Theorie der konvexen Körper, Bonnesen, T. (Tommy), 1873- -- Berlin J. Springer 1934
+  * 164p.
+  * call number: QA 649 .B643t
+  * Geometry, Differential Hyperspace
+
+
+The theory and applications of harmonic integrals / Hodge, W. V. D. (William Vallance Douglas), 1903- -- Cambridge [Eng.] University Press, 1941.
+  * ix, 281 p.
+  * "In its original form the book formed a section of an essay for which the Adams prize of 1936 was awarded, but since then it has been revised and entirely re-written."--Pref.; "References" at end of each chapter.
+  * call number: QA 312 .H664t 
+  * Continuous groups. Integrals. Riemann surfaces.
+
+
+The theory of approximation, Jackson, Dunham, 1888-1946 -- New York, The American mathematical society, 1930.
+  * viii, 178 p.
+  * "Some parts [of the present work] have been published previously, in my thesis, in various articles in the Transactions of the American mathematical society, and elsewhere."--Pref.
+  * call number: QA 221 .J133
+  * Numerical analysis.
+
+
+A theory of cross-spaces. Schatten, Robert, 1911- -- Princeton, Princeton University Press, 1950.
+  * vi, 153 p.
+  * call number: QA 689 .Sch18
+  * Generalized spaces.
+
+
+Theory of equations, Thomas, Joseph Miller, 1898- -- New York and London, McGraw-Hill book company, inc., 1938.
+  * x, 211 p.
+  * call number: QA 211 .T364t
+  * Equations, Theory of.
+
+
+Theory of formal systems. Smullyan, Raymond M. -- Princeton, N.J., Princeton University Press, 1961.
+  * 147 p. 24 cm.
+  * Includes bibliography.
+  * call number: QA 248.5 .S666 1961b
+  * Metamathematics. Recursive functions.
+
+
+Theory of functionals of integral and integro -differential equations. Volterra, Vito, 1860-1940. -- New York, Dover Publications [1959]
+  * 226 p.
+  * call number: QA 431 .V889t En36 1959
+  * Differential equations. Functional analysis. Functions. Integral equations.
+
+
+The theory of functions, Titchmarsh, E. C. (Edward Charles), 1899-1963. -- Oxford, Clarendon Press, 1932.
+  * x, 454 p.
+  * Bibliography: p. [445]-452.
+  * call number: QA 331 .T53t 1932
+  * Functions.
+
+
+The theory of groups, Rotman, Joseph J. -- Boston, Allyn and Bacon, 1965.
+  * xiii, 305 p.
+  * call number: QA 171 .R848
+  * Group theory.
+
+
+The theory of groups. Zassenhaus, Hans. -- New York, Chelsea Pub. Co. [1958]
+  * 265 p.
+  * Translation of Lehrbuch der Gruppentheorie.
+  * call number: QA 171 .Z19LE 1958
+  * Group theory.
+
+
+The theory of groups. Hall, Marshall, 1910-1990. -- New York, Macmillan [1959]
+  * 434 p.
+  * call number: QA 171 .H178
+  * Group theory. Teoria Dos Grupos -- larpcal
+
+
+The theory of groups; Kurosh, A. G. (Aleksandr Gennadievich) -- New York, Chelsea Pub. Co. [1955-56]
+  * 2 v.
+  * call number: QA 171 .K966 E3 1955
+  * Group theory.
+
+
+The theory of harmonic integrals and their applications to algebraic geometry / Kodaira, Kunihiko, 1915-1997. -- [Princeton] : Princeton University, [1953?]
+  * 148, [1] leaves ;
+  * Cover title.; Mimeographed.; "Work done at Princeton University under Contract DA-36-034-ORD-639RD, Office of Ordnance Research, U.S. Army Ordnance."; Bibliography: leaf [149]
+  * call number: QA 331 .K77
+  * Geometry, Algebraic. Integrals.
+
+
+Theory of Lie groups ... Chevalley, C. (Claude), 1909-1984. -- Princeton, Princeton University Press, 1946-
+  * v.
+  * call number: QA 385 .C427t
+  * Continuous groups.
+
+
+The theory of Max-Min and its application to weapons allocation problems Danskin, John M. (John Moffatt), 1923- -- Berlin, Springer-Verlag, 1967.
+  * viii, 126 p.
+  * call number: QA 270 .D35
+  * Games of strategy (Mathematics) Maxima and minima.
+
+
+The theory of numbers / Carmichael, R. D. (Robert Daniel), 1879-1967 -- New York, J. Wiley & sons inc.; [etc., etc.] 1914.
+  * 94 p.
+  * call number: QA 241 .C212t
+  * Number theory.
+
+
+The theory of real functions ... Stone, Marshall H. (Marshall Harvey), 1903-1989. -- Ann Arbor, Mich., Edwards Brothers, Inc., 1940-
+  * v.
+  * "Lithoprint reproduction of author's manuscript."; [v.1] Pt. 1. The real number system. Pt. 2. The theory of classes.
+  * call number: QA 331.5 .S8
+  * Functions of real variables. Set theory.
+
+
+The theory of statistical inference. Zacks, Shelemyahu, 1932- -- New York, Wiley [1971]
+  * xiii, 609 p.
+  * Bibliography: p. 583-601.
+  * call number: QA 276 .Z26
+  * Mathematical statistics.
+
+
+The theory of the positron and related topics : Pauli, Wolfgang, 1900-1958. -- [Princeton, N. J. : s. n., 1936]
+  * [3], 172, xi leaves :
+  * Mimeographed.
+  * call number: QC 793.5 .P622 P38
+  * Positrons.
+
+
+The theory of valuations. Schilling, Otto F. G. (Otto Franz Georg), 1911-1973. -- New York, American Mathematical Society, 1950.
+  * vii, 253 p.
+  * Includes bibliographies.
+  * call number: QA 341 .Sch33
+  * Algebraic fields. Algebraic functions.
+
+
+Théorie des distributions. Schwartz, Laurent. -- Paris, Hermann, 1950-
+  * v.
+  * "Index bibliographique": v. 2, p. [155]-159.
+  * call number: QA 320 .Sch95
+  * Functional analysis. Topology.
+
+
+Théorie du potentiel Newtonien : Poincaré, Henri, 1854-1912. -- Paris : Gauthier-Villars, 1899.
+  * 366 p. :
+  * call number: QA 825 .P75 1899
+  * Potential theory (Mathematics)
+
+
+Théorie générale des fonctionnelles, Volterra, Vito, 1860-1940. -- Paris, Gauthier-Villars, 1936-
+  * v.
+  * call number: QA 331 .V889t
+  * Functional analysis. Integral equations.
+
+
+... Théorie générale des structures, Glivenko, Valère -- Paris, Hermann & c', 1938.
+  * 54 p., 1 l.
+  * Actualités scientifiques et industrielles. 652; "Bibliographic": p. [53]-54.
+  * call number: QA 171 .G561
+  * Algebra. Logic, Symbolic and mathematical.
+
+
+Théorie invariantive du calcul des variations, Donder, Th. de (Théophile), 1872- -- Paris, Gauthier-Villars, 1935.
+  * x, 230, xi p.
+  * call number: QA 316 .D65 1935
+  * Calculus of variations. Differential invariants.
+
+
+Théories spectrales. Bourbaki, Nicolas. -- Paris, Hermann [1967-
+  * v.
+  * Chaps. 1 et 2. Algèbres normées. Groupes localement compacts commutatifs.
+  * call number: QA 280 .B658 
+  * Spectral theory (Mathematics)
+
+
+Topics in algebraic and analytic geometry; Griffiths, Phillip, 1938- -- Princeton, N.J., Princeton University Press, 1974.
+  * vi, 219 p.
+  * "Revised version of the notes taken from a class taught at Princeton University in 1971-1972."; Bibliography: p. 217-219.
+  * call number: QA 564 .G66
+  * Geometry, Algebraic. Geometry, Analytic.
+
+
+Topics in dynamics. Nelson, Edward, 1932- -- Princeton, N.J., Princeton University Press, 1969- [c1970]
+  * v.
+  * Includes bibliographical references.; 1. Flows.
+  * call number: QA 372 .N44
+  * Differential equations. Dynamics.
+
+
+Topics in harmonic analysis, related to the Littlewood-Paley theory, Stein, Elias M., 1931- -- Princeton, N.J., Princeton University Press, 1970.
+  * viii, 146 p.
+  * "Contains essentially the material presented in a course given during the spring semester of 1968 at Princeton University."; Includes bibliographical references.
+  * call number: QA 403 .S8
+  * Harmonic analysis. Lie groups. Semigroups.
+
+
+Topics in topology, Lefschetz, Solomon, 1884-1972. -- Princeton, Princeton university press; 1942.
+  * 3 p.l., 137 p.
+  * call number: QA 611 .L522t
+  * Topology.
+
+
+Topological analysis. Whyburn, Gordon Thomas, 1904- -- Princeton, N.J., Princeton University Press, 1964.
+  * xii, 125 p.
+  * call number: QA 611 .W622 1964
+  * Mathematical analysis. Topology.
+
+
+Topological dynamics, Gottschalk, Walter Helbig, 1918- -- Providence, American Mathematical Society, 1955.
+  * vii, 151 p.
+  * call number: QA 611 .G687
+  * Dynamics. Topology
+
+
+Topological groups, Pontri͡agin, L. S. (Lev Semenovich), 1908-1988. -- Princeton, Princeton university press; 1939.
+  * ix, 299 p.
+  * call number: QA 385 .P818 E3
+  * Continuous groups. Topology.
+
+
+Topological methods in the theory of functions of a complex variable. Morse, Marston, 1892- -- Princeton, Princeton University Press, 1947;
+  * ii, 145 p.
+  * Bibliography: p. [141]-143.
+  * call number: QA 331 .M837
+  * Functions of complex variables. Topology.
+
+
+Topological methods in the theory of functions of a complex variable. Morse, Marston, 1892-1977. -- Princeton, Princeton Univ. Press, 1947
+  * ii, 145 p.
+  * Bibliography: p. [141]-143.
+  * call number: QA 331 .M83 1947
+  * Functions of complex variables. Topology.
+
+
+Topological structures / Thron, Wolfgang J. -- New York : Holt, Rinehart and Winston [1966]
+  * x, 240 p.
+  * call number: QA 611.5 .T416
+  * Topology.
+
+
+Topological transformation groups Montgomery, Deane, 1909- -- New York, Interscience Publishers [1955]
+  * 282 p.
+  * call number: QA 385 .M787
+  * Group theory. Topology. Transformations (Mathematics)
+
+
+Topologie algébrique et théorie des faisceaux. Godement, Roger. -- Paris, Hermann [1958-
+  * v.
+  * Actualités scientifiques et industrielles, 1252.
+  * call number: QA 611 .G581 
+  * Algebraic topology.
+
+
+Topologie générale / Bourbaki, Nicolas. -- Paris : Hermann, 1940-1953.
+  * 11 v. in 6 ; 25 cm.
+  * On t.p.: Première partie. Les structures fondamentales de l'analyse.; Includes bibliographical references and indexes.; Ch. 1. Structures topologiques. -- ch. 2. Structures uniformes. -- ch. 3. Groupes topologiques (Théorie élémentaire). -- ch. 4. Nombres réels. -- ch. 5. Groupes a un paramètre. -- ch. 6. Espaces numériques et espaces projectifs. -- ch. 7. Les groupes additifs RII. -- ch. 8. Nombres complexes. -- ch. 9. Utilisation des nombres réels en topologie générale. -- ch. 10. Espaces fonctionnels dictionnaire. -- Fasc. de résultats.
+  * call number: QA 611 .B659 1940
+  * Topology.
+
+
+Topologie, Aleksandrov, P. S. (Pavel Sergeevich), 1896-1982. -- Berlin, J. Springer, 1935-
+  * v.
+  * call number: QA 611 .AL25t
+  * Topology.
+
+
+Topology and linear topological spaces. Nakano, Hidegorō, 1909- -- Tokyo, Maruzen Co., 1951.
+  * 281 p.
+  * Bibliography: p. 277-279.
+  * call number: QA 611 .N3
+  * Topology.
+
+
+Topology from the differentiable viewpoint, Milnor, John W. (John Willard), 1931- -- Charlottesville, University Press of Virginia [1965]
+  * ix, 64 p.
+  * call number: QA 611 .M6594
+  * Differential topology.
+
+
+The topology of fibre bundles / Steenrod, Norman Earl, 1910-1971. -- Princeton : Princeton University Press, 1951.
+  * viii, 229 p. :
+  * Bibliography: p. 223-227.; Includes index.
+  * call number: QA 611 .St32
+  * Topology
+
+
+The topology of the calculus of variations in the large / Li͡usternik, L. A. (Lazarʹ Aronovich), 1899-1981. -- Providence : American Mathematical Society, 1966.
+  * vii, 96 p. :
+  * Translation of Topologii︠a︡ funkt︠s︡ional'nykh prostranstv i variat︠s︡ionnoe ischislenie v t︠s︡elom.; Bibliography: p. 95-96.
+  * call number: QA 316 .L7832
+  * Calculus of variations. Topology.
+
+
+Topology Seminar, Wisconsin, 1965. Topology Seminar (1965 : University of Wisconsin) -- Princeton, N.J., Princeton University Press, 1966.
+  * 246 p.
+  * call number: QA 611 .T676 1965
+  * Topology.
+
+
+Topology, Hocking, John G. (John Gilbert), 1920- -- Reading, Mass., Addison-Wesley Pub. Co. [1961]
+  * 374 p.
+  * call number: QA 611 .H685
+  * Topology.
+
+
+Topology, Lefschetz, Solomon, 1884-1972. -- New York, The American mathematical society, 1930.
+  * ix, 410 p.
+  * Bibliography: p. 393-407.
+  * call number: QA 611 .L5221 1930
+  * Topology.
+
+
+Torsion et type simple d'homotopie, Rham, Georges de. -- Berlin, Springer-Verlag, 1967.
+  * 101 p.
+  * call number: QA 7 .L28 no.48
+  * Homotopy theory.
+
+
+A treatise on the analytical dynamics of particles and rigid bodies: Whittaker, E. T. (Edmund Taylor), 1873-1956. -- Cambridge, University press, 1917.
+  * xii, 432 p.
+  * call number: QA 845 .W617t 1917
+  * Dynamics. Orbits. Three-body problem.
+
+
+Trigonometric series; Jeffery, R. L. -- Toronto, University of Toronto Press, 1956.
+  * 39 p.
+  * "Canadian Mathematical Congress lectures series"
+  * call number: QA 404 .J45
+  * Fourier series.
+
+
+The two-valued iterative systems of mathematical logic, Post, Emil Leon, 1897-1954. -- Princeton, Princeton university press; 1941.
+  * 4 p.l., 122 p.
+  * call number: BC 135 .P845t 
+  * Logic, Symbolic and mathematical.
+
+
+Typical means / Chandrasekharan, K. (Komaravolu), 1920- -- [London] : Published for the Tata Institute of Fundamental Research, Bombay [by] Oxford University Press, 1952.
+  * x, 139 p. :
+  * call number: QA 295 .C361
+  * Series.
+
+
+Un demi-siècle (1907-1956) de notes, Denjoy, Arnaud, 1884-1974. -- Paris, Gauthier-Villars, 1957.
+  * 2 v.
+  * call number: QA 331 .D4161
+  * Functions of complex variables. Functions of real variables. Typology.
+
+
+Univalent functions and conformal mapping. Jenkins, James Allister, 1923- -- Berlin, Springer, 1958.
+  * 167 p.
+  * Includes bibliographical references: p. 160-167.
+  * call number: QA 360 .J52
+  * Conformal mapping. Functions.
+
+
+Variational analysis : Morse, Marston, 1892-1977. -- Mineola, N.Y. : Dover Publications, 2007.
+  * xi, 260 p. ;
+  * Originally published: New York : John Wiley, 1973.; Includes bibliographical references (p. 255-258) and index.
+  * call number: QA 316 .M58 2007
+  * Calculus of variations. Maxima and minima.
+
+
+Variational method and method of monotone operators in the theory of nonlinear equations Vaĭnberg, M. M. (Mordukhaĭ Moiseevich) -- New York, Wiley [1974, c1973]
+  * xi, 356 p.
+  * Translation of Variat︠s︡ionnyĭ metod i metod monotonnykh operatorov v teorii nelineĭnykh uravneniĭ.; "A Halsted Press book."; Bibliography: p. 341-353.
+  * call number: QA 372 .V3213
+  * Calculus of variations. Differential equations, Nonlinear. Monotone operators.
+
+
+Variationsrechnung im Grossen Seifert, H. (Herbert), 1907- -- Bronx, New York : Chelsea Pub. Co., 1971.
+  * 116 p. :
+  * "First published at Leipzig and Berlin in 1938."; "Reprinted at New York, N.Y. in 1948 without textual alteration. The present edition is an unaltered reissue published at New York, N.Y. It is printed on long-life alkaline paper."
+  * call number: QA 315 .S4 1971
+  * Calculus of variations. Generalized spaces.
+
+
+Variationsrechnung im grossen (theorie von Marston Morse) Seifert, H. (Herbert), 1907- -- Leipzig und Verlag und druck von B. G. Teubner, 1938.
+  * 115 p.
+  * Bibliography in Vorwort: p. [3]
+  * call number: QA 315 .Se42v
+  * Calculus of variations.
+
+
+Variationsrechnung und partielle differentialgleichungen erster ordnung, Carathéodory, Constantin, 1873-1950. -- Leipzig und Berlin, B. G. Teubner, 1935.
+  * xi, 407 p.
+  * call number: QA 315 .C176v
+  * Calculus of variations. Differential equations, Partial.
+
+
+Variationsrechnung. -- Koschmieder, Lothar, 1890- -- Berlin : De Gruyter, 1962-
+  * v. :
+  * Includes bibliography.
+  * call number: QA 315 .K86
+  * Calculus of variations.
+
+
+Die variationsrechnung. : Pascal, Ernesto, 1865- -- Leipzig : BG. Teubner, 1899.
+  * vi, 146 p. :
+  * "Alphabetisches verzeichniss der im text citirten schriften" : p. [137]-145.
+  * call number: QA 315 .P26c G317
+  * Calculus of variations.
+
+
+Variétés différentiables: Rham, Georges de. -- Paris, Hermann, 1955.
+  * vii, 196 p.
+  * call number: QA 611 .R468
+  * Homotopy theory. Topology.
+
+
+Variétés différentielles et analytiques. Bourbaki, Nicolas. -- [Paris] Hermann [1967- ]
+  * v.
+  * Errata slip inserted, v. 1; Fascicule de résultats.
+  * call number: QA 331 .B68 1967 
+  * Differential topology. Functions.
+
+
+Vector analysis; Coffin, Joseph George, 1877- -- New York, J. Wiley & sons; [etc., etc.] [1911].
+  * xxii, 262 p.
+  * Bibliography: p. xix.
+  * call number: QA 261 .C654v
+  * Vector analysis.
+
+
+Vector analysis; Gibbs, J. Willard (Josiah Willard), 1839-1903. -- New Haven, Yale University Press, 1913 [c1901]
+  * xviii, 436 p.
+  * call number: QA 261 .G4 1913
+  * Vector analysis.
+
+
+Vector measures, Dinculeanu, N. (Nicolae) -- Berlin, Veb Deutscher Verlag der Wissenschaften, 1966.
+  * 432 p.
+  * "Contains the material of a special course of measure theory delivered at the University of Bucharest."; Bibliography: p. [417]-425.
+  * call number: QA 322 .D583
+  * Banach spaces. Integrals, Generalized. Measure theory.
+
+
+Vorlesungen über die theorie der polyeder, unter einschluss der elemente der topologie, Steinitz, Ernst, 1871-1928. -- Berlin, J. Springer, 1934.
+  * viii, 351, [1] p.
+  * call number: QA 611 .St35v
+  * Polyhedra. Topology.
+
+
+Vorlesungen über Fouriersche Integrale. Bochner, S. (Salomon), 1899-1982. -- Leipzig Akademische Verlagsgesellschaft 1932
+  * 229p.
+  * call number: QA 404 .B631v
+  * Fourier series.
+
+
+Vorlesungen über Himmelsmechanik. Siegel, C. L. (Carl Ludwig), 1896-1981. -- Berlin, Springer, 1956.
+  * viii, 212 p.
+  * Bibliography: p.[210]-212.
+  * call number: QB 351 .S5711
+  * Celestial mechanics. Three-body problem.
+
+
+Vorlesungen über klassische Funktionentheorie / Behnke, Heinrich, 1898-1979. -- Münster (Westf.) : Aschendorffsche, 1950-
+  * v. :
+  * "Herausgeber: Mathematisches Institut an der Universität Münster."; Includes index.
+  * call number: QA 331 .B4
+  * Functions.
+
+
+Vorlesungen über reelle Funktionen. Carathéodory, Constantin, 1873-1950. -- New York, Chelsea Pub. Co., 1948 [c1927]
+  * x, 718 p.
+  * call number: QA 331 .C176r 1927 
+  * Functions of real variables.
+
+
+Vorlesungen über variationsrechnung / Bolza, O. (Oskar), 1857-1942. -- Leipzig und Berlin : B. G. Teubner, 1909 ;
+  * ix, 705, 13 p. :
+  * "Unveränderter nachdruck."
+  * call number: QA 315 .B639
+  * Calculus of variations.
+
+
+What is Mathematics? Courant, Richard, 1888-1972. -- London, Oxford university press [c1941]
+  * 3 p. l., v-xix, 521 p.
+  * "Suggestions for further reading": p. 511-514.
+  * call number: QA 9 .C833w 
+  * Mathematics.
+
+
+Éléments d'analyse ... Dieudonné, Jean Alexandre, 1906- -- Paris, Gauthier-Villars, 1968-
+  * v.
+  * call number: QA 300 .D567 F5
+  * Mathematical analysis.
+
+
+Équations fonctionnelles relatives aux probabilités continues en chaîne, Hostinský, Bohuslav, 1884- -- Paris, Hermann et cie, 1939.
+  * 46, [2] p.
+  * call number: QA 431 .H831
+  * Functional equations. Probabilities.
+
+
+... Étude des sommes d'exponentielles réelles / Schwartz, Laurent. -- Paris : Hermann & cie ; 1943.
+  * 88 p., 2 leaves ;
+  * Issued also as thesis, Strasbourg.; "Bibliographie": p. [87]-88.; Includes index.
+  * call number: QA 295 .Sch95
+  * Dirichlet series. Series.
+
+

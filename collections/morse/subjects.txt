@@ -1,0 +1,1486 @@
+
+
+Subject index
+
+
+Abelian groups.
+	1. Harmonic analysis on commutative groups with the Haar measure and the theory of characters / (QA 403 .R3)
+	2. Abelian groups. (QA 171 .F951 1960)
+	3. Introduction to algebraic K-theory, (QA 251.5 .M55 1971)
+
+Aesthetics.
+	1. Aesthetic measure, (BH 201 .B535a)
+	2. Symmetry. (N 76 .W546)
+
+Algebra, Abstract -- Periodicals.
+	1. Séminaire Henri Cartan : (QA 155.2 .S46)
+
+Algebra, Abstract.
+	1. Rings and ideals. (QA 247 .M136)
+	2. Lattice theory, (QA 266 .B535L)
+	3. A decision method for elementary algebra and geometry (QA 71 .T177)
+	4. Algebra (QA 266 .M254 )
+	5. Groupes et algèbres de Lie. (QA 387 .B687 1960 )
+
+Algebra, Homological.
+	1. Homological algebra, (QA 611 .C241h)
+
+Algebra, Universal
+	1. Leçons d'algèbre moderne (QA 251 .D819)
+
+Algebra, Universal.
+	1. Lectures on commutative algebra, (QA 251 .B631L)
+	2. Algebren, (QA 251 .D488a)
+	3. Algèbre commutative. (QA 251.3 .B6813 1961 )
+
+Algebra.
+	1. Introduction to higher algebra. (QA 154 .B631i 1964)
+	2. Outline of notes on algebra (Mathematics 315) / (QA 152 .W4)
+	3. Higher algebra, (QA 154 .D75)
+	4. A first course in algebra. (QA 152 .L652 1942)
+	5. Moderne Algebra, (QA 154 .W121m 1937)
+	6. ... Théorie générale des structures, (QA 171 .G561)
+	7. Algèbre. (QA 155 .D853 1954)
+	8. Algèbre / (QA 155 .B682)
+	9. Algèbre / (QA 155 .B682 1962)
+
+Algebraic fields.
+	1. The discrete series of GLn over a finite field. (QA 171 .L848)
+	2. Rings and ideals. (QA 247 .M136)
+	3. The theory of valuations. (QA 341 .Sch33)
+	4. Ramification theoretic methods in algebraic geometry. (QA 564 .A147 )
+	5. Fourier analysis on local fields / (QA 247 .T28 1975)
+
+Algebraic functions.
+	1. The theory of valuations. (QA 341 .Sch33)
+	2. Les combinaisons exceptionelles des fonctions entières et les fonctions algébroïdes, (QA 351 .G4)
+
+Algebraic number theory.
+	1. Profinite groups, arithmetic, and geometry, (QA 171 .S585 )
+	2. Lectures on p-adic L-functions. (QA 247 .I95)
+
+Algebraic topology.
+	1. Seminar on transformation groups. (QA 601 .B731 )
+	2. Lectures on algebraic topology (QA 611 .G65)
+	3. Algebraic topology; (QA 611 .M4161)
+	4. Topologie algébrique et théorie des faisceaux. (QA 611 .G581 )
+	5. Neue topologische Methoden in der algebraischen Geometrie. (QA 564 .H672)
+
+Algebras, Linear -- Congresses.
+	1. Proceedings. (QA 251 .I61 1960)
+
+Algebras, Linear.
+	1. Geometric algebra. (QA 685 .A791 )
+	2. Differential equations, dynamical systems, and linear algebra (QA 372 .H5 )
+
+American Mathematical Society -- History.
+	1. A history of the second fifty years : (QA 1 .A52693 1988 v.1)
+
+Analise Harmonica -- larpcal
+	1. Fourier transforms in the complex domain, (QA 404 .P175f)
+
+Analise Matematica -- larpcal
+	1. Fourier transforms in the complex domain, (QA 404 .P175f)
+
+Analyse fonctionnelle.
+	1. Real analysis (QA 331.5 .R888 1968)
+
+Analytic functions.
+	1. Cluster sets. (QA 248 .N897)
+	2. The equidistribution theory of holomorphic curves. (QA 331 .W8)
+
+Analytic mappings.
+	1. Lectures on complex analytic varieties: finite analytic mappings, (QA 331 .G783 1974)
+
+Analytic spaces.
+	1. Lectures on complex analytic varieties: the local parametrization theorem, (QA 331 .G9762)
+	2. Normal two-dimensional singularities, (QA 331 .L26 )
+	3. Lectures on complex analytic varieties: finite analytic mappings, (QA 331 .G783 1974)
+
+Arithmetic functions.
+	1. Arithmetical functions (QA 246 .C47)
+
+Art.
+	1. Aesthetic measure, (BH 201 .B535a)
+
+Associative rings.
+	1. Introduction to algebraic K-theory, (QA 251.5 .M55 1971)
+
+Atoms.
+	1. Grundlagen der Atomphysik : (QC 173 .B326 )
+
+Autographs -- Collections -- Collections.
+	1. Testimoni dello spirito : (Z 41 .A3 T47 1979)
+
+Automatic control.
+	1. Stability in nonlinear control systems. (TJ 213 .L649)
+
+Automorphic forms.
+	1. Automorphic forms on Adele groups / (QA 171 .G39 1975)
+
+Automorphic functions.
+	1. Scattering theory for automorphic functions / (QA 353 .A9 L39 1976)
+	2. An introduction to the theory of automorphic functions. (QA 351 .F6)
+
+Ballistics.
+	1. Balistique extérieure, (UF 820 .B6)
+
+Banach spaces.
+	1. Vector measures, (QA 322 .D583)
+
+Bers, Lipman.
+	1. Contributions to analysis: (QA 300 .C64)
+
+Biblioteca apostolica vaticana.
+	1. Testimoni dello spirito : (Z 41 .A3 T47 1979)
+
+Birkhoff, George David, -- 1884-1944.
+	1. Collected mathematical papers. (QA 3 .B535 1950)
+
+Braid theory.
+	1. Braids, links, and mapping class groups / (QA 612.23 .B57 )
+
+Brain -- Localization of functions.
+	1. L'activité électrique de l'écorce cérébrale, (QP 385 .B72)
+
+Calculus
+	1. A course in mathematical analysis / (QA 303 .G744c En36)
+	2. Calculus. (QA 303 .M712 )
+
+Calculus of tensors.
+	1. Tensor analysis. (QA 433 .N44)
+	2. An introduction to differential geometry, (QA 641 .E54 1940)
+	3. Lectures on tensor analysis and differential geometry / (QA 433 .M3 )
+	4. An introduction to differential geometry : (QA 641 .E54 1947)
+
+Calculus of variations.
+	1. Vorlesungen über variationsrechnung / (QA 315 .B639)
+	2. Lectures on the calculus of variations / (QA 315 .B639L)
+	3. Variationsrechnung. -- (QA 315 .K86)
+	4. The topology of the calculus of variations in the large / (QA 316 .L7832)
+	5. Lectures on the calculus of variations. (QA 315 .B619L)
+	6. Fondamenti di calcolo delle variazioi. (QA 315 .T612)
+	7. Calculus of variations, (QA 315 .B619c)
+	8. Contributions to the calculus of variations, 1930- (QA 315 .C432uc)
+	9. Calculus of variations (QA 315 .G316 )
+	10. Calculus of variations and optimal control theory (QA 315 .H588)
+	11. The calculus of variations in the large, (QA 315 .M837c)
+	12. Variationsrechnung und partielle differentialgleichungen erster ordnung, (QA 315 .C176v)
+	13. Variationsrechnung im grossen (theorie von Marston Morse) (QA 315 .Se42v)
+	14. Lectures by Marston Morse on analysis in the large, 1936-1937. (QA 315 .M837L)
+	15. Die variationsrechnung. : (QA 315 .P26c G317)
+	16. Les méthodes directes en calcul des variations et en géométrie différentielle / (QA 641 .P281)
+	17. La méthode métrique en calcul des variations. (QA 316 .P3)
+	18. Calculus of variations / (QA 315 .M3)
+	19. The problem of Lagrange in the calculus of variations. (QA 316 .B5)
+	20. Global variational analysis : (QA 614.3 .M67)
+	21. Aspects of the calculus of variations. (QA 315 .L59a)
+	22. Théorie invariantive du calcul des variations, (QA 316 .D65 1935)
+	23. Calculus of variations with applications (QA 315 .E9 )
+	24. Methods of intermediate problems for eigenvalues: (QA 316 .W45 )
+	25. Variational method and method of monotone operators in the theory of nonlinear equations (QA 372 .V3213)
+	26. Variational analysis : (QA 316 .M58 2007)
+	27. Variationsrechnung im Grossen (QA 315 .S4 1971)
+	28. Introduction to analysis in the large. (QA 315 .M837 1951a)
+
+Calculus, Integral.
+	1. Elements of the integral calculus, (QA 308 .B991e)
+
+Calculus, Operational.
+	1. Operational calculus. (QA 432 .M636 E3)
+
+Calculus.
+	1. Cours d'analyse mathématique. (QA 300 .V238)
+	2. Inequalities, (QA 303 .H223i )
+	3. Advanced calculus, (QA 303 .Os24a)
+	4. Lezioni di analisi ... (QA 303 .Se83)
+	5. A first course in the differential and integral calculus, (QA 303 .Os24f)
+	6. Elementary calculus, (QA 303 .W862e 1922 )
+	7. Differential and integral calculus, (QA 303 .H876d )
+	8. Calculus, (QA 303 .S54 1954)
+	9. Introductory calculus. (QA 303 .R5331)
+	10. Fundamentals of the calculus. (QA 303 .R5332)
+	11. Cours d'analyse infinitésimale (QA 300 .L382c 1914 )
+	12. Pages choisies d'analyse générale. (QA 300 .F871)
+
+Categories (Mathematics)
+	1. Algebra (QA 247 .F172)
+
+Celestial mechanics
+	1. Stability in celestial mechanics / (QB 351 .H27 1957)
+
+Celestial mechanics -- Mathematics.
+	1. Celestial mechanics / (QB 351 .P78)
+
+Celestial mechanics.
+	1. Foundations of mechanics / (QA 805 .A159 1978)
+	2. Vorlesungen über Himmelsmechanik. (QB 351 .S5711)
+	3. The analytical foundations of celestial mechanics. (QB 351 .W737a )
+	4. Stable and random motions in dynamical systems: (QB 351 .M74)
+
+Characteristic classes.
+	1. Characteristic classes, (QA 613.618 .M54)
+	2. Characteristic classes / (QA 613.618 .M541)
+
+Ciphers.
+	1. Elementary cryptanalysis; (Z 104 .S47)
+
+Cluster set theory.
+	1. Cluster sets. (QA 248 .N897)
+
+Cobordism theory.
+	1. Lectures on the h-cobordism theorem, (QA 611 .M6595)
+	2. Notes on cobordism theory, (QA 612 .S8)
+
+Collected works of mathematicians. -- local
+	1. Collected mathematical papers. (QA 3 .B535 1950)
+	2. Selecta Hermann Weyl, hrsg. zu seinem siebzigsten Geburtstag von der Eidgenösischen Technischen Hochschule in Zürich und vom Institut for Advanced Study in Princeton. (QA 3 .W548)
+	3. Selected papers / (QA 3 .M714)
+	4. Collected papers / (QA 3 .M7142 1987)
+	5. Selecta; (QA 3 .H117 )
+	6. Publications of Marston Morris. (QA 3 .M7143 1916)
+
+Complex manifolds.
+	1. The Neumann problem for the Cauchy-Riemann complex, (QA 374 .F55)
+
+Conformal mapping.
+	1. Cluster sets. (QA 248 .N897)
+	2. Univalent functions and conformal mapping. (QA 360 .J52)
+
+Connections (Mathematics)
+	1. Les espaces d'éléments à connexion projective normale, (QA 660 .H115)
+
+Continuous groups.
+	1. Lie groups and differential geometry. (QA 385 .N799)
+	2. The classical groups, (QA 385 .W54 1946)
+	3. Theory of Lie groups ... (QA 385 .C427t)
+	4. Topological groups, (QA 385 .P818 E3)
+	5. Linear transformations in Hilbert space and their applications to analysis, (QA 385 .St72L)
+	6. Continuous geometry. (QA 471 .V896c 1960 )
+	7. The theory and applications of harmonic integrals / (QA 312 .H664t )
+	8. Groupes et algèbres de Lie. (QA 387 .B687 1960 )
+
+Control theory.
+	1. Calculus of variations and optimal control theory (QA 315 .H588)
+
+Convergence.
+	1. Sur les théorèmes inverses des procédés de sommabilité, (QA 295 .K3)
+
+Convex domains.
+	1. Convex analysis, (QA 643 .R6 )
+
+Courant, Richard, -- 1888-1972.
+	1. Studies and essays presented to R. Courant on his 60th birthday, Jan. 8, 1948. (QA 7 .S78 1948)
+
+Critical point theory (Mathematical analysis)
+	1. Critical point theory in global analysis and differential topology; (QA 612 .M6)
+	2. Pits, peaks and passes (QA 611 .M66 2000)
+
+Cryptography.
+	1. Elementary cryptanalysis; (Z 104 .S47)
+
+Curvature.
+	1. Curvature and homology. (QA 645 .G618 )
+	2. Curvature and Betti numbers, (QA 645 .Y17)
+
+Curves on surfaces.
+	1. Geodesics and curvature in differential geometry in the large, (QA 641 .R241)
+	2. Geodesics on surfaces of genus zero with knobs / (QA 643 .R5)
+
+Curves, Algebraic.
+	1. Algebraic curves. (QA 564 .W153)
+	2. Lectures on curves on an algebraic surface. (QA 641 .M962)
+
+Curves, Cubic.
+	1. Sur les courbes gauches du troisième et du quatrième ordere en géométrie finie... (QA 581 .C835)
+
+Curves, Quartic.
+	1. Sur les courbes gauches du troisième et du quatrième ordere en géométrie finie... (QA 581 .C835)
+
+Curves.
+	1. On the problem of Plateau, (QA 641 .R119o)
+
+Determinants.
+	1. Einführung in die Determinantentheorie einschliesslich der Fredholmschen Determinanten / (QA 191 .K849e 1925 )
+
+Differentiable dynamical systems.
+	1. Dynamical systems / (QA 845 .B535d 1966)
+
+Differentiable manifolds.
+	1. Global variational analysis : (QA 614.3 .M67)
+
+Differential calculus.
+	1. Differential analysis; (QA 371 .I61)
+	2. Introduction au calcul tensoriel et au calcul différentiel absolu / (QA 311 .J884 1922)
+
+Differential equations
+	1. Elements of the integral calculus, (QA 308 .B991e)
+
+Differential equations, Hyperbolic.
+	1. Hyperbolic differential equations. (QA 371 .L56)
+
+Differential equations, Linear -- Numerical solutions.
+	1. Comparison and oscillation theory of linear differential equations (QA 372 .S92)
+
+Differential equations, Linear.
+	1. Leçons sur les méthodes de Sturm dans la théorie des équations différentielles linéaires et leurs développements modernes, (QA 372 .B631L)
+	2. Leçons sur les séries hypergéométriques et sur quelques fonctions qui s'y rattachent, (QA 372 .G744)
+	3. Le problème de Cauchy et les équations aux dérivées partielles linéaires hyperboliques; (QA 377 .H117 F887)
+
+Differential equations, Nonlinear.
+	1. Variational method and method of monotone operators in the theory of nonlinear equations (QA 372 .V3213)
+
+Differential equations, Partial.
+	1. Contributions to the theory of partial differential equations (QA 371 .B46)
+	2. Existence theorems in partial differential equations. (QA 374 .B458)
+	3. Le problème de Cauchy et les équations aux dérivées partielles linéaires hyperboliques; (QA 377 .H117 F887)
+	4. Variationsrechnung und partielle differentialgleichungen erster ordnung, (QA 315 .C176v)
+	5. Systems and roots. (QA 377 .T364d 1962 )
+
+Differential equations.
+	1. Lectures on differential equations / (QA 371 .L522)
+	2. Proceedings of the conference on differential equations held at the University of Maryland, March 17, 18, and 19, 1955. (QA 371 .M393)
+	3. Qualitative theory of differential equations, (QA 371 .N344 E3)
+	4. Ordinary differential equations (QA 372 .H184)
+	5. Ordinary differential equations. (QA 372 .L529)
+	6. Topics in dynamics. (QA 372 .N44)
+	7. Ordinary differential equations (QA 372 .R42)
+	8. Equazioni differenziali non lineari (QA 372 .S229)
+	9. Lie equations, (QA 387 .K85 )
+	10. The logarithmic potential, discontinuous Dirichlet and Neumann problems, (QA 431 .Ev15L)
+	11. Theory of functionals of integral and integro -differential equations. (QA 431 .V889t En36 1959)
+	12. Introduction to non-linear mechanics, (QA 871 .K949i En36)
+	13. Einführung in die Theorie der Systeme von Differentialgleichungen, (QA 371 .K3)
+	14. Differential equations, (QA 371 .M862d )
+	15. Elementary differential equations, (QA 372 .M383 )
+	16. Differential equations, dynamical systems, and linear algebra (QA 372 .H5 )
+	17. An introduction to the theory of differential equations. (QA 371 .L533)
+
+Differential forms.
+	1. Geometric integration theory. (QA 312 .W617)
+
+Differential invariants.
+	1. Théorie invariantive du calcul des variations, (QA 316 .D65 1935)
+
+Differential operators.
+	1. The Neumann problem for the Cauchy-Riemann complex, (QA 374 .F55)
+
+Differential topology -- Congresses.
+	1. Symposium on Infinite Dimensional Topology / (QA 611 .A1 S96 1967)
+
+Differential topology.
+	1. Sur les difféomorphosmes de la sphère de dimension trois ... -- (QA 7 .L28 no.53)
+	2. Topology from the differentiable viewpoint, (QA 611 .M6594)
+	3. Elementary differential topology; (QA 611 .M966 1963)
+	4. Seminar on the Atiyah-Singer index theorem (QA 611 .P154)
+	5. Critical point theory in global analysis and differential topology; (QA 612 .M6)
+	6. Variétés différentielles et analytiques. (QA 331 .B68 1967 )
+	7. La stratification naturelle des espaces de fonctions différentiables réelles et le théorème de la pseudo-isotopie / (QA 613.6 .C474 1971)
+
+Dirichlet problem.
+	1. La notion de point irrégulier dans le problème de Dirichlet, (QA 405 .V334)
+
+Dirichlet series
+	1. Lectures by Erich Hecke on Dirichlet series, modular functions and quadratic form ; (QA 37 .H355L)
+
+Dirichlet series.
+	1. ... Étude des sommes d'exponentielles réelles / (QA 295 .Sch95)
+
+Discontinuous groups -- Congresses.
+	1. Discontinuous groups and Riemann surfaces; (QA 333 .D57 1973)
+
+Dissertations, Academic -- United States -- Collections.
+	1. Contributions to the calculus of variations, 1930- (QA 315 .C432uc)
+
+Dynamics.
+	1. Qualitative theory of differential equations, (QA 371 .N344 E3)
+	2. Topics in dynamics. (QA 372 .N44)
+	3. Topological dynamics, (QA 611 .G687)
+	4. Dynamical systems / (QA 845 .B535d 1966)
+	5. A treatise on the analytical dynamics of particles and rigid bodies: (QA 845 .W617t 1917)
+	6. The Princeton Colloquium : (QA 331 .Am35p)
+
+Economics -- Mathematical models
+	1. Flows in networks, (QA 265 .F711)
+
+Eigenvalues.
+	1. Methods of intermediate problems for eigenvalues: (QA 316 .W45 )
+
+Electrons.
+	1. The electron, its isolation and measurement (QC 721 .M621e 1917)
+
+Elliptic functions.
+	1. Theorie der elliptischen funktionen. (QA 343 .D933t 1908)
+
+Equations, Theory of.
+	1. Theory of equations, (QA 211 .T364t)
+
+Ergodic theory.
+	1. Introduction to ergodic theory / (QA 313 .S56)
+
+Existence theorems.
+	1. Existence theorems for ordinary differential equations, (QA 371 .M962)
+	2. Existence theorems in partial differential equations. (QA 374 .B458)
+	3. The Princeton Colloquium : (QA 331 .Am35p)
+
+Exponential functions.
+	1. Gap and density theorems, (QA 404 .L578g)
+	2. Fourier transforms in the complex domain, (QA 404 .P175f)
+
+Fiber bundles (Mathematics)
+	1. Lectures on vector bundles over Riemann surfaces, (QA 333 .G9761)
+	2. Lectures on characteristic classes. (QA 611 .M659)
+
+Finite groups.
+	1. Profinite groups, arithmetic, and geometry, (QA 171 .S585 )
+
+Fluid dynamics.
+	1. Introduction to mathematical fluid dynamics (QA 911 .M48)
+
+Fonctions de variables réelles.
+	1. Real analysis (QA 331.5 .R888 1968)
+
+Forms (Mathematics)
+	1. Lectures on modular forms. (QA 244 .G976)
+
+Forms, Quadratic.
+	1. Lectures by Erich Hecke on Dirichlet series, modular functions and quadratic form ; (QA 37 .H355L)
+	2. Introduction to quadratic forms. (QA 243 .O55)
+
+Fourier analysis.
+	1. Introduction to Fourier analysis on Euclidean spaces, (QA 403 .S81)
+	2. Fourier analysis on local fields / (QA 247 .T28 1975)
+
+Fourier series.
+	1. Vorlesungen über Fouriersche Integrale. (QA 404 .B631v)
+	2. Lectures on Fourier integrals; (QA 404 .B631v E3)
+	3. Trigonometric series; (QA 404 .J45)
+	4. Gap and density theorems, (QA 404 .L578g)
+	5. Fourier transforms in the complex domain, (QA 404 .P175f)
+	6. Essais sur les séries trigonométriques, (QA 404 .S163)
+	7. Lectures by S. Bochner on Fourier analysis, 1936-1937. (QA 404 .B631L)
+	8. An elementary treatise on Fourier's series (QA 403 .B991e )
+
+Fourier transformations.
+	1. Fourier transforms, (QA 404 .B631)
+
+Fréchet spaces.
+	1. Fréchet curve classes / (QA 322 .M67 1974)
+
+Funcoes (Matematica) -- larpcal
+	1. Fourier transforms in the complex domain, (QA 404 .P175f)
+
+Functional analysis -- Congresses.
+	1. Symposium on Infinite Dimensional Topology / (QA 611 .A1 S96 1967)
+	2. Analytic functions, (QA 331 .C7481)
+
+Functional analysis.
+	1. Functional analysis (QA 300 .R446 1953 E3)
+	2. Integrals and operators (QA 312 .S4)
+	3. Functional operators. (QA 320 .V896f 1950)
+	4. Theory of functionals of integral and integro -differential equations. (QA 431 .V889t En36 1959)
+	5. Real analysis (QA 331.5 .R888 1968)
+	6. Théorie générale des fonctionnelles, (QA 331 .V889t)
+	7. Détermination des fonctions entières par interpolation, (QA 320 .G586)
+	8. Théorie des distributions. (QA 320 .Sch95)
+	9. Semi-ordered linear spaces. (QA 320 .N3)
+	10. Pages choisies d'analyse générale. (QA 300 .F871)
+
+Functional equations.
+	1. An essay toward a unified theory of special functions based upon the functional equation (QA 351 .T768)
+	2. Équations fonctionnelles relatives aux probabilités continues en chaîne, (QA 431 .H831)
+	3. The Cambridge colloquium, (QA 431 .A65 1916)
+
+Functions
+	1. Festschrift zur Gedächtnisfeier für Karl Weierstraus 1815-1965. (QA 7 .B419)
+	2. Elements of the integral calculus, (QA 308 .B991e)
+
+Functions -- Collected works.
+	1. Seminars on analytic functions. (QA 331 .C748)
+
+Functions of a complex variable
+	1. Functions of several complex variables, (QA 331 .B631f)
+
+Functions of complex variables -- Congresses.
+	1. Analytic functions, (QA 331 .C7481)
+
+Functions of complex variables.
+	1. Theorie der analytischen Funktionen einer komplexen Veränderlichen, (QA 331 .B395)
+	2. Analytic functions of several complex variables. (QA 331 .Si15)
+	3. Un demi-siècle (1907-1956) de notes, (QA 331 .D4161)
+	4. Complex function theory. (QA 331 .H4115)
+	5. Selected topics in the classical theory of functions of a complex variable. (QA 331 .H471 )
+	6. Lectures on functions of a complex variable, (QA 331 .K141L)
+	7. Topological methods in the theory of functions of a complex variable. (QA 331 .M837)
+	8. Gap and density theorems, (QA 404 .L578g)
+	9. Fourier transforms in the complex domain, (QA 404 .P175f)
+	10. Fonctions multivalentes, (QA 331 .B588)
+	11. Lezioni sulla teoria delle funzioni di una variabile complessa. (QA 331 .S228 )
+	12. Introduction to the theory of functions of a complex variable. (QA 331 .T416)
+	13. Several complex variables, (QA 331 .B631s)
+	14. Topological methods in the theory of functions of a complex variable. (QA 331 .M83 1947)
+
+Functions of real variables.
+	1. Moderna teoria delle funzioni di variabile reale (QA 401 .V831m)
+	2. Un demi-siècle (1907-1956) de notes, (QA 331 .D4161)
+	3. Singular integrals and differentiability properties of functions (QA 331.5 .S75)
+	4. Real analysis (QA 331.5 .R888 1968)
+	5. Vorlesungen über reelle Funktionen. (QA 331 .C176r 1927 )
+	6. Introduction à la théorie des fonctions de variables réelles, (QA 331 .D416)
+	7. A representation of a function of several variables by a finite number of powers with continuous coefficients / (QA 331.5 .H4)
+	8. The theory of real functions ... (QA 331.5 .S8)
+	9. Fonctions d'une variable réelle : (QA 331.5 .B734 1949)
+
+Functions of several complex variables.
+	1. The Madison Colloquium, 1913: I. On invariants and the theory of numbers, (QA 241 .Am35m)
+
+Functions, Abelian.
+	1. Funzioni abeliane modulari / (QA 345 .C6)
+
+Functions, Entire.
+	1. Leçons sur les fonctions entières, (QA 331 .B71 1900)
+	2. Les combinaisons exceptionelles des fonctions entières et les fonctions algébroïdes, (QA 351 .G4)
+
+Functions, Meromorphic.
+	1. The equidistribution theory of holomorphic curves. (QA 331 .W8)
+	2. Quelques classes de fonctions entières limites de polynomes et de fonctions méromorphes limites de fractions rationnelles, (QA 351 .O13)
+	3. ... Les fonctions méromorphes et leurs dérivées; (QA 55 .M623)
+
+Functions, Special.
+	1. The functions of mathematical physics. (QA 351 .H68)
+
+Functions, Zeta
+	1. The distribution of prime numbers / (QA 246 .In4d)
+
+Functions, Zeta -- Congresses.
+	1. Report. (QA 351 .I55 1956c)
+
+Functions.
+	1. Interpolation and approximation by rational functions in the complex domain / (QA 281 .W168i)
+	2. Leçons sur le calcul des coefficients d'une série trigonométrique enseignées à l'Univeristé Harvard, (QA 295 .D416)
+	3. Leçons d'analyse fonctionnelle, (QA 300 .R446)
+	4. Cours d'analyse mathématique. (QA 300 .V238)
+	5. Analytic functions of a complex variable, (QA 331 .C947a)
+	6. Conformal representation, (QA 360 .C176c En36)
+	7. Univalent functions and conformal mapping. (QA 360 .J52)
+	8. Theory of functionals of integral and integro -differential equations. (QA 431 .V889t En36 1959)
+	9. Leçons sur les principes topologiques de la théorie des fonctions analytiques, professées à la Sorbonne et à l'Université de Cernauti, (QA 611 .St66L)
+	10. Leçons sur les principes topologiques de la théorie des fonctions analytiques, professées à la Sorbonne et à l'Université de Cernauti. (QA 611 .St66L 1956)
+	11. Sur les valeurs exceptionnelles des fonctions méromorphes et de leurs dérivées, (QA 55 .V238)
+	12. Sur les classes de fonctions définies par des inégalites portant sur leurs derivées successives, (QA 331 .C24 1941)
+	13. Quelques classes de fonctions entières limites de polynomes et de fonctions méromorphes limites de fractions rationnelles, (QA 351 .O13)
+	14. La régularisation des fonctions, (QA 331 .M2712)
+	15. Vorlesungen über klassische Funktionentheorie / (QA 331 .B4)
+	16. On the measure of the critical values of functions / (QA 331 .S33)
+	17. Einführung in die Theorie der analytischen Funktionen einer komplexen Veränderlichen / (QA 331 .B918e 1912 )
+	18. Lectures by H. F. Bohnenblust on theory of functions of real variables, 1936-1937. (QA 331 .B634L)
+	19. The theory of functions, (QA 331 .T53t 1932)
+	20. Funktionentheorie. (QA 331 .K757f 1918 )
+	21. Lehrbuch der Funktionentheorie, (QA 331 .Os24L 1912 )
+	22. Contributions to function theory. (QA 331 .I56 1960 )
+	23. Obobshchennye funkt︠s︡ii. (QA 331 .O12)
+	24. Variétés différentielles et analytiques. (QA 331 .B68 1967 )
+
+Functor theory.
+	1. Introduction to algebraic K-theory, (QA 251.5 .M55 1971)
+
+Game theory -- Collected works
+	1. Advances in game theory (QA 269 .D773)
+
+Game theory -- Collected works.
+	1. Contributions to the theory of games. (QA 269 .K96)
+
+Games of strategy (Mathematics)
+	1. The theory of Max-Min and its application to weapons allocation problems (QA 270 .D35)
+
+Generalized spaces.
+	1. Differential geometry and symmetric spaces. (QA 641 .H454 1962)
+	2. Les espaces d'éléments à connexion projective normale, (QA 660 .H115)
+	3. Metric methods in Finsler spaces and in the foundations of geometry, (QA 689 .B962m)
+	4. Les espaces de Finsler, (QA 689 .C241es)
+	5. A theory of cross-spaces. (QA 689 .Sch18)
+	6. Lectures on differential geometry. (QA 689 .T367L)
+	7. Lectures by Marston Morse on analysis in the large, 1936-1937. (QA 315 .M837L)
+	8. Sur les espaces à structure uniforme et sur la topologie générale, (QA 689 .W429s)
+	9. Variationsrechnung im Grossen (QA 315 .S4 1971)
+
+Geometria Analitica -- larpcal
+	1. Studies in global geometry and analysis. (QA 641 .C54 1967)
+
+Geometria Diferencial -- larpcal
+	1. Studies in global geometry and analysis. (QA 641 .C54 1967)
+
+Geometry -- Foundations.
+	1. Metric methods in Finsler spaces and in the foundations of geometry, (QA 689 .B962m)
+	2. The foundations of differential geometry / (QA 681 .V49f)
+
+Geometry, Algebraic.
+	1. Ramification theoretic methods in algebraic geometry. (QA 564 .A147 )
+	2. Algebraic geometry and topology; (QA 564 .F793)
+	3. Géométrie algébrique. (QA 564 .G579)
+	4. Algebraic geometry. (QA 564 .L522a)
+	5. Singular points of complex hypersurfaces, (QA 564 .M53)
+	6. Algebraic curves. (QA 564 .W153)
+	7. Lectures by S. Lefschetz on algebraic geometry, 1936-[1938]... (QA 564 .L522L)
+	8. The theory of harmonic integrals and their applications to algebraic geometry / (QA 331 .K77)
+	9. Neue topologische Methoden in der algebraischen Geometrie. (QA 564 .H672)
+	10. Topics in algebraic and analytic geometry; (QA 564 .G66)
+
+Geometry, Analytic -- Plane.
+	1. Plane and solid analytic geometry, (QA 551 .Os3p )
+
+Geometry, Analytic -- Solid.
+	1. Plane and solid analytic geometry, (QA 551 .Os3p )
+
+Geometry, Analytic.
+	1. Plane analytic geometry (QA 552 .B65)
+	2. Analytische Geometrie. (QA 551 .B612)
+	3. Topics in algebraic and analytic geometry; (QA 564 .G66)
+
+Geometry, Differential
+	1. Theorie der konvexen Körper, (QA 649 .B643t)
+	2. Lie groups and differential geometry. (QA 385 .N799)
+
+Geometry, Differential -- Congresses.
+	1. Differential geometry : (QA 641 .S967 1960)
+
+Geometry, Differential.
+	1. Studies in global geometry and analysis. (QA 641 .C54 1967)
+	2. Morse theory. (QA 611 .M55 1963)
+	3. Einführung in die Differentialgeometrie. (QA 641 .B612e)
+	4. An introduction to differential geometry, (QA 641 .E54 1940)
+	5. Differential geometry, (QA 641 .G779d)
+	6. Differential geometry. (QA 641 .G942)
+	7. Differential geometry and symmetric spaces. (QA 641 .H454 1962)
+	8. Notes on differential geometry (QA 641 .H631 1971)
+	9. Foundations of differential geometry (QA 641 .K75 )
+	10. Elementary differential geometry. (QA 641 .O58)
+	11. Geodesics and curvature in differential geometry in the large, (QA 641 .R241)
+	12. Lectures on differential geometry. (QA 641 .S839)
+	13. Curvature and Betti numbers, (QA 645 .Y17)
+	14. Les méthodes directes en calcul des variations et en géométrie différentielle / (QA 641 .P281)
+	15. Morse theory and its application to homotopy theory / (QA 611 .B7512)
+	16. Differentialgeometrien in den Kugelräumen / (QA 641 .T17 )
+	17. Lectures on tensor analysis and differential geometry / (QA 433 .M3 )
+	18. Foundations of mechanics / (QA 805 .A159 1978)
+	19. Riemannian geometry, (QA 641 .Ei83 1926 )
+	20. Cours de géométrie différentielle locale. (QA 641 .F272)
+	21. The foundations of differential geometry / (QA 681 .V49f)
+	22. Morse theory / (QA 611 .M55 1969)
+	23. An introduction to differential geometry : (QA 641 .E54 1947)
+
+Geometry, Modern.
+	1. Lezioni di geometria moderna. (QA 473 .Se38 )
+	2. Geometry revisited, (QA 473 .C6)
+
+Geometry, Non-Euclidean.
+	1. Conformal representation, (QA 360 .C176c En36)
+
+Geometry, Plane.
+	1. Basic geometry, (QA 455 .B535b 1941 )
+
+Geometry, Projective.
+	1. Geometric algebra. (QA 685 .A791 )
+	2. Continuous geometry. (QA 471 .V896c 1960 )
+	3. Projektive Geometrie. (QA 471 .B644 1947)
+
+Geometry, Riemannian.
+	1. Geodesics and curvature in differential geometry in the large, (QA 641 .R241)
+	2. Conferenze di geometria : (QA 649 .B3)
+
+Geometry.
+	1. Introduction to higher geometry, (QA 445 .G779i)
+	2. A decision method for elementary algebra and geometry (QA 71 .T177)
+	3. New plane and solid geometry, (QA 453 .B5)
+
+Global analysis (Mathematics)
+	1. Studies in global geometry and analysis. (QA 641 .C54 1967)
+	2. Critical point theory in global analysis and differential topology; (QA 612 .M6)
+	3. Selected papers / (QA 3 .M714)
+	4. Global variational analysis : (QA 614.3 .M67)
+	5. Collected papers / (QA 3 .M7142 1987)
+	6. Global analysis: (QA 331 .G5 )
+	7. Publications of Marston Morris. (QA 3 .M7143 1916)
+
+Group theory.
+	1. On group-theoretic decision problems and their classification, (QA 171 .M48)
+	2. The theory of groups; (QA 171 .K966 E3 1955)
+	3. Order-preserving maps and integration processes. (QA 171 .M248)
+	4. The theory of groups, (QA 171 .R848)
+	5. The classical groups, (QA 385 .W54 1946)
+	6. The theory of groups. (QA 171 .Z19LE 1958)
+	7. Leçons sur le calcul des coefficients d'une série trigonométrique enseignées à l'Univeristé Harvard, (QA 295 .D416)
+	8. Topological transformation groups (QA 385 .M787)
+	9. Knots, groups, and 3-manifolds : (QA 612.2 .K66 1975)
+	10. Groups and their graphs, (QA 171 .G878 )
+	11. The theory of groups. (QA 171 .H178)
+	12. Lehrbuch der gruppentheorie (QA 171 .Z19L)
+	13. Die Theorie der Gruppen von endlicher Ordnung : (QA 171 .Sp32t 1937 )
+	14. Introduction to group theory (QA 171 .L47 1973)
+	15. Introduction to the theory of finite groups / (QA 171 .L498 1964)
+
+Gunnery.
+	1. Introductory artillery mathematics and antiaircraft mathematics, (UF 800 .L579i)
+	2. Elementary mathematics in artillery fire, (UF 800 .T364e )
+
+Gödel, Kurt.
+	1. Logical dilemmas : (QA 29 .G58 D39 1997)
+
+Hadamard, Jacques, -- 1865-1963.
+	1. Selecta; (QA 3 .H117 )
+
+Harmonic analysis.
+	1. Leçons d'analyse fonctionnelle, (QA 300 .R446)
+	2. Singular integrals and differentiability properties of functions (QA 331.5 .S75)
+	3. Topics in harmonic analysis, related to the Littlewood-Paley theory, (QA 403 .S8)
+	4. Introduction to Fourier analysis on Euclidean spaces, (QA 403 .S81)
+	5. Lectures on Fourier integrals; (QA 404 .B631v E3)
+	6. Gap and density theorems, (QA 404 .L578g)
+	7. Fourier transforms in the complex domain, (QA 404 .P175f)
+	8. Harmonic analysis on commutative groups with the Haar measure and the theory of characters / (QA 403 .R3)
+	9. An elementary treatise on Fourier's series (QA 403 .B991e )
+	10. Harmonic analysis and the theory of probability. (QA 404 .B631h)
+
+Harmonic functions.
+	1. Boundary behavior of holomorphic functions of several complex variables, (QA 331 .S8)
+	2. Introduction to Fourier analysis on Euclidean spaces, (QA 403 .S81)
+	3. Potential theory in modern function theory. (QA 825 .T882)
+	4. La notion de point irrégulier dans le problème de Dirichlet, (QA 405 .V334)
+
+Henderson, Archibald, -- 1877-1963. -- Bernard Shaw : playboy and prophet.
+	1. Archibald Henderson / (PR 5366 .H3 A75)
+
+Hilbert space.
+	1. Spectral theory in the Hilbert space. (QA 689 .N145s)
+	2. Introduction to Hilbert space and the theory of spectral multiplicity. (QA 691 .H162 1957)
+
+Holomorphic functions.
+	1. Boundary behavior of holomorphic functions of several complex variables, (QA 331 .S8)
+
+Holomorphic mappings.
+	1. Entire holomorphic mappings in one and several complex variables / (QA 331 .G753)
+
+Homology theory
+	1. Sur les difféomorphosmes de la sphère de dimension trois ... -- (QA 7 .L28 no.53)
+
+Homology theory.
+	1. Profinite groups, arithmetic, and geometry, (QA 171 .S585 )
+	2. Seminar on the Atiyah-Singer index theorem (QA 611 .P154)
+	3. Homology theory; (QA 612.3 .V5)
+	4. Curvature and homology. (QA 645 .G618 )
+	5. Lectures on characteristic classes. (QA 611 .M659)
+	6. Cohomology operations; (QA 611 .St321)
+
+Homotopy theory
+	1. Sur les difféomorphosmes de la sphère de dimension trois ... -- (QA 7 .L28 no.53)
+
+Homotopy theory.
+	1. Stable homotopy theory. (QA 7 .L28 no.3 1969)
+	2. An introduction to homotopy theory. (QA 611 .H566)
+	3. Homotopy theory (QA 611 .H861)
+	4. Morse theory. (QA 611 .M55 1963)
+	5. Composition methods in homotopy groups of spheres. (QA 611 .T633)
+	6. Torsion et type simple d'homotopie, (QA 7 .L28 no.48)
+	7. Morse theory and its application to homotopy theory / (QA 611 .B7512)
+	8. Variétés différentiables: (QA 611 .R468)
+	9. Morse theory / (QA 611 .M55 1969)
+
+Hyperspace
+	1. Theorie der konvexen Körper, (QA 649 .B643t)
+
+Hyperspace.
+	1. Linear transformations in Hilbert space and their applications to analysis, (QA 385 .St72L)
+	2. Linear transformations in n-dimensional vector space; (QA 601 .H175)
+	3. The foundations of differential geometry / (QA 681 .V49f)
+
+Implicit functions.
+	1. The Princeton Colloquium : (QA 331 .Am35p)
+
+Inequalities (Mathematics)
+	1. Isoperimetric inequalities in mathematical physics / (QA 295 .P768)
+
+Integral equations.
+	1. Gap and density theorems, (QA 404 .L578g)
+	2. Fourier transforms in the complex domain, (QA 404 .P175f)
+	3. The logarithmic potential, discontinuous Dirichlet and Neumann problems, (QA 431 .Ev15L)
+	4. Linear integral equations, (QA 431 .L949L)
+	5. Theory of functionals of integral and integro -differential equations. (QA 431 .V889t En36 1959)
+	6. Théorie générale des fonctionnelles, (QA 331 .V889t)
+	7. The Cambridge colloquium, (QA 431 .A65 1916)
+
+Integrals, Generalized.
+	1. Leçons sur l'intégration et la recherche des fonctions primitives, (QA 312 .L492L)
+	2. Integrals and operators (QA 312 .S4)
+	3. Geometric integration theory. (QA 312 .W617)
+	4. Fonctions d'intervalle non additives, (QA 331.5 .K32)
+	5. Vector measures, (QA 322 .D583)
+	6. Integration, (QA 312 .M3 1944)
+
+Integrals.
+	1. Order-preserving maps and integration processes. (QA 171 .M248)
+	2. A short table of integrals, (QA 310 .P353s 1929)
+	3. Measure and integration (QA 312 .B484 1965)
+	4. Lectures on Fourier integrals; (QA 404 .B631v E3)
+	5. The theory of harmonic integrals and their applications to algebraic geometry / (QA 331 .K77)
+	6. Lezioni sulla teoria moderna dell'integrazione (QA 308 .P55)
+	7. The theory and applications of harmonic integrals / (QA 312 .H664t )
+	8. Integration. (QA 312 .B649 1952)
+
+Interpolation.
+	1. Interpolation and approximation by rational functions in the complex domain / (QA 281 .W168i)
+	2. Détermination des fonctions entières par interpolation, (QA 320 .G586)
+
+Invariants.
+	1. The Madison Colloquium, 1913: I. On invariants and the theory of numbers, (QA 241 .Am35m)
+	2. Elementary theory of invariants / (QA 201 .W48)
+	3. Lectures by Hermann Weyl on Theory of invariants, (QA 201 .W54)
+
+Inventions.
+	1. An essay on the psychology of invention in the mathematical field, (QA 9 .H117 1945)
+
+Jacobi varieties.
+	1. Lectures on Riemann surfaces, Jacobi varieties, (QA 333 .G9762 1972)
+
+Kinematic geometry.
+	1. Ebene Kinematik; (QA 623 .B645)
+
+Knot theory.
+	1. Knot groups, (QA 611 .N498)
+	2. Knots, groups, and 3-manifolds : (QA 612.2 .K66 1975)
+	3. Introduction to knot theory, (QA 614.5 .K72 C9)
+	4. Braids, links, and mapping class groups / (QA 612.23 .B57 )
+
+L-functions.
+	1. Lectures on p-adic L-functions. (QA 247 .I95)
+
+Laplace transformation.
+	1. The Laplace transform, (QA 432 .W5)
+
+Lefschetz, Solomon, -- 1884-1972.
+	1. Algebraic geometry and topology; (QA 564 .F793)
+
+Lie algebras.
+	1. Lie equations, (QA 387 .K85 )
+	2. Groupes et algèbres de Lie / (QA 387 .B687 1972)
+
+Lie groups.
+	1. Lie equations, (QA 387 .K85 )
+	2. Topics in harmonic analysis, related to the Littlewood-Paley theory, (QA 403 .S8)
+	3. Strong rigidity of locally symmetric spaces, (QA 649 .M78 )
+	4. Groupes et algèbres de Lie / (QA 387 .B687 1972)
+
+Linear algebraic groups.
+	1. Automorphic forms on Adele groups / (QA 171 .G39 1975)
+	2. The discrete series of GLn over a finite field. (QA 171 .L848)
+
+Linear programming
+	1. Flows in networks, (QA 265 .F711)
+
+Linear topological spaces.
+	1. Modulared semi-ordered linear spaces. (QA 689 .N145)
+
+Logarithms.
+	1. Brief trigonometry; (QA 533 .C853)
+	2. Plane trigonometry, (QA 533 .L35)
+	3. Five-place logarithms. (QA 55 .J77 1920)
+
+Logic -- Collections.
+	1. Classics in logic; (BC 6 .R941)
+
+Logic, Symbolic and mathematical
+	1. The consistency of the axiom of choice and of the generalized continuum-hypothesis with the axioms of set theory. (QA 9 .G542)
+
+Logic, Symbolic and mathematical.
+	1. Introduction to mathematical logic. (BC 135 .C473in )
+	2. The two-valued iterative systems of mathematical logic, (BC 135 .P845t )
+	3. On group-theoretic decision problems and their classification, (QA 171 .M48)
+	4. Continuous model theory, (QA 9 .C456 )
+	5. Set theory and the continuum hypothesis (QA 9 .C678 )
+	6. First order mathematical logic. (QA 9 .M327)
+	7. A decision method for elementary algebra and geometry (QA 71 .T177)
+	8. Fundamentals of mathematics; (QA 9 .R58 1940)
+	9. Mathematical logic : (BC 135 .C474)
+	10. Logical calculus / (QA 9 .B4)
+	11. ... Théorie générale des structures, (QA 171 .G561)
+
+Logic.
+	1. The calculi of Lambda-conversion. (BC 135 .C473)
+
+Logicians -- Austria -- Biography.
+	1. Logical dilemmas : (QA 29 .G58 D39 1997)
+
+Logicians -- United States -- Biography.
+	1. Logical dilemmas : (QA 29 .G58 D39 1997)
+
+Manifolds (Mathematics)
+	1. Surgery on compact manifolds (QA 613 .W35)
+	2. Smoothings of piecewise linear manifolds, (QA 613.4 .H57)
+	3. 3-manifolds / (QA 613 .H45 1976)
+	4. Foundational essays on topological manifolds, smoothings, and triangulations / (QA 613 .K57 )
+
+Manifolds (Mathematics).
+	1. Differential manifolds; (QA 611 .C5211)
+
+Markov processes.
+	1. Lectures on boundary theory for Markov chains, (QA 273 .C5592 )
+
+Matematica -- larpcal
+	1. Length and area. (QA 611 .R3 1948)
+
+Mathematical analysis -- Foundations.
+	1. Foundations of modern analysis. (QA 300 .D567)
+
+Mathematical analysis.
+	1. Contributions to analysis: (QA 300 .C64)
+	2. Éléments d'analyse ... (QA 300 .D567 F5)
+	3. Analysis II. (QA 300 .L271)
+	4. Problems in analysis: (QA 300 .P9623)
+	5. Principles of mathematical analysis. (QA 300 .R834 1964)
+	6. Topological analysis. (QA 611 .W622 1964)
+	7. Convex analysis, (QA 643 .R6 )
+	8. Introduction to analysis in the large. (QA 315 .M837 1951)
+	9. Analysis I. (QA 300 .L27 )
+	10. Studies in modern analysis. (QA 321 .B83 1962)
+
+Mathematical physics.
+	1. Isoperimetric inequalities in mathematical physics / (QA 295 .P768)
+
+Mathematical recreations.
+	1. Mathematical snapshots. (QA 7 .St35m En36 1960 )
+	2. The enjoyment of mathematics; (QA 95 .R127 )
+
+Mathematical statistics.
+	1. Stationary processes and prediction theory. (QA 273 .F991)
+	2. Mathematical methods of statistics / (QA 276 .C848m)
+	3. Les fondements expérimentaux de l'analyse mathématique des faits statistiques / (QA 276 .H795)
+	4. La dépendance statistique: (QA 273 .O581)
+	5. The theory of statistical inference. (QA 276 .Z26)
+
+Mathematicians -- France.
+	1. Hommes, formes et le nombre; (QA 27 .F8 D46 1964)
+
+Mathematicians.
+	1. L'école mathèmatique de Bologne; (QA 27 .I8 B678 1928)
+
+Mathematics
+	1. Studies and essays presented to R. Courant on his 60th birthday, Jan. 8, 1948. (QA 7 .S78 1948)
+
+Mathematics -- Congresses -- Periodicals.
+	1. Proceedings of the International Mathematical Congress held ... (QA 1 .In81)
+
+Mathematics -- Congresses.
+	1. Prospects in mathematics, (QA 1 .P79)
+
+Mathematics -- France -- History.
+	1. Hommes, formes et le nombre; (QA 27 .F8 D46 1964)
+
+Mathematics -- History.
+	1. A history of mathematics in America before 1900, (QA 27 .Un3 Sm54h)
+	2. L'école mathèmatique de Bologne; (QA 27 .I8 B678 1928)
+
+Mathematics -- Periodicals.
+	1. Bulletin of the Institute of Mathematics, Academia Sinica. (QA 1 .C4)
+	2. Mémorial des sciences mathématiques. (QA 1 .M51)
+
+Mathematics -- Philosophy
+	1. The consistency of the axiom of choice and of the generalized continuum-hypothesis with the axioms of set theory. (QA 9 .G542)
+
+Mathematics -- Philosophy.
+	1. An essay on the psychology of invention in the mathematical field, (QA 9 .H117 1945)
+	2. Philosophy of mathematics and natural science. (QA 9 .W546E )
+	3. Fundamentals of mathematics; (QA 9 .R58 1940)
+	4. Logical calculus / (QA 9 .B4)
+	5. La science et l'hypothése / (Q 175 .P75 1927)
+
+Mathematics -- Popular works -- Popular works.
+	1. Mathematical snapshots. (QA 7 .St35m En36 1960 )
+
+Mathematics -- Societies.
+	1. Semicentennial publications ... (QA 1 .Am36a)
+
+Mathematics -- Study and teaching -- Japan.
+	1. Divisional reports on present tendencies in the development of mathematical teaching in Japan / (QA 14 .J3 J3)
+
+Mathematics -- Tables.
+	1. Barlow's Tables of squares, cubes, square roots, cube roots and reciprocals (QA 47 .B249b 1941 )
+	2. Handbook of mathematical tables and formulas, (QA 47 .B917 1940)
+
+Mathematics.
+	1. What is Mathematics? (QA 9 .C833w )
+	2. Selected papers / (QA 3 .M714)
+	3. Colloque consacré à la théorie des probabilités (QA 273 .C698)
+	4. Scritti matematici offerti a Mauro Picone nel suo 90 ̊compleanno. (QA 7 .S385 1975)
+	5. Nécessaire mathématique, (QA 37 .C926)
+	6. Introductory artillery mathematics and antiaircraft mathematics, (UF 800 .L579i)
+	7. Mathematics for scientists (QA 37 .B166)
+	8. Fundamentals of freshman mathematics [by] C. B. Allendoerfer [and] C. O. Oakley. (QA 37 .AL541)
+	9. Mathematical statistics. (HA 29 .R447m )
+	10. Elementary mathematics in artillery fire, (UF 800 .T364e )
+	11. Fundamentals of mathematics, (QA 9 .R58 1941)
+	12. Collected papers / (QA 3 .M7142 1987)
+	13. Selecta; (QA 3 .H117 )
+	14. Monografie matematyczne. (QA 1 .M755)
+	15. Publications of Marston Morris. (QA 3 .M7143 1916)
+	16. A mathematician's apology / (QA 7 .H3 1969)
+
+Matrices.
+	1. Les fonctions de matrices. (QA 263 .Sch99)
+
+Matrix mechanics.
+	1. Mathematical foundations of quantum mechanics. (QC 174.3 .V896mE )
+
+Matter -- Constitution.
+	1. Principles of modern physics. (QC 173 .F7217)
+
+Maxima and minima.
+	1. The theory of Max-Min and its application to weapons allocation problems (QA 270 .D35)
+	2. Variational analysis : (QA 316 .M58 2007)
+
+Measure theory.
+	1. Measure and integration (QA 312 .B484 1965)
+	2. Real analysis (QA 331.5 .R888 1968)
+	3. Vector measures, (QA 322 .D583)
+
+Mechanics, Analytic.
+	1. Foundations of mechanics / (QA 805 .A159 1978)
+	2. Theoretical mechanics, (QA 805 .Sm63t)
+	3. Mécanique analytique et théorie des quanta / (QA 805 .J984 1926)
+
+Mechanics, Applied.
+	1. Mathematical engineering analysis. (TA 350 .O47)
+
+Mesure, Théorie de la.
+	1. Real analysis (QA 331.5 .R888 1968)
+
+Metamathematics.
+	1. Theory of formal systems. (QA 248.5 .S666 1961b)
+
+Modular functions
+	1. Lectures by Erich Hecke on Dirichlet series, modular functions and quadratic form ; (QA 37 .H355L)
+
+Modular functions.
+	1. Lectures on modular forms. (QA 244 .G976)
+
+Modules (Algebra)
+	1. Algebra (QA 247 .F172)
+
+Monotone operators.
+	1. Variational method and method of monotone operators in the theory of nonlinear equations (QA 372 .V3213)
+
+Morse theory.
+	1. An introduction to Morse theory / (QA 331 .M442713 2002)
+
+Morse, Marston, -- 1892-
+	1. Collected papers / (QA 3 .M7142 1987)
+	2. Publications of Marston Morris. (QA 3 .M7143 1916)
+	3. Testimoni dello spirito : (Z 41 .A3 T47 1979)
+
+Morse, Marston, -- 1892- -- Bibliography.
+	1. Collected papers / (QA 3 .M7142 1987)
+
+Morse, Marston, -- 1892-1977.
+	1. Marston Morse and his mathematical works / (QA 300 .B65)
+	2. Pits, peaks and passes (QA 611 .M66 2000)
+
+Music -- Philosophy and aesthetics.
+	1. Aesthetic measure, (BH 201 .B535a)
+
+Münster in Westfalen (Germany) -- Palaces.
+	1. Das Schloss zu Münster : (DD 901 .M696 B4 1952)
+
+National Science Foundation (U.S.)
+	1. An investment in knowledge; (Q 181 .K74)
+
+Neumann problem.
+	1. The Neumann problem for the Cauchy-Riemann complex, (QA 374 .F55)
+	2. Estimates for the [delta bar]-Neumann problem / (QA 374 .G73 1977)
+
+Nomography (Mathematics)
+	1. Structure générale des nomogrammes et des systèmes nomographiques, (QA 90 .L3)
+
+Nuclear physics.
+	1. Nuclear physics / (QC 173 .W639n)
+
+Number theory.
+	1. The theory of numbers / (QA 241 .C212t)
+	2. Disquisitiones arithmeticae / (QA 241 .G274 E3)
+	3. Elementary theory of numbers. (QA 241 .G875)
+	4. Proceedings. (QA 247 .I61)
+	5. The Madison Colloquium, 1913: I. On invariants and the theory of numbers, (QA 241 .Am35m)
+	6. Lectures by Godfrey H. Hardy on the mathematical work of Ramanujan, fall term 1936. / (QA 29 .R3 H2 1937)
+	7. Elementary theory of numbers. (QA 1 .M755 t.42)
+	8. Invitation to number theory / (QA 241 .O68 1967)
+	9. Invitation to number theory / (QA 241 .O68 1967)
+
+Numbers, Prime
+	1. The distribution of prime numbers / (QA 246 .In4d)
+
+Numbers, Prime.
+	1. Tauberian theorems. (QA 295 .P688)
+
+Numerical analysis.
+	1. Degree of approximation by polynomials in the complex domain / (QA 281 .Se89d)
+	2. The theory of approximation, (QA 221 .J133)
+
+Numerical calculations.
+	1. Existence theorems in partial differential equations. (QA 374 .B458)
+
+Orbits.
+	1. A treatise on the analytical dynamics of particles and rigid bodies: (QA 845 .W617t 1917)
+
+Oscillations.
+	1. Introduction to non-linear mechanics, (QA 871 .K949i En36)
+	2. Contributions to the theory of nonlinear oscillations (QA 871 .L522)
+
+Patents -- United States -- Periodicals.
+	1. Journal of the Franklin Institute. (T 1 .F854j)
+
+Paul -- VI, -- Pope, -- 1897-1978.
+	1. Testimoni dello spirito : (Z 41 .A3 T47 1979)
+
+Physics.
+	1. Introduction to theoretical physics, (QC 21 .SL15i )
+
+Picard, Emile, -- 1856-1941.
+	1. Centenaire de la naissance de Émile Picard. (QA 29 .P68 C4)
+
+Picone, Mauro, -- 1885-1977.
+	1. Scritti matematici offerti a Mauro Picone nel suo 90 ̊compleanno. (QA 7 .S385 1975)
+
+Piecewise linear topology.
+	1. Smoothings of piecewise linear manifolds, (QA 613.4 .H57)
+	2. Foundational essays on topological manifolds, smoothings, and triangulations / (QA 613 .K57 )
+
+Plane trigonometry.
+	1. Brief trigonometry; (QA 533 .C853)
+
+Poetry.
+	1. Aesthetic measure, (BH 201 .B535a)
+
+Polyhedra.
+	1. Vorlesungen über die theorie der polyeder, unter einschluss der elemente der topologie, (QA 611 .St35v)
+
+Polynomials.
+	1. Degree of approximation by polynomials in the complex domain / (QA 281 .Se89d)
+
+Positrons.
+	1. The theory of the positron and related topics : (QC 793.5 .P622 P38)
+
+Potential theory (Mathematics)
+	1. The logarithmic potential, discontinuous Dirichlet and Neumann problems, (QA 431 .Ev15L)
+	2. Potential theory in modern function theory. (QA 825 .T882)
+	3. La notion de capacité, (QA 825 .V3)
+	4. Foundations of potential theory. (QA 825 .K293f 1953)
+	5. Théorie du potentiel Newtonien : (QA 825 .P75 1899)
+
+Probabilities.
+	1. Stationary processes and prediction theory. (QA 273 .F991)
+	2. On the principles of statistical inference ; (QA 273 .W142o)
+	3. Équations fonctionnelles relatives aux probabilités continues en chaîne, (QA 431 .H831)
+	4. Les probabilités associées à un système d'événements compatibles et dépendants ... (QA 273 .F871p)
+	5. Colloque consacré à la théorie des probabilités (QA 273 .C698)
+	6. Lectures (QA 273 .W737L)
+	7. La probabilité dans les différentes branches de la science, (QA 273 .C278)
+	8. Base physique et base mathématique de la théorie des probabilités (QA 273 .C648)
+	9. La dépendance statistique: (QA 273 .O581)
+	10. Calcul des probabilités. (QA 273 .P755)
+	11. Harmonic analysis and the theory of probability. (QA 404 .B631h)
+	12. Probability; a survey of the mathematical theory. (QA 273 .L26)
+
+Projectiles.
+	1. Balistique extérieure, (UF 820 .B6)
+
+Projective differential geometry.
+	1. Les espaces d'éléments à connexion projective normale, (QA 660 .H115)
+	2. Lectures on differential geometry. (QA 689 .T367L)
+
+Proportion (Art)
+	1. Aesthetic measure, (BH 201 .B535a)
+	2. Symmetry. (N 76 .W546)
+
+Psychology.
+	1. An essay on the psychology of invention in the mathematical field, (QA 9 .H117 1945)
+
+Quantum field theory -- Societies, etc.
+	1. Les problèmes mathématiques de la théorie quantique des champs, (QC 174.45 .F7)
+
+Quantum theory.
+	1. Principles of modern physics. (QC 173 .F7217)
+	2. Mécanique analytique et théorie des quanta / (QA 805 .J984 1926)
+
+Ramanujan Aiyangar, Srinivasa, -- 1887-1920.
+	1. Lectures by Godfrey H. Hardy on the mathematical work of Ramanujan, fall term 1936. / (QA 29 .R3 H2 1937)
+
+Recursive functions.
+	1. Degrees of unsolvability. (QA 248.5 .S121 )
+	2. Theory of formal systems. (QA 248.5 .S666 1961b)
+
+Relativity (Physics)
+	1. Principles of modern physics. (QC 173 .F7217)
+
+Representations of groups.
+	1. Automorphic forms on Adele groups / (QA 171 .G39 1975)
+	2. The discrete series of GLn over a finite field. (QA 171 .L848)
+	3. Braids, links, and mapping class groups / (QA 612.23 .B57 )
+
+Research -- United States.
+	1. Science, government, and the universities. (Q 180 .Un3 N277)
+
+Riemann surfaces -- Congresses.
+	1. Advances in the theory of Riemann surfaces; (QA 333 .A35 1971 )
+	2. Discontinuous groups and Riemann surfaces; (QA 333 .D57 1973)
+
+Riemann surfaces.
+	1. Contributions to the theory of Riemann surfaces; (QA 333 .Ah48)
+	2. Riemann surfaces, (QA 333 .Ah481)
+	3. Lectures on Riemann surfaces, (QA 333 .G976)
+	4. Die Idee der Riemannschen Fläche. (QA 333 .W546 1955)
+	5. Leçons sur les principes topologiques de la théorie des fonctions analytiques, professées à la Sorbonne et à l'Université de Cernauti, (QA 611 .St66L)
+	6. Leçons sur les principes topologiques de la théorie des fonctions analytiques, professées à la Sorbonne et à l'Université de Cernauti. (QA 611 .St66L 1956)
+	7. Curvature and homology. (QA 645 .G618 )
+	8. Lectures on vector bundles over Riemann surfaces, (QA 333 .G9761)
+	9. Lectures on Riemann surfaces, Jacobi varieties, (QA 333 .G9762 1972)
+	10. On deformations of complex analytic structures / (QA 333 .K77)
+	11. Riemannian geometry, (QA 641 .Ei83 1926 )
+	12. The theory and applications of harmonic integrals / (QA 312 .H664t )
+	13. Functionals of finite Riemann surfaces, (QA 333 .Sch32f)
+
+Riemannian manifolds.
+	1. Strong rigidity of locally symmetric spaces, (QA 649 .M78 )
+
+Rings (Algebra)
+	1. Algebra (QA 247 .F172)
+
+Scattering (Mathematics)
+	1. Scattering theory for automorphic functions / (QA 353 .A9 L39 1976)
+
+Science -- Methodology.
+	1. Science et méthode, (Q 175 .P76 1927)
+
+Science -- Periodicals.
+	1. Journal of the Franklin Institute. (T 1 .F854j)
+	2. Journal of the Franklin Institute. (T 1 .F854j)
+
+Science -- Philosophy.
+	1. Philosophy of mathematics and natural science. (QA 9 .W546E )
+	2. La science et l'hypothése / (Q 175 .P75 1927)
+
+Science -- Study and teaching (Secondary) -- United States.
+	1. An investment in knowledge; (Q 181 .K74)
+
+Science -- Study and teaching -- United States.
+	1. Science, government, and the universities. (Q 180 .Un3 N277)
+
+Science and state -- United States.
+	1. Science, government, and the universities. (Q 180 .Un3 N277)
+
+Science.
+	1. Science in the making. (Q 175 .H642)
+
+Semigroups.
+	1. Topics in harmonic analysis, related to the Littlewood-Paley theory, (QA 403 .S8)
+
+Series, Infinite.
+	1. Interpolation and approximation by rational functions in the complex domain / (QA 281 .W168i)
+	2. Leçons sur le calcul des coefficients d'une série trigonométrique enseignées à l'Univeristé Harvard, (QA 295 .D416)
+	3. Tauberian theorems. (QA 295 .P688)
+	4. Sur les théorèmes inverses des procédés de sommabilité, (QA 295 .K3)
+
+Series, Taylor's.
+	1. L'ultraconvergence dans les séries de Taylor, (QA 306 .B6)
+
+Series.
+	1. Typical means / (QA 295 .C361)
+	2. ... Étude des sommes d'exponentielles réelles / (QA 295 .Sch95)
+
+Set theory.
+	1. Set theory and the continuum hypothesis (QA 9 .C678 )
+	2. Introduction to general topology, (QA 248 .Si17z En36)
+	3. Dimensionstheorie, (QA 445 .M525d)
+	4. Set topology (QA 611 .V191)
+	5. Propriétés des espaces abstraits les plus généraux ... (QA 248 .Ap48)
+	6. La notion de capacité, (QA 825 .V3)
+	7. The theory of real functions ... (QA 331.5 .S8)
+	8. Mengenlehre, (QA 248 .H294m 1927 )
+	9. Introduction to the theory of sets and topology / (QA 248 .S467 1962)
+
+Ship models -- Testing.
+	1. Structural models; (VM 1 .U581 no. 13)
+
+Singular integrals.
+	1. Singular integrals and differentiability properties of functions (QA 331.5 .S75)
+
+Singularities (Mathematics)
+	1. Normal two-dimensional singularities, (QA 331 .L26 )
+
+Spectral theory (Mathematics)
+	1. Modulared semi-ordered linear spaces. (QA 689 .N145)
+	2. Modern spectral theory. (QA 689 .N145m)
+	3. Spectral theory in the Hilbert space. (QA 689 .N145s)
+	4. Théories spectrales. (QA 280 .B658 )
+
+Sphere.
+	1. Composition methods in homotopy groups of spheres. (QA 611 .T633)
+
+Stability.
+	1. Problème général de la stabilité du mouvement, (QA 871 .L613)
+	2. Symbolic dynamics : (QA 845 .M886)
+	3. Stability in nonlinear control systems. (TJ 213 .L649)
+
+Stationary processes.
+	1. Stationary stochastic processes. (QA 273 .H643)
+
+Statistics.
+	1. On the principles of statistical inference ; (QA 273 .W142o)
+	2. Mathematical statistics. (HA 29 .R447m )
+
+Surfaces, Algebraic.
+	1. Lectures on curves on an algebraic surface. (QA 641 .M962)
+
+Surfaces, Representation of.
+	1. The kernel function and conformal mapping. (QA 360 .B454)
+	2. Conformal representation, (QA 360 .C176c En36)
+
+Surfaces.
+	1. Surface area. (QA 571 .C421)
+	2. On the problem of Plateau, (QA 641 .R119o)
+
+Surgery (Topology)
+	1. Surgery on compact manifolds (QA 613 .W35)
+
+Symmetric spaces.
+	1. Strong rigidity of locally symmetric spaces, (QA 649 .M78 )
+
+Technology -- Periodicals.
+	1. Journal of the Franklin Institute. (T 1 .F854j)
+	2. Journal of the Franklin Institute. (T 1 .F854j)
+
+Teoria Dos Grupos -- larpcal
+	1. The theory of groups. (QA 171 .H178)
+
+Three-body problem.
+	1. Vorlesungen über Himmelsmechanik. (QB 351 .S5711)
+	2. A treatise on the analytical dynamics of particles and rigid bodies: (QA 845 .W617t 1917)
+
+Three-manifolds (Topology)
+	1. Knots, groups, and 3-manifolds : (QA 612.2 .K66 1975)
+
+Tonelli, Leonida, -- 1885-1946.
+	1. Leonida Tonelli, in memoriam / (QA 29 .T6 P5)
+
+Topologia Algebrica -- larpcal
+	1. Algebraic topology, (QA 611 .L522a)
+
+Topological dynamics.
+	1. Flows on homogeneous spaces / (QA 611.5 .A932)
+
+Topologie.
+	1. Differential and combinatorial topology; (QA 611 .C1361)
+
+Topology
+	1. The topology of fibre bundles / (QA 611 .St32)
+	2. Topological dynamics, (QA 611 .G687)
+	3. Seminar on convex sets, 1949-1950 / (QA 253 .B317)
+
+Topology -- Congresses.
+	1. Symposium on Infinite Dimensional Topology / (QA 611 .A1 S96 1967)
+	2. Differential geometry : (QA 641 .S967 1960)
+	3. General topology and its relations to modern analysis and algebra; (QA 611 .S988 1961)
+
+Topology.
+	1. The topology of the calculus of variations in the large / (QA 316 .L7832)
+	2. General topology. (QA 611 .B65913 1966)
+	3. Introduction to general topology, (QA 248 .Si17z En36)
+	4. Topological methods in the theory of functions of a complex variable. (QA 331 .M837)
+	5. Riemann surfaces, (QA 333 .Ah481)
+	6. Topological transformation groups (QA 385 .M787)
+	7. Topological groups, (QA 385 .P818 E3)
+	8. Dimension theory, (QA 445 .H938d)
+	9. Dimensionstheorie, (QA 445 .M525d)
+	10. Algebraic geometry and topology; (QA 564 .F793)
+	11. Elementary topology; (QA 611 .B47)
+	12. Introductory topology. (QA 611 .C136)
+	13. Differential and combinatorial topology; (QA 611 .C1361)
+	14. Foundations of algebraic topology, (QA 611 .Ei54)
+	15. Measure theory. (QA 611 .H162)
+	16. Topology, (QA 611 .H685)
+	17. General topology. (QA 611 .K287)
+	18. Algebraic topology, (QA 611 .L522a)
+	19. Topics in topology, (QA 611 .L522t)
+	20. Lectures by Walther Mayer. (QA 611 .M452L)
+	21. Introduction to topology. (QA 611 .M537 1968)
+	22. Foundations of combinatorial topology. (QA 611 .P779fE)
+	23. Lehrbuch der Topologie / (QA 611 .Se42L)
+	24. Leçons sur les principes topologiques de la théorie des fonctions analytiques, professées à la Sorbonne et à l'Université de Cernauti, (QA 611 .St66L)
+	25. Leçons sur les principes topologiques de la théorie des fonctions analytiques, professées à la Sorbonne et à l'Université de Cernauti. (QA 611 .St66L 1956)
+	26. Topology Seminar, Wisconsin, 1965. (QA 611 .T676 1965)
+	27. Set topology (QA 611 .V191)
+	28. Analysis situs, (QA 611 .V49)
+	29. Topological analysis. (QA 611 .W622 1964)
+	30. Topological structures / (QA 611.5 .T416)
+	31. Foundations of differential geometry (QA 641 .K75 )
+	32. Les espaces d'éléments à connexion projective normale, (QA 660 .H115)
+	33. Continuous geometry. (QA 471 .V896c 1960 )
+	34. Elementary topology (QA 611 .H175)
+	35. Topologie, (QA 611 .AL25t)
+	36. Vorlesungen über die theorie der polyeder, unter einschluss der elemente der topologie, (QA 611 .St35v)
+	37. Sur les espaces à structure uniforme et sur la topologie générale, (QA 689 .W429s)
+	38. Convergence and uniformity in topology, (QA 611 .T819c)
+	39. Elementary topology / (QA 611 .T892)
+	40. Introduction to topology. (QA 611 .L522)
+	41. Théorie des distributions. (QA 320 .Sch95)
+	42. Variétés différentiables: (QA 611 .R468)
+	43. Sur les espaces fibres et les variétés feuilletées, (QA 611 .W95)
+	44. Topology, (QA 611 .L5221 1930)
+	45. Introductory topology. (QA 611 .C136 1968)
+	46. Topology and linear topological spaces. (QA 611 .N3)
+	47. Differential manifolds; (QA 611 .C5211)
+	48. L'intégration dans les groupes topologiques et ses applications / (QA 611 .W429i)
+	49. Collected papers / (QA 3 .M7142 1987)
+	50. Topologie générale / (QA 611 .B659 1940)
+	51. Espaces vectoriels topologiques. (QA 322 .B67 1953)
+	52. Length and area. (QA 611 .R3 1948)
+	53. Publications of Marston Morris. (QA 3 .M7143 1916)
+	54. Introduction to the theory of sets and topology / (QA 248 .S467 1962)
+	55. The Cambridge colloquium, (QA 431 .A65 1916)
+	56. Topological methods in the theory of functions of a complex variable. (QA 331 .M83 1947)
+	57. Pits, peaks and passes (QA 611 .M66 2000)
+
+Transformations (Mathematics)
+	1. Tauberian theorems. (QA 295 .P688)
+	2. Topological transformation groups (QA 385 .M787)
+	3. Linear transformations in Hilbert space and their applications to analysis, (QA 385 .St72L)
+	4. Seminar on transformation groups. (QA 601 .B731 )
+	5. Linear transformations in n-dimensional vector space; (QA 601 .H175)
+	6. The convolution transform, (QA 601 .H669)
+	7. Geometric transformations. (QA 601 .I11 E3)
+	8. Finite dimensional vector spaces / (QA 433 .H325 1948)
+
+Triangulating manifolds.
+	1. Foundational essays on topological manifolds, smoothings, and triangulations / (QA 613 .K57 )
+
+Trigonometry.
+	1. Plane and spherical trigonometry, (QA 531 .B34 1917)
+	2. Plane trigonometry, (QA 533 .L35)
+	3. Plane and spherical trigonometry, (QA 531 .P226p 1918)
+
+Typology.
+	1. Un demi-siècle (1907-1956) de notes, (QA 331 .D4161)
+
+Value distribution theory.
+	1. The equidistribution theory of holomorphic curves. (QA 331 .W8)
+
+Vector analysis.
+	1. Vector analysis; (QA 261 .C654v)
+	2. Cálculo vectorial : (QA 261 .M6)
+	3. Vector analysis; (QA 261 .G4 1913)
+	4. Espaces vectoriels topologiques. (QA 322 .B67 1953)
+	5. Introduction au calcul tensoriel et au calcul différentiel absolu / (QA 311 .J884 1922)
+	6. Finite dimensional vector spaces / (QA 433 .H325 1948)
+
+Wave mechanics.
+	1. Grundlagen der Atomphysik : (QC 173 .B326 )
+
+Weierstrass, Karl, -- 1815-1897.
+	1. Festschrift zur Gedächtnisfeier für Karl Weierstraus 1815-1965. (QA 7 .B419)
+
